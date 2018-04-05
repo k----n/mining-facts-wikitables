@@ -19,5 +19,6 @@ def import_tables(article, lang="en"):
         for idx, table in enumerate(raw_tables):
             name = '%s[%s]' % (page['title'],idx)
             yield WikiTable(name, table)
+            print(name)
 
-    return [x.flag for x in _table_gen() if not x.flag]
+    return [x for x in _table_gen() if not x.flag]

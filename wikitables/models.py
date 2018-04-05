@@ -1,5 +1,7 @@
 import json
 import logging
+import mwclient
+import mwparserfromhell
 from mwparserfromhell.nodes.tag import Tag
 from mwparserfromhell.nodes.template import Template
 from mwparserfromhell.nodes.wikilink import Wikilink
@@ -9,6 +11,8 @@ from wikitables.util import TableJSONEncoder, ftag, ustr, guess_type
 log = logging.getLogger('wikitables')
 
 ignore_attrs = [ 'group="Note"' ]
+
+site = mwclient.Site('en.wikipedia.org')
 
 class Field(object):
     """
@@ -47,10 +51,16 @@ class Field(object):
         if isinstance(node, Tag):
             if self._exlude_tag(node):
                 return ''
-            return node.contents.strip_code()
+            try:
+                string = list()
+                for n in node.contents.nodes:
+                    string.append(self._read_part(n))
+                return ' '.join(string)
+            except:      
+                return node.contents.strip_code()
         if isinstance(node, Wikilink):
-            if node.text:
-                return node.text
+            #if node.text:
+            #    return node.text
             return node.title
         return node
 
@@ -77,6 +87,24 @@ class Field(object):
                 return True
             except ValueError:
                 return False
+
+        # expand the template using Wikipedia API and get the link if flag
+        if node.name == 'flagicon' or node.name == 'flag' or node.name == 'flagcountry':
+            name = ["country"]
+            a = mwparserfromhell.parse(site.expandtemplates(str(node)))
+            links = a.filter_wikilinks()
+            for d in links:
+                name.append(d.text.split('link=')[-1])
+
+            return ' '.join(name)
+
+        # currently dealing with only one specific language case        
+        elif "lang" == node.name:
+            vals = [ustr(p.value) for p in node.params]
+            return vals[-1]
+
+        if "formatnum" in node.name:
+            return node.name.split(':')[-1]
 
         vals = [ ustr(p.value) for p in node.params if _is_int(p.name) ]
         return ' '.join(vals)
@@ -164,13 +192,14 @@ class WikiTable(object):
 
             # read rows
             for tr in self._tr_nodes:
-                row = Row(self._head, tr)
-                # hack to determine whether or not to return table
-                if row.raw is False:
-                    self.flag = True
-                    break
-                elif not row.is_null:
-                    self.rows.append(row)
+                if tr.contents:
+                    row = Row(self._head, tr)
+                    # hack to determine whether or not to return table
+                    if row.raw is False:
+                        self.flag = True
+                        break
+                    elif not row.is_null:
+                        self.rows.append(row)
         else:
             self.flag = True
                 
