@@ -23,7 +23,10 @@ class Field(object):
     """
     def __init__(self, node):
         self.raw = node
-        self.value = self._read(self.raw)
+        self.link = False
+        self.value = self._read(self.raw, self.link)
+        # Determie if wikilink is contained
+
 
     def __str__(self):
         return str(self.value)
@@ -34,25 +37,25 @@ class Field(object):
     def __json__(self):
         return self.value
 
-    def _read(self, node):
+    def _read(self, node, link):
         def _read_parts(n):
             if hasattr(n, 'contents') and hasattr(n.contents, 'nodes'):
                 for subnode in n.contents.nodes:
                     for x in _read_parts(subnode):
                         yield x
             else:
-                val = self._read_part(n).strip(' \n')
+                val = self._read_part(n, link).strip(' \n')
                 if val: yield ustr(val)
 
         joined = ' '.join(list(_read_parts(node)))
         return guess_type(joined)
 
-    def _read_part(self, node):
+    def _read_part(self, node, link):
         if isinstance(node, Template):
             if node.name == 'refn':
                 log.debug('omitting refn subtext from field')
                 return ''
-            return self._read_template(node)
+            return self._read_template(node, link)
         if isinstance(node, Tag):
             if self._exclude_tag(node):
                 return ''
@@ -60,7 +63,8 @@ class Field(object):
         if isinstance(node, Wikilink):
             #if node.text:
             #    return node.text
-            return node.title
+            self.link = True
+            return "[" + str(node.title) + "]"
         return node
 
     @staticmethod
@@ -78,7 +82,7 @@ class Field(object):
         return False
 
     @staticmethod
-    def _read_template(node):
+    def _read_template(node, link):
         """ Concatenate all template values having an integer param name """
         def _is_int(o):
             try:
@@ -89,11 +93,11 @@ class Field(object):
 
         # expand the template using Wikipedia API and get the link if flag
         if node.name == 'flagicon' or node.name == 'flag' or node.name == 'flagcountry':
-            name = ["country"]
+            name = list()
             a = mwparserfromhell.parse(site.expandtemplates(str(node)))
             links = a.filter_wikilinks()
             for d in links:
-                name.append(d.text.split('link=')[-1])
+                name.append("[" + d.text.split('link=')[-1] + "]")
 
             return ' '.join(name)
 
@@ -128,7 +132,7 @@ class Row(dict):
     @property
     def is_null(self):
         for k,f in self.items():
-            if f.value != '':
+            if f["value"] != '':
                 return False
         return True
 
@@ -137,7 +141,8 @@ class Row(dict):
         cols = list(node.contents.ifilter_tags(matches=ftag('th', 'td')))
         # check to see if number of cells in rows match header
         if len(head) == len([ Field(c) for c in cols ]):
-            return zip(head, [ Field(c) for c in cols ])
+            r = zip(head, [ {"value": Field(c), "link": Field(c).link} for c in cols ])
+            return r
         else:
             return False
 
@@ -165,6 +170,14 @@ class WikiTable(object):
     @property
     def head(self):
         return self._head
+
+    @property
+    def head_len(self):
+        return len(self._head)
+
+    @property
+    def rows_len(self):
+        return len(self.rows)
 
     @head.setter
     def head(self, val):

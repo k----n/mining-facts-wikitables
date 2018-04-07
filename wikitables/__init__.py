@@ -35,14 +35,16 @@ def import_tables(article, lang="en"):
             s.remove(head)
             table_count = 0
             for i,x in enumerate(t):
-                nested = mwp.parse(x).filter_tags(matches=ftag('table'))
-                if not nested:
-                    name = '{}|Table {}'.format(page['title'],table_count)
-                    wt = WikiTable(name, x)
-                    if not wt.flag:
-                        tables_info[section_count]["table"][table_count] = wt
-                        table_count+=1
+                name = '{}|Table {}'.format(page['title'],table_count)
+                wt = WikiTable(name, x)
+                if not wt.flag:
+                    tables_info[section_count]["table"][table_count] = wt
+                    table_count+=1
+                # hack, only remove if table exists
+                try:
                     s.remove(x)
+                except:
+                    pass
             tables_info[section_count]["text"] = s.strip_code()
             section_count+=1
 
