@@ -140,8 +140,8 @@ class Row(dict):
     def _read(head, node):
         cols = list(node.contents.ifilter_tags(matches=ftag('th', 'td')))
         # check to see if number of cells in rows match header
-        if len(head) == len([ Field(c) for c in cols ]):
-            r = zip(head, [ {"value": Field(c), "link": Field(c).link} for c in cols ])
+        if len(head) == len([ str(Field(c)) for c in cols ]):
+            r = zip(head, [ {"value": str(Field(c)), "link": Field(c).link} for c in cols ])
             return r
         else:
             return False
@@ -201,6 +201,7 @@ class WikiTable(object):
             for th in header_nodes:
                 f = list()
                 if hasattr(th.contents, 'nodes'):
+                    # add wikilink for headers
                     for n in th.contents.nodes:
                         if isinstance(n, Wikilink):
                             f.append("[" + str(n.title) + "]")
