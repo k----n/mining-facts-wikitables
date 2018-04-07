@@ -199,7 +199,15 @@ class WikiTable(object):
 
         if header_nodes:
             for th in header_nodes:
-                field_name = th.contents.strip_code().strip(' ')
+                f = list()
+                if hasattr(th.contents, 'nodes'):
+                    for n in th.contents.nodes:
+                        if isinstance(n, Wikilink):
+                            f.append("[" + str(n.title) + "]")
+                        else:
+                            f.append(str(n))
+
+                field_name = ' '.join(f).strip()
                 self._head.append(ustr(field_name))
 
             # read rows
