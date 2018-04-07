@@ -35,11 +35,16 @@ class Field(object):
         return self.value
 
     def _read(self, node):
-        def _read_parts():
-            for n in node.contents.nodes:
+        def _read_parts(n):
+            if hasattr(n, 'contents') and hasattr(n.contents, 'nodes'):
+                for subnode in n.contents.nodes:
+                    for x in _read_parts(subnode):
+                        yield x
+            else:
                 val = self._read_part(n).strip(' \n')
                 if val: yield ustr(val)
-        joined = ' '.join(list(_read_parts()))
+
+        joined = ' '.join(list(_read_parts(node)))
         return guess_type(joined)
 
     def _read_part(self, node):
@@ -49,15 +54,9 @@ class Field(object):
                 return ''
             return self._read_template(node)
         if isinstance(node, Tag):
-            if self._exlude_tag(node):
+            if self._exclude_tag(node):
                 return ''
-            try:
-                string = list()
-                for n in node.contents.nodes:
-                    string.append(self._read_part(n))
-                return ' '.join(string)
-            except:      
-                return node.contents.strip_code()
+            return node.contents.strip_code()
         if isinstance(node, Wikilink):
             #if node.text:
             #    return node.text
@@ -65,7 +64,7 @@ class Field(object):
         return node
 
     @staticmethod
-    def _exlude_tag(node):
+    def _exclude_tag(node):
         # exclude tag nodes with attributes in ignore_attrs
         n_attrs = [ x.strip() for x in node.attributes ]
         for a in n_attrs:

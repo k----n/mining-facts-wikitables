@@ -1,24 +1,46 @@
 import logging
 import mwparserfromhell as mwp
 
+from collections import defaultdict
+
 from wikitables.util import ftag
 from wikitables.client import Client
 from wikitables.models import WikiTable
 
 log = logging.getLogger('wikitables')
+nested_dict = lambda: defaultdict(nested_dict)
 
 def import_tables(article, lang="en"):
     client = Client(lang)
     page = client.fetch_page(article)
     body = page['revisions'][0]['*']
+    extract = client.fetch_extract(article)
+    parsed_body = mwp.parse(body, skip_style_tags=True)
 
-    ## parse for tables
-    raw_tables = mwp.parse(body).filter_tags(matches=ftag('table'))
+    tables_info = nested_dict()
 
-    def _table_gen():
-        for idx, table in enumerate(raw_tables):
-            name = '%s[%s]' % (page['title'],idx)
-            yield WikiTable(name, table)
-            print(name)
+    tables_info['title'] = page['title']
+    tables_info['extract'] = extract
 
-    return [x for x in _table_gen() if not x.flag]
+    ## get sections
+    sections = parsed_body.get_sections(include_lead = False, include_headings = True, flat = True)
+
+    section_count = 0
+    for idx, s in enumerate(sections):
+        t = s.filter_tags(matches=ftag('table'))
+        if t:
+            head = mwp.parse(s.filter_headings()[0]).strip_code()
+            tables_info[section_count]["head"] = head
+            s.remove(head)
+            table_count = 0
+            for i,x in enumerate(t):
+                name = '{}|Table {}'.format(page['title'],table_count)
+                wt = WikiTable(name, x)
+                if not wt.flag:
+                    tables_info[section_count]["table"][table_count] = wt
+                    table_count+=1
+                s.remove(x)
+            tables_info[section_count]["text"] = s.strip_code()
+            section_count+=1
+
+    return tables_info

@@ -18,7 +18,6 @@ class Client(requests.Session):
         params = { 'prop': 'revisions',
                    'format': 'json',
                    'action': 'query',
-                   'explaintext': '',
                    'titles': title,
                    'rvprop': 'content' }
         r = self.request(method, self.base_url, params=params)
@@ -30,3 +29,21 @@ class Client(requests.Session):
             raise ArticleNotFound('no matching articles returned')
 
         return pages[pageid]
+
+    def fetch_extract(self, title, method='GET'):
+        # Retrieve content summary
+        params = { 'prop': 'extracts',
+           'format': 'json',
+           'action': 'query',
+           'explaintext': '',
+           'titles': title,
+           'exintro': '' }
+        r = self.request(method, self.base_url, params=params)
+        r.raise_for_status()
+        pages = r.json()["query"]["pages"]
+        # use key from first result in 'pages' array
+        pageid = list(pages.keys())[0]
+        if pageid == '-1':
+            raise ArticleNotFound('no matching articles returned')
+
+        return pages[pageid]['extract']
