@@ -17,6 +17,7 @@ def import_tables(article, lang="en"):
     body = page['revisions'][0]['*']
     extract = client.fetch_extract(article)
     parsed_body = mwp.parse(body, skip_style_tags=True)
+    table_extracted = False
 
     tables_info = nested_dict()
 
@@ -29,6 +30,7 @@ def import_tables(article, lang="en"):
     print(page['title'])
     section_count = 0
     for idx, s in enumerate(sections):
+        section_table = False
         t = s.filter_tags(matches=ftag('table'))
         if t:
             head = mwp.parse(s.filter_headings()[0])
@@ -39,6 +41,8 @@ def import_tables(article, lang="en"):
                 name = '{}|Table {}'.format(page['title'],table_count)
                 wt = WikiTable(name, x)
                 if not wt.flag:
+                    table_extracted = True
+                    section_table = True
                     tables_info[str(section_count)]["table"][str(table_count)]["rows"] = [dict(r) for r in wt.rows]
                     tables_info[str(section_count)]["table"][str(table_count)]["head"] = wt.head
                     tables_info[str(section_count)]["table"][str(table_count)]["rows_count"] = wt.rows_len
@@ -50,6 +54,12 @@ def import_tables(article, lang="en"):
                 except:
                     pass
             tables_info[str(section_count)]["text"] = s.strip_code()
-            section_count+=1
+            if section_table:
+                section_count+=1
+            else:
+                del tables_info[str(section_count)]
+    
+    if table_extracted:
+        return tables_info
 
-    return tables_info
+    return None

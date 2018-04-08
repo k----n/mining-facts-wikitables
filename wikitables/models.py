@@ -61,10 +61,15 @@ class Field(object):
                 return ''
             return node.contents.strip_code()
         if isinstance(node, Wikilink):
-            #if node.text:
-            #    return node.text
-            self.link = True
-            return "[" + str(node.title) + "]"
+            if "File:" in node.title or "wikit:" in node.title:
+                return ''
+            elif node.text and "http://" in node.title:
+                return str(node.text)
+            elif "http://" not in node.title:
+                self.link = True
+                return "[" + str(node.title) + "]"
+            else:
+                return str(node.title)
         return node
 
     @staticmethod
@@ -201,12 +206,9 @@ class WikiTable(object):
             for th in header_nodes:
                 f = list()
                 if hasattr(th.contents, 'nodes'):
-                    # add wikilink for headers
+                    # treat nodes as field
                     for n in th.contents.nodes:
-                        if isinstance(n, Wikilink):
-                            f.append("[" + str(n.title) + "]")
-                        else:
-                            f.append(str(n))
+                        f.append(str(Field(n)))
 
                 field_name = ' '.join(f).strip()
                 self._head.append(ustr(field_name))
