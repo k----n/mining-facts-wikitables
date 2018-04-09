@@ -118,6 +118,7 @@ for k,v in extracted_tables.items():
                         if not isListEmpty(new_table):
                             normalized_tables[title][k2]["old_table"] = old_table
                             normalized_tables[title][k2]["new_table"] = new_table
+                            normalized_tables[title][k2]["section_title"] = heading
                             print(old_table)
                             print(new_table)
 
