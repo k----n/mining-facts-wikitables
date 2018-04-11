@@ -414,7 +414,10 @@ for k,v in tables.items():
                             except:
                                 continue
                             if subject != obj:
-                                relatedness = tagme.relatedness_title((subject, obj)).relatedness[0].rel
+                                try:
+                                    relatedness = tagme.relatedness_title((subject, obj)).relatedness[0].rel
+                                except:
+                                    relatedness = 0
                                 if relatedness:
                                     feature6 = float(relatedness)
                                 else:
@@ -459,7 +462,10 @@ for k,v in tables.items():
                             break
                         if rr[1][0] == "article" or rr[1][0] == "section":
                             break
-                        relatedness = tagme.relatedness_title((subject, obj)).relatedness[0].rel
+                        try:
+                            relatedness = tagme.relatedness_title((subject, obj)).relatedness[0].rel
+                        except:
+                            relatedness = 0
                         if relatedness:
                             feature6 = float(relatedness)
                         else:
