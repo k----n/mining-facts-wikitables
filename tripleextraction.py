@@ -342,7 +342,7 @@ for k,v in tables.items():
                 if isinstance(pos[1][0],int):
                     rows.append(pos[1][0])
             for r in rows:
-                fnt+=flatten(new_table[r])
+                fnt+=flatten([new_table[r]])
                                 
             try:                    
                 soPred, osPred = getSOPred(hr[0], hr[1], fnt, section_entities, k)
