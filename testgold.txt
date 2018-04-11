@@ -1,0 +1,14 @@
+3,2,382,372,371,0.7217782735824585,1.0,6,6,115,115,0.33,1,http://www.wikidata.org/prop/direct/P144,Eclipse (software),based on,Java (programming language),1
+3,2,382,372,371,0.7217782735824585,1.0,6,6,115,115,0.28,1,http://www.wikidata.org/prop/direct/P277,Eclipse (software),programming language,Java (programming language),1
+3,2,382,372,371,0.5297038555145264,1.0,7,3,78,38,0.53,7,http://www.wikidata.org/prop/direct/P277,Db4o,programming language,Java (programming language),1
+3,2,382,372,371,0.5297038555145264,1.0,2,3,21,38,0.53,7,http://www.wikidata.org/prop/direct/P277,Db4o,programming language,Java (programming language),1
+3,2,382,372,371,0.5297038555145264,1.0,7,6,85,115,0.53,7,http://www.wikidata.org/prop/direct/P277,Db4o,programming language,Java (programming language),1
+3,2,382,372,371,0.5297038555145264,1.0,6,6,115,115,0.28,7,http://www.wikidata.org/prop/direct/P277,Db4o,programming language,Java (programming language),1
+3,7,216,214,214,0.3157373070716858,1.0,2,2,24,24,0.5,1,http://www.wikidata.org/prop/direct/P27,Alice Balducci,country of citizenship,Italy,1
+3,7,216,214,214,0.3320465683937073,1.0,1,2,24,24,0.6,1,http://www.wikidata.org/prop/direct/P17,"Pula, Sardinia",country,Italy,1
+3,7,216,214,214,0.3157373070716858,1.0,2,2,24,24,0.5,1,http://www.wikidata.org/prop/direct/P27,Alice Balducci,country of citizenship,Italy,1
+3,7,216,214,214,0.3320465683937073,1.0,1,2,24,24,0.6,1,http://www.wikidata.org/prop/direct/P17,"Pula, Sardinia",country,Italy,1
+4,4,120,112,112,0.3563461899757385,1.0,2,2,24,24,0.49,1,http://www.wikidata.org/prop/direct/P17,Hamar stadion,country,Norway,1
+4,4,120,112,112,0.32870644330978394,1.0,2,2,30,30,0.49,1,http://www.wikidata.org/prop/direct/P17,Vaillant Arena,country,Switzerland,1
+4,4,120,112,112,0.555767297744751,1.0,2,2,20,20,0.49,1,http://www.wikidata.org/prop/direct/P17,Trondheim,country,Norway,1
+4,4,120,112,112,0.42481958866119385,1.0,2,2,17,17,0.49,1,http://www.wikidata.org/prop/direct/P17,Gjøvik,country,Norway,1
