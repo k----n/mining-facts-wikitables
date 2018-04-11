@@ -1,0 +1,7 @@
+29,4,1208,1207,1207,0.3704988360404968,1.0,3,3,41,41,0.35,1,http://www.wikidata.org/prop/direct/P1412,Bachelor of Laws,"languages spoken, written or signed",Nelson Rockefeller
+163,3,2412,2363,2363,0.7912514805793762,1.0,1,1,18,18,0.43,1,http://www.wikidata.org/prop/direct/P175,Dinah Jams,performer,Dinah Washington
+10,4,550,546,531,0.6854943633079529,1.0,1,1,11,19,0.56,1,http://www.wikidata.org/prop/direct/P2175,Lorazepam,medical condition treated,Anxiety
+11,5,472,470,469,0,1.0,1,1,13,1,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Khatteh Man""",instance of,2
+3,3,124,122,121,0,1.0,1,3,1,24,0.45,2,http://www.wikidata.org/prop/direct/P31,2,instance of,Billboard charts
+2,8,288,263,263,0.1861136555671692,1.0,4,1,60,29,0.49,2,http://www.wikidata.org/prop/direct/P27,Natalie Pluskota,country of citizenship,United States
+19,4,1166,1114,1114,0,1.0,2,2,55,41,0.54,1,http://www.wikidata.org/prop/direct/P17,Zoran Boškovski,country,Ljube Boskovski

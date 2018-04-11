@@ -1,0 +1,3 @@
+2,6,312,304,303,0,1.0,1,2,0,16,0.5,1,http://www.wikidata.org/prop/direct/P27,,country of citizenship,Kobe
+2,7,180,176,176,0,1.0,1,3,3,47,0.42,2,http://www.wikidata.org/prop/direct/P19,2,place of birth,Uzbekistan
+10,6,884,868,867,0,1.0,1,2,29,32,0.57,1,http://www.wikidata.org/prop/direct/P127,Ginowan Municipal Gymnasium,owned by,Okinawa Prefecture

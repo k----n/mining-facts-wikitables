@@ -1,0 +1,104 @@
+29,4,1208,1207,1207,0.36996138095855713,1.0,4,4,43,43,0.35,1,http://www.wikidata.org/prop/direct/P1412,K. Balaji,"languages spoken, written or signed",Malayalam,1
+163,3,2412,2363,2363,0.7696529626846313,1.0,1,1,46,18,0.43,1,http://www.wikidata.org/prop/direct/P175,Jam Session featuring Maynard Ferguson,performer,Maynard Ferguson,1
+163,3,2412,2363,2363,0,1.0,1,1,29,13,0.43,1,http://www.wikidata.org/prop/direct/P175,Out on a Limb (album),performer,Pete Rugolo,1
+163,3,2412,2363,2363,0.5632649660110474,1.0,2,2,30,30,0.43,1,http://www.wikidata.org/prop/direct/P279,Dixieland,subclass of,Jazz,1
+163,3,2412,2363,2363,0,1.0,1,1,28,13,0.43,1,http://www.wikidata.org/prop/direct/P175,Music for Hi-Fi Bugs,performer,Pete Rugolo,1
+163,3,2412,2363,2363,0.8414677381515503,1.0,1,1,38,18,0.43,1,http://www.wikidata.org/prop/direct/P175,Moods (Paul Quinichette album),performer,Paul Quinichette,1
+163,3,2412,2363,2363,0.4762314558029175,1.0,4,4,50,50,0.47,1,http://www.wikidata.org/prop/direct/P136,Quincy Jones,genre,Jazz,1
+163,3,2412,2363,2363,0.7882059216499329,1.0,1,1,29,15,0.43,1,http://www.wikidata.org/prop/direct/P175,Helen Merrill (album),performer,Helen Merrill,1
+163,3,2412,2363,2363,0.755355715751648,1.0,1,1,30,18,0.43,1,http://www.wikidata.org/prop/direct/P175,Boy with Lots of Brass,performer,Maynard Ferguson,1
+163,3,2412,2363,2363,0.7981521487236023,1.0,1,1,53,17,0.43,1,http://www.wikidata.org/prop/direct/P175,Introducing Jimmy Cleveland and His All Stars,performer,Jimmy Cleveland,1
+163,3,2412,2363,2363,0.8585495948791504,1.0,1,1,64,14,0.43,1,http://www.wikidata.org/prop/direct/P175,In the Land of Hi-Fi with Georgie Auld and His Orchestra,performer,Georgie Auld,1
+163,3,2412,2363,2363,0.6527903079986572,1.0,1,1,39,15,0.43,1,http://www.wikidata.org/prop/direct/P175,Contrasts (Erroll Garner album),performer,Erroll Garner,1
+163,3,2412,2363,2363,0.424537718296051,1.0,2,1,40,16,0.47,2,http://www.wikidata.org/prop/direct/P136,Red Norvo,genre,Jazz,1
+163,3,2412,2363,2363,0.424537718296051,1.0,2,2,40,40,0.47,2,http://www.wikidata.org/prop/direct/P136,Red Norvo,genre,Jazz,1
+163,3,2412,2363,2363,0.7912514805793762,1.0,1,1,18,18,0.43,1,http://www.wikidata.org/prop/direct/P175,Dinah Jams,performer,Dinah Washington,1
+163,3,2412,2363,2363,0.646759033203125,1.0,1,1,27,13,0.43,1,http://www.wikidata.org/prop/direct/P175,Clark Terry (album),performer,Clark Terry,1
+163,3,2412,2363,2363,0.8404690027236938,1.0,1,1,30,23,0.43,1,http://www.wikidata.org/prop/direct/P175,Introducing Joe Gordon,performer,Joe Gordon (musician),1
+163,3,2412,2363,2363,0.8708478212356567,1.0,1,1,25,11,0.43,1,http://www.wikidata.org/prop/direct/P175,Paul Bley (album),performer,Paul Bley,1
+163,3,2412,2363,2363,0,1.0,1,1,44,21,0.43,1,http://www.wikidata.org/prop/direct/P175,"Julian ""Cannonball"" Adderley (album)",performer,Cannonball Adderley,1
+163,3,2412,2363,2363,0.6557391285896301,1.0,1,1,42,14,0.43,1,http://www.wikidata.org/prop/direct/P175,Down to Earth (Ramsey Lewis album),performer,Ramsey Lewis,1
+163,3,2412,2363,2363,0.5947715044021606,1.0,4,4,50,50,0.47,1,http://www.wikidata.org/prop/direct/P136,Big band,genre,Jazz,1
+163,3,2412,2363,2363,0.6895961761474609,1.0,1,1,44,16,0.43,1,http://www.wikidata.org/prop/direct/P175,Presenting the Gerry Mulligan Sextet,performer,Gerry Mulligan,1
+163,3,2412,2363,2363,0.7760143876075745,1.0,1,1,41,15,0.43,1,http://www.wikidata.org/prop/direct/P175,Sarah Vaughan with Clifford Brown,performer,Sarah Vaughan,1
+163,3,2412,2363,2363,0.6689684391021729,1.0,1,2,19,29,0.43,1,http://www.wikidata.org/prop/direct/P175,Jazz Abroad,performer,Roy Haynes,1
+163,3,2412,2363,2363,0.7770248055458069,1.0,1,1,23,17,0.43,1,http://www.wikidata.org/prop/direct/P175,Cleveland Style,performer,Jimmy Cleveland,1
+163,3,2412,2363,2363,0.36356228590011597,1.0,4,4,50,50,0.47,2,http://www.wikidata.org/prop/direct/P136,Harry Arnold,genre,Jazz,1
+163,3,2412,2363,2363,0.36356228590011597,1.0,1,4,14,50,0.47,2,http://www.wikidata.org/prop/direct/P136,Harry Arnold,genre,Jazz,1
+163,3,2412,2363,2363,0.7056864500045776,1.0,1,1,32,14,0.43,1,http://www.wikidata.org/prop/direct/P175,Introducing Nat Adderley,performer,Nat Adderley,1
+163,3,2412,2363,2363,0.7506269216537476,1.0,1,1,47,12,0.43,1,http://www.wikidata.org/prop/direct/P175,In the Land of Hi-Fi (Patti Page album),performer,Patti Page,1
+14,3,548,547,541,0.454288125038147,1.0,7,7,83,83,0.48,1,http://www.wikidata.org/prop/direct/P279,Process (computing),subclass of,Software,1
+1,2,12,10,10,0.46228283643722534,1.0,2,2,29,29,0.0,1,http://www.wikidata.org/prop/direct/P27,Einar Örn Benediktsson,country of citizenship,Iceland,1
+10,4,550,546,531,0,1.0,1,2,12,75,0.56,1,http://www.wikidata.org/prop/direct/P2175,Famotidine,medical condition treated,gastroesophageal reflux,1
+10,4,550,546,531,0.6074511408805847,1.0,2,1,36,12,0.46,1,http://www.wikidata.org/prop/direct/P2176,bipolar disorder,drug used for treatment,Olanzapine,1
+10,4,550,546,531,0.6637783050537109,1.0,1,2,12,36,0.56,1,http://www.wikidata.org/prop/direct/P2175,Olanzapine,medical condition treated,Schizophrenia,1
+10,4,550,546,531,0.6094931364059448,1.0,1,1,9,12,0.46,1,http://www.wikidata.org/prop/direct/P2176,Allergy,drug used for treatment,Loratadine,1
+1,5,74,68,67,0,1.0,2,2,38,31,0.58,1,http://www.wikidata.org/prop/direct/P641,Simon Thornton,sport,Golf,1
+1,5,74,68,67,0.5730931758880615,1.0,2,2,31,31,0.58,1,http://www.wikidata.org/prop/direct/P641,Golf course,sport,Golf,1
+1,5,74,68,67,0,1.0,1,2,29,31,0.58,1,http://www.wikidata.org/prop/direct/P641,Najeti Hotels et Golfs Open,sport,Golf,1
+1,5,74,68,67,0.5588047504425049,1.0,1,2,20,31,0.58,1,http://www.wikidata.org/prop/direct/P641,2013 European Tour,sport,Golf,1
+1,6,74,71,70,0,1.0,1,2,31,41,0.57,1,http://www.wikidata.org/prop/direct/P17,Lion of Africa Cape Town Open,country,South Africa,1
+2,8,288,263,263,0.21324026584625244,1.0,4,4,63,63,0.49,2,http://www.wikidata.org/prop/direct/P27,Shelby Rogers,country of citizenship,United States,1
+2,8,288,263,263,0.21324026584625244,1.0,4,2,63,29,0.49,2,http://www.wikidata.org/prop/direct/P27,Shelby Rogers,country of citizenship,United States,1
+2,8,288,263,263,0.34765708446502686,1.0,4,4,60,60,0.49,1,http://www.wikidata.org/prop/direct/P27,Sally Peers,country of citizenship,Australia,1
+2,8,288,263,263,0.20062047243118286,1.0,1,1,34,29,0.57,2,http://www.wikidata.org/prop/direct/P17,"Orlando, Florida",country,United States,1
+2,8,288,263,263,0.20062047243118286,1.0,1,4,34,60,0.59,2,http://www.wikidata.org/prop/direct/P17,"Orlando, Florida",country,United States,1
+2,8,288,263,263,1.0,1.0,1,4,29,60,0.59,4,http://www.wikidata.org/prop/direct/P17,United States,country,United States,1
+2,8,288,263,263,1.0,1.0,4,1,60,29,0.59,4,http://www.wikidata.org/prop/direct/P17,United States,country,United States,1
+2,8,288,263,263,1.0,1.0,4,2,63,29,0.59,4,http://www.wikidata.org/prop/direct/P17,United States,country,United States,1
+2,8,288,263,263,1.0,1.0,2,4,29,63,0.59,4,http://www.wikidata.org/prop/direct/P17,United States,country,United States,1
+2,8,288,263,263,0.1861136555671692,1.0,4,1,60,29,0.49,2,http://www.wikidata.org/prop/direct/P27,Natalie Pluskota,country of citizenship,United States,1
+2,8,288,263,263,0.1861136555671692,1.0,4,4,60,60,0.49,2,http://www.wikidata.org/prop/direct/P27,Natalie Pluskota,country of citizenship,United States,1
+2,8,288,263,263,0.2831512689590454,1.0,4,1,60,29,0.4,2,http://www.wikidata.org/prop/direct/P530,Australia,diplomatic relation,United States,1
+2,8,288,263,263,0.2831512689590454,1.0,4,4,60,60,0.39,2,http://www.wikidata.org/prop/direct/P530,Australia,diplomatic relation,United States,1
+2,8,288,263,263,0.27562665939331055,1.0,4,4,63,63,0.39,2,http://www.wikidata.org/prop/direct/P530,United States,diplomatic relation,United Kingdom,1
+2,8,288,263,263,0.27562665939331055,1.0,2,4,29,63,0.4,2,http://www.wikidata.org/prop/direct/P530,United States,diplomatic relation,United Kingdom,1
+2,8,288,263,263,0.27562665939331055,1.0,4,4,63,63,0.39,2,http://www.wikidata.org/prop/direct/P530,United Kingdom,diplomatic relation,United States,1
+2,8,288,263,263,0.27562665939331055,1.0,4,2,63,29,0.4,2,http://www.wikidata.org/prop/direct/P530,United Kingdom,diplomatic relation,United States,1
+2,8,288,263,263,0.17975634336471558,1.0,1,4,35,63,0.59,2,http://www.wikidata.org/prop/direct/P17,"Midland, Michigan",country,United States,1
+2,8,288,263,263,0.17975634336471558,1.0,1,2,35,29,0.57,2,http://www.wikidata.org/prop/direct/P17,"Midland, Michigan",country,United States,1
+2,8,288,263,263,0.2831512689590454,1.0,1,4,29,60,0.4,2,http://www.wikidata.org/prop/direct/P530,United States,diplomatic relation,Australia,1
+2,8,288,263,263,0.2831512689590454,1.0,4,4,60,60,0.39,2,http://www.wikidata.org/prop/direct/P530,United States,diplomatic relation,Australia,1
+1,7,164,162,156,0.36790454387664795,1.0,3,3,55,55,0.49,1,http://www.wikidata.org/prop/direct/P27,Ioana Ducu,country of citizenship,Romania,1
+1,7,164,162,156,0.38917362689971924,1.0,3,3,55,55,0.49,1,http://www.wikidata.org/prop/direct/P27,Ioana Loredana Roșca,country of citizenship,Romania,1
+19,4,1166,1114,1114,0.4510638117790222,1.0,1,5,95,134,0.54,1,http://www.wikidata.org/prop/direct/P17,Internal Macedonian Revolutionary Organization,country,Bulgaria,1
+19,4,1166,1114,1114,0.7051498889923096,1.0,4,4,127,127,0.41,2,http://www.wikidata.org/prop/direct/P530,Serbia,diplomatic relation,Slovenia,1
+19,4,1166,1114,1114,0.7051498889923096,1.0,10,10,156,156,0.41,2,http://www.wikidata.org/prop/direct/P530,Serbia,diplomatic relation,Slovenia,1
+19,4,1166,1114,1114,1.0,1.0,1,4,62,283,0.54,2,http://www.wikidata.org/prop/direct/P17,Republic of Macedonia,country,Republic of Macedonia,1
+19,4,1166,1114,1114,1.0,1.0,4,1,283,62,0.54,2,http://www.wikidata.org/prop/direct/P17,Republic of Macedonia,country,Republic of Macedonia,1
+19,4,1166,1114,1114,0.4474110007286072,1.0,4,1,283,62,0.49,2,http://www.wikidata.org/prop/direct/P27,Riste Naumov,country of citizenship,Republic of Macedonia,1
+19,4,1166,1114,1114,0.4474110007286072,1.0,4,4,283,283,0.47,2,http://www.wikidata.org/prop/direct/P27,Riste Naumov,country of citizenship,Republic of Macedonia,1
+19,4,1166,1114,1114,0.4694777727127075,1.0,5,5,205,205,0.47,1,http://www.wikidata.org/prop/direct/P27,Sulejman Tihić,country of citizenship,Bosnia and Herzegovina,1
+19,4,1166,1114,1114,0,1.0,2,2,26,26,0.47,2,http://www.wikidata.org/prop/direct/P27,Bojko Borisov,country of citizenship,Bulgaria,1
+19,4,1166,1114,1114,0,1.0,1,2,54,26,0.49,2,http://www.wikidata.org/prop/direct/P27,Bojko Borisov,country of citizenship,Bulgaria,1
+19,4,1166,1114,1114,0.7105774879455566,1.0,4,4,127,127,0.41,2,http://www.wikidata.org/prop/direct/P530,Bosnia and Herzegovina,diplomatic relation,Serbia,1
+19,4,1166,1114,1114,0.7105774879455566,1.0,10,10,156,156,0.41,2,http://www.wikidata.org/prop/direct/P530,Bosnia and Herzegovina,diplomatic relation,Serbia,1
+19,4,1166,1114,1114,0.7105774879455566,1.0,4,4,127,127,0.44,2,http://www.wikidata.org/prop/direct/P47,Bosnia and Herzegovina,shares border with,Serbia,1
+19,4,1166,1114,1114,0.7105774879455566,1.0,10,10,156,156,0.44,2,http://www.wikidata.org/prop/direct/P47,Bosnia and Herzegovina,shares border with,Serbia,1
+19,4,1166,1114,1114,0.4341263175010681,1.0,10,10,156,156,0.54,1,http://www.wikidata.org/prop/direct/P17,"Ravnik, Bloke",country,Slovenia,1
+19,4,1166,1114,1114,0,1.0,1,5,73,205,0.54,1,http://www.wikidata.org/prop/direct/P17,Bosnia,country,Bosnia and Herzegovina,1
+19,4,1166,1114,1114,0.5826923847198486,1.0,2,2,57,158,0.54,1,http://www.wikidata.org/prop/direct/P17,Social Democratic Union of Macedonia,country,Republic of Macedonia,1
+19,4,1166,1114,1114,0.6923564672470093,1.0,4,4,127,127,0.41,2,http://www.wikidata.org/prop/direct/P530,Bosnia and Herzegovina,diplomatic relation,Slovenia,1
+19,4,1166,1114,1114,0.6923564672470093,1.0,10,10,156,156,0.41,2,http://www.wikidata.org/prop/direct/P530,Bosnia and Herzegovina,diplomatic relation,Slovenia,1
+19,4,1166,1114,1114,0.3951074481010437,1.0,2,2,245,245,0.47,1,http://www.wikidata.org/prop/direct/P27,Gane Todorovski,country of citizenship,Republic of Macedonia,1
+19,4,1166,1114,1114,0.5109525918960571,1.0,5,5,205,205,0.47,1,http://www.wikidata.org/prop/direct/P27,Milorad Dodik,country of citizenship,Bosnia and Herzegovina,1
+19,4,1166,1114,1114,0,1.0,1,5,73,205,0.53,1,http://www.wikidata.org/prop/direct/P35,Bosnia,head of state,Dragan Covic,1
+19,4,1166,1114,1114,0.7886117696762085,1.0,3,3,100,100,0.44,1,http://www.wikidata.org/prop/direct/P47,Republic of Macedonia,shares border with,Albania,1
+19,4,1166,1114,1114,0.4529850482940674,1.0,10,10,156,156,0.47,1,http://www.wikidata.org/prop/direct/P27,Žarko Petan,country of citizenship,Slovenia,1
+19,4,1166,1114,1114,0.4529850482940674,1.0,10,10,156,156,0.41,1,http://www.wikidata.org/prop/direct/P20,Žarko Petan,place of death,Slovenia,1
+19,4,1166,1114,1114,0.4692663550376892,1.0,2,2,55,41,0.49,1,http://www.wikidata.org/prop/direct/P27,Zoran Boškovski,country of citizenship,Republic of Macedonia,1
+19,4,1166,1114,1114,0.6170064210891724,1.0,1,10,75,156,0.69,1,http://www.wikidata.org/prop/direct/P26,Josip Broz Tito,spouse,Jovanka Broz,1
+19,4,1166,1114,1114,0.7105774879455566,1.0,4,4,127,127,0.41,2,http://www.wikidata.org/prop/direct/P530,Serbia,diplomatic relation,Bosnia and Herzegovina,1
+19,4,1166,1114,1114,0.7105774879455566,1.0,10,10,156,156,0.41,2,http://www.wikidata.org/prop/direct/P530,Serbia,diplomatic relation,Bosnia and Herzegovina,1
+19,4,1166,1114,1114,0,1.0,5,5,205,205,0.5,1,http://www.wikidata.org/prop/direct/P35,Bosnia and Herzegovina,head of state,Dragan Covic,1
+19,4,1166,1114,1114,0,1.0,2,2,41,41,0.47,1,http://www.wikidata.org/prop/direct/P27,Ljube Boskovski,country of citizenship,Republic of Macedonia,1
+19,4,1166,1114,1114,0,1.0,2,2,160,160,0.47,2,http://www.wikidata.org/prop/direct/P27,Vlado Buckovski,country of citizenship,Republic of Macedonia,1
+19,4,1166,1114,1114,0,1.0,2,2,158,158,0.47,2,http://www.wikidata.org/prop/direct/P27,Vlado Buckovski,country of citizenship,Republic of Macedonia,1
+19,4,1166,1114,1114,0.4485074281692505,1.0,3,3,249,249,0.47,1,http://www.wikidata.org/prop/direct/P27,Trifun Kostovski,country of citizenship,Republic of Macedonia,1
+19,4,1166,1114,1114,0.4278779625892639,1.0,5,5,205,205,0.47,2,http://www.wikidata.org/prop/direct/P27,Raif Dizdarević,country of citizenship,Bosnia and Herzegovina,1
+19,4,1166,1114,1114,0.4278779625892639,1.0,4,4,127,127,0.47,2,http://www.wikidata.org/prop/direct/P27,Raif Dizdarević,country of citizenship,Bosnia and Herzegovina,1
+19,4,1166,1114,1114,0.5223422646522522,1.0,2,2,44,44,0.47,2,http://www.wikidata.org/prop/direct/P27,Branko Crvenkovski,country of citizenship,Republic of Macedonia,1
+19,4,1166,1114,1114,0.5223422646522522,1.0,1,2,102,44,0.49,2,http://www.wikidata.org/prop/direct/P27,Branko Crvenkovski,country of citizenship,Republic of Macedonia,1
+19,4,1166,1114,1114,0.5443236827850342,1.0,3,3,38,38,0.47,1,http://www.wikidata.org/prop/direct/P27,Nikola Gruevski,country of citizenship,Republic of Macedonia,1
+19,4,1166,1114,1114,1.0,1.0,2,1,22,17,0.54,2,http://www.wikidata.org/prop/direct/P17,Kosovo,country,Kosovo,1
+19,4,1166,1114,1114,1.0,1.0,1,2,17,22,0.54,2,http://www.wikidata.org/prop/direct/P17,Kosovo,country,Kosovo,1
