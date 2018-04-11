@@ -238,7 +238,10 @@ for k,v in tables.items():
             for y in range(len_cols):
                 if not new_table[x][y]:
                     # try to make the obj a number
-                    n = find_number(old_table[x][y])
+                    try:
+                        n = find_number(old_table[x][y])
+                    except:
+                        n = []
                     if n:
                         temp_table[x][y] = [str(n[0])]
                     else:
