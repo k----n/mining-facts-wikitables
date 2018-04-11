@@ -2,3 +2,5 @@
 3,7,216,214,214,0.40293484926223755,1.0,2,2,24,24,0.5,1,http://www.wikidata.org/prop/direct/P27,Hungary,country of citizenship,Vanda Lukács
 3,7,216,214,214,0.40293484926223755,1.0,2,2,24,24,0.5,1,http://www.wikidata.org/prop/direct/P27,Hungary,country of citizenship,Vanda Lukács
 4,4,120,112,112,0.32870644330978394,1.0,2,2,30,30,0.49,1,http://www.wikidata.org/prop/direct/P17,Vaillant Arena,country,Switzerland
+23,10,5490,5465,5464,0.23488879203796387,1.0,4,4,151,151,0.45,1,http://www.wikidata.org/prop/direct/P361,Rail transport,part of,Conservation and restoration of vehicles
+3,2,382,372,371,0.7178539037704468,1.0,3,3,38,38,0.33,2,http://www.wikidata.org/prop/direct/P144,Software release life cycle,based on,Java (programming language)

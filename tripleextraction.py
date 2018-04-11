@@ -341,7 +341,10 @@ for k,v in tables.items():
             for r in rows:
                 fnt+=flatten(new_table[r])
                                 
-            soPred, osPred = getSOPred(hr[0], hr[1], fnt, section_entities, k)
+            try:                    
+                soPred, osPred = getSOPred(hr[0], hr[1], fnt, section_entities, k)
+            except:
+                continue
                         
             if soPred:
                 predicates[(hr[0],hr[1])]+=soPred
@@ -396,7 +399,10 @@ for k,v in tables.items():
                             potential_objects = [(row, xoc) for xoc in positions[row].keys() if xoc[0] == oc]                
 
                         # generate cartesian product between potential subjects and potential columns
-                        combos = list(itertools.product(potential_subjects, potential_objects))
+                        try:
+                            combos = list(itertools.product(potential_subjects, potential_objects))
+                        except:
+                            combos = list()
 
                         for cc in combos:
                             try:
