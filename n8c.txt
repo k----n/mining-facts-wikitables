@@ -1,0 +1,542 @@
+9,3,268,262,258,0,0.09328358208955224,2,1,17,9,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Violence
+9,3,268,262,258,0,0.09328358208955224,1,1,10,5,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,1,1,6,18,0.42,0,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,The Shadows
+9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.51,1,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,The Shadows
+9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.55,0,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,The Shadows
+9,3,268,262,258,0.2892194390296936,0.09328358208955224,1,2,8,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,1,1,11,9,0.42,0,http://www.wikidata.org/prop/direct/P840,"""She knows""",narrative location,Violence
+9,3,268,262,258,0,0.09328358208955224,1,1,11,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,2,2,29,24,0.43,1,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,2,5,13,0.51,1,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,2,1,29,5,0.41,0,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,2,2,29,17,0.51,2,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,2,2,17,29,0.51,2,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,1,2,8,17,0.51,0,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,Dormitory
+9,3,268,262,258,0,0.09328358208955224,1,1,18,5,0.41,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,1,1,8,5,0.41,0,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,1,1,8,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,1,10,5,0.55,1,http://www.wikidata.org/prop/direct/P840,Bronze Age,narrative location,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,1,1,9,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,1,2,18,24,0.42,2,http://www.wikidata.org/prop/direct/P840,Stereophonic sound,narrative location,Buffyverse
+9,3,268,262,258,0.4575095772743225,0.09328358208955224,2,1,29,9,0.41,0,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,Violence
+9,3,268,262,258,0,0.09328358208955224,1,1,5,8,0.41,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,2,5,13,0.51,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,House (TV series)
+9,3,268,262,258,0.5232625007629395,0.09328358208955224,2,1,17,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,2,2,17,13,0.51,2,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0.41663211584091187,0.09328358208955224,1,2,8,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,2,1,13,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,1,1,18,8,0.41,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Vasodilation
+9,3,268,262,258,0.055384933948516846,0.09328358208955224,1,1,10,9,0.55,1,http://www.wikidata.org/prop/direct/P840,Bronze Age,narrative location,Violence
+9,3,268,262,258,0,0.09328358208955224,1,1,5,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,The Shadows
+9,3,268,262,258,0,0.09328358208955224,2,1,17,18,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,The Shadows
+9,3,268,262,258,0,0.09328358208955224,2,2,13,17,0.51,2,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Dormitory
+9,3,268,262,258,0.5232625007629395,0.09328358208955224,1,2,10,17,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Dormitory
+9,3,268,262,258,0,0.09328358208955224,1,1,8,9,0.41,0,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,Violence
+9,3,268,262,258,0.20746272802352905,0.09328358208955224,1,2,18,24,0.51,3,http://www.wikidata.org/prop/direct/P840,Stereophonic sound,narrative location,Buffy the Vampire Slayer
+9,3,268,262,258,0.28422945737838745,0.09328358208955224,1,1,18,9,0.42,0,http://www.wikidata.org/prop/direct/P840,Stereophonic sound,narrative location,Violence
+9,3,268,262,258,0,0.09328358208955224,2,1,17,9,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Violence
+9,3,268,262,258,0,0.09328358208955224,1,1,6,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,1,18,10,0.55,1,http://www.wikidata.org/prop/direct/P840,Stereophonic sound,narrative location,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,1,11,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,1,11,8,0.42,0,http://www.wikidata.org/prop/direct/P840,"""She knows""",narrative location,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,1,5,10,0.55,0,http://www.wikidata.org/prop/direct/P840,Glossary of musical terminology,narrative location,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,1,18,10,0.55,0,http://www.wikidata.org/prop/direct/P840,The Shadows,narrative location,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,1,18,11,0.41,0,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,1,6,9,0.42,0,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,Violence
+9,3,268,262,258,0,0.09328358208955224,2,2,13,29,0.51,2,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,1,2,18,17,0.51,1,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,8,6,0.41,0,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,2,10,13,0.51,0,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,House (TV series)
+9,3,268,262,258,0,0.09328358208955224,1,1,9,10,0.55,0,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,2,1,13,18,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,The Shadows
+9,3,268,262,258,0,0.09328358208955224,2,1,17,10,0.51,6,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,2,9,17,0.51,1,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,2,1,17,6,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,1,10,9,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Violence
+9,3,268,262,258,0.12274491786956787,0.09328358208955224,1,2,10,29,0.51,0,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,2,2,29,13,0.51,2,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0.15276485681533813,0.09328358208955224,1,2,10,29,0.51,0,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,Suffering
+9,3,268,262,258,0.15276485681533813,0.09328358208955224,2,1,29,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,1,8,9,0.42,0,http://www.wikidata.org/prop/direct/P840,Vasodilation,narrative location,Violence
+9,3,268,262,258,0,0.09328358208955224,1,1,8,10,0.55,0,http://www.wikidata.org/prop/direct/P840,Vasodilation,narrative location,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,2,2,13,24,0.51,1,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,2,1,29,6,0.41,0,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,1,11,8,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,2,18,24,0.42,1,http://www.wikidata.org/prop/direct/P840,The Shadows,narrative location,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,10,11,0.55,1,http://www.wikidata.org/prop/direct/P840,Bronze Age,narrative location,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,1,8,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,2,10,24,0.55,6,http://www.wikidata.org/prop/direct/P840,Bronze Age,narrative location,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,2,10,24,0.55,6,http://www.wikidata.org/prop/direct/P840,Bronze Age,narrative location,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,18,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,1,2,5,24,0.42,1,http://www.wikidata.org/prop/direct/P840,Glossary of musical terminology,narrative location,Buffyverse
+9,3,268,262,258,0.6156198978424072,0.09328358208955224,2,2,13,17,0.51,2,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,10,11,0.51,1,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,2,8,24,0.51,1,http://www.wikidata.org/prop/direct/P840,Vasodilation,narrative location,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,5,9,0.42,0,http://www.wikidata.org/prop/direct/P840,Glossary of musical terminology,narrative location,Violence
+9,3,268,262,258,0,0.09328358208955224,1,1,9,11,0.41,0,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,2,6,24,0.42,1,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,2,1,29,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,2,2,29,17,0.51,2,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,2,18,24,0.43,1,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,18,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,1,18,10,0.51,1,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,1,18,8,0.41,0,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,Vasodilation
+9,3,268,262,258,0.3683924078941345,0.09328358208955224,1,1,18,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,The Shadows
+9,3,268,262,258,0.20746272802352905,0.09328358208955224,2,1,17,18,0.51,3,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,2,8,24,0.42,1,http://www.wikidata.org/prop/direct/P840,Vasodilation,narrative location,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,18,10,0.55,1,http://www.wikidata.org/prop/direct/P840,The Shadows,narrative location,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,2,10,24,0.51,6,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,2,11,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,1,2,11,13,0.51,0,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,House (TV series)
+9,3,268,262,258,0,0.09328358208955224,1,1,11,18,0.42,0,http://www.wikidata.org/prop/direct/P840,"""She knows""",narrative location,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,2,11,13,0.51,1,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,11,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.55,1,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,2,10,24,0.55,1,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,Buffyverse
+9,3,268,262,258,0.20746272802352905,0.09328358208955224,1,2,18,13,0.51,3,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,18,6,0.42,0,http://www.wikidata.org/prop/direct/P840,The Shadows,narrative location,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,1,18,5,0.42,0,http://www.wikidata.org/prop/direct/P840,The Shadows,narrative location,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,1,1,10,11,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,1,10,5,0.55,0,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,2,1,13,18,0.51,0,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,The Shadows
+9,3,268,262,258,0,0.09328358208955224,1,2,11,17,0.51,1,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,5,11,0.41,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,"""She knows"""
+9,3,268,262,258,0.17506647109985352,0.09328358208955224,1,1,5,18,0.42,0,http://www.wikidata.org/prop/direct/P840,Glossary of musical terminology,narrative location,Stereophonic sound
+9,3,268,262,258,0.17506647109985352,0.09328358208955224,1,1,18,5,0.41,0,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0.28422945737838745,0.09328358208955224,1,1,9,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,Stereophonic sound
+9,3,268,262,258,0.3242354989051819,0.09328358208955224,2,1,17,10,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,2,9,24,0.42,1,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,6,8,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,1,18,11,0.42,0,http://www.wikidata.org/prop/direct/P840,The Shadows,narrative location,"""She knows"""
+9,3,268,262,258,0.845619797706604,0.09328358208955224,2,1,17,29,0.6,3,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,2,1,17,5,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,2,2,17,29,0.51,2,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,1,1,10,29,0.6,6,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,1,2,18,24,0.43,2,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,10,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,2,1,13,8,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,2,5,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Suffering
+9,3,268,262,258,0.17506647109985352,0.09328358208955224,1,1,5,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,1,9,8,0.41,0,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,Vasodilation
+9,3,268,262,258,0.055384933948516846,0.09328358208955224,1,1,9,10,0.55,1,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,1,9,18,0.42,0,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,The Shadows
+9,3,268,262,258,0.24453753232955933,0.09328358208955224,2,2,29,13,0.51,1,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,House (TV series)
+9,3,268,262,258,0,0.09328358208955224,1,1,6,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,2,1,29,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,The Shadows
+9,3,268,262,258,0.9843752980232239,0.09328358208955224,2,2,24,24,0.6,1,http://www.wikidata.org/prop/direct/P1080,Oz (Buffy the Vampire Slayer),from fictional universe,Buffyverse,1
+9,3,268,262,258,0,0.09328358208955224,1,1,18,11,0.41,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,"""She knows"""
+9,3,268,262,258,0.30934780836105347,0.09328358208955224,1,2,5,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,1,1,5,9,0.41,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Violence
+9,3,268,262,258,0,0.09328358208955224,1,2,5,17,0.51,1,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0.13731878995895386,0.09328358208955224,2,1,13,18,0.51,0,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,1,10,10,0.55,0,http://www.wikidata.org/prop/direct/P840,Bronze Age,narrative location,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,1,10,9,0.55,0,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,Violence
+9,3,268,262,258,0,0.09328358208955224,2,1,17,11,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,2,2,29,17,0.51,0,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,Dormitory
+9,3,268,262,258,0,0.09328358208955224,1,2,10,13,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,House (TV series)
+9,3,268,262,258,0,0.09328358208955224,2,1,29,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,The Shadows
+9,3,268,262,258,0,0.09328358208955224,1,2,11,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,1,2,10,13,0.51,6,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0.30934780836105347,0.09328358208955224,2,1,29,5,0.41,0,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0.6156198978424072,0.09328358208955224,2,2,13,13,0.51,2,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,House (TV series)
+9,3,268,262,258,0,0.09328358208955224,1,1,18,8,0.42,0,http://www.wikidata.org/prop/direct/P840,The Shadows,narrative location,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,2,1,17,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.51,1,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Stereophonic sound
+9,3,268,262,258,0.41663211584091187,0.09328358208955224,2,1,29,8,0.41,0,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,Vasodilation
+9,3,268,262,258,0.3242354989051819,0.09328358208955224,1,2,10,24,0.55,1,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,6,9,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Violence
+9,3,268,262,258,0,0.09328358208955224,1,2,18,17,0.51,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Dormitory
+9,3,268,262,258,0,0.09328358208955224,2,1,29,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,2,1,29,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,1,10,5,0.51,1,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0.12274491786956787,0.09328358208955224,2,1,29,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,2,18,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,1,1,8,18,0.42,0,http://www.wikidata.org/prop/direct/P840,Vasodilation,narrative location,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,1,10,6,0.51,1,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,2,8,17,0.51,1,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0.3683924078941345,0.09328358208955224,1,1,18,18,0.42,0,http://www.wikidata.org/prop/direct/P840,The Shadows,narrative location,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,1,9,6,0.41,0,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,1,6,8,0.42,0,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,1,18,6,0.41,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.51,0,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,2,1,17,5,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,2,2,17,17,0.51,2,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0.2892194390296936,0.09328358208955224,2,1,29,8,0.41,0,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,2,10,17,0.51,0,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,Dormitory
+9,3,268,262,258,0,0.09328358208955224,1,1,10,8,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,1,18,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,2,11,17,0.51,0,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Dormitory
+9,3,268,262,258,0,0.09328358208955224,1,1,5,10,0.51,1,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,1,9,5,0.41,0,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0.20746272802352905,0.09328358208955224,2,1,13,18,0.51,3,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,1,8,11,0.42,0,http://www.wikidata.org/prop/direct/P840,Vasodilation,narrative location,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,1,10,6,0.55,1,http://www.wikidata.org/prop/direct/P840,Bronze Age,narrative location,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,1,11,5,0.42,0,http://www.wikidata.org/prop/direct/P840,"""She knows""",narrative location,Glossary of musical terminology
+9,3,268,262,258,0.6156198978424072,0.09328358208955224,2,2,17,13,0.51,2,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,House (TV series)
+9,3,268,262,258,0,0.09328358208955224,2,2,29,13,0.51,2,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,2,10,29,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,1,1,6,10,0.55,0,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,2,9,24,0.43,1,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,18,9,0.41,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Violence
+9,3,268,262,258,0,0.09328358208955224,1,1,18,10,0.51,1,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,2,6,24,0.43,1,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,8,10,0.51,1,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,Bronze Age
+9,3,268,262,258,0.16579186916351318,0.09328358208955224,1,2,18,17,0.51,1,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,Dormitory
+9,3,268,262,258,0.6777242422103882,0.09328358208955224,2,2,29,29,0.41,1,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,2,2,17,29,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,2,1,17,8,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,2,10,24,0.51,1,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,11,18,0.42,0,http://www.wikidata.org/prop/direct/P840,"""She knows""",narrative location,The Shadows
+9,3,268,262,258,0,0.09328358208955224,1,1,10,11,0.55,0,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,"""She knows"""
+9,3,268,262,258,0.2832457423210144,0.09328358208955224,2,1,13,9,0.51,0,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Violence
+9,3,268,262,258,0,0.09328358208955224,2,1,17,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,1,2,18,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,The Shadows
+9,3,268,262,258,0,0.09328358208955224,1,1,5,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0.3683924078941345,0.09328358208955224,1,1,18,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Stereophonic sound
+9,3,268,262,258,0.3242354989051819,0.09328358208955224,2,1,13,10,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,2,1,13,11,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,1,5,18,0.42,0,http://www.wikidata.org/prop/direct/P840,Glossary of musical terminology,narrative location,The Shadows
+9,3,268,262,258,0.17506647109985352,0.09328358208955224,1,1,18,5,0.42,0,http://www.wikidata.org/prop/direct/P840,Stereophonic sound,narrative location,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,1,2,5,17,0.51,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Dormitory
+9,3,268,262,258,0,0.09328358208955224,1,1,10,8,0.51,1,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,2,18,24,0.51,1,http://www.wikidata.org/prop/direct/P840,The Shadows,narrative location,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,2,1,17,8,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,2,8,13,0.51,1,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,2,1,29,6,0.41,0,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,1,10,6,0.55,0,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,1,18,6,0.41,0,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,1,18,29,0.6,2,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,1,1,18,10,0.55,0,http://www.wikidata.org/prop/direct/P840,Stereophonic sound,narrative location,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,1,10,6,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,2,2,29,24,0.43,1,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,18,11,0.42,0,http://www.wikidata.org/prop/direct/P840,Stereophonic sound,narrative location,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,1,9,5,0.42,0,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,Glossary of musical terminology
+9,3,268,262,258,0.20746272802352905,0.09328358208955224,1,2,18,17,0.51,3,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0.6777242422103882,0.09328358208955224,2,2,29,29,0.41,1,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,1,2,18,13,0.51,1,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,2,1,17,6,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,2,1,17,11,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,2,11,24,0.51,1,http://www.wikidata.org/prop/direct/P840,"""She knows""",narrative location,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,8,11,0.41,0,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,1,10,8,0.55,1,http://www.wikidata.org/prop/direct/P840,Bronze Age,narrative location,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,1,6,5,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,1,1,6,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,2,6,17,0.51,1,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,2,8,13,0.51,0,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,House (TV series)
+9,3,268,262,258,0,0.09328358208955224,2,1,13,6,0.51,0,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,2,6,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,1,1,5,10,0.55,1,http://www.wikidata.org/prop/direct/P840,Glossary of musical terminology,narrative location,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,2,2,17,17,0.51,2,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Dormitory
+9,3,268,262,258,0,0.09328358208955224,1,1,11,5,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,1,2,6,17,0.51,0,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Dormitory
+9,3,268,262,258,0,0.09328358208955224,2,2,29,13,0.51,1,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,House (TV series)
+9,3,268,262,258,0.28422945737838745,0.09328358208955224,1,1,9,18,0.42,0,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,2,2,13,17,0.51,0,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Dormitory
+9,3,268,262,258,0,0.09328358208955224,1,2,11,24,0.42,1,http://www.wikidata.org/prop/direct/P840,"""She knows""",narrative location,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,8,5,0.42,0,http://www.wikidata.org/prop/direct/P840,Vasodilation,narrative location,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,1,1,6,5,0.42,0,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,1,1,5,6,0.41,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,1,5,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,1,18,8,0.42,0,http://www.wikidata.org/prop/direct/P840,Stereophonic sound,narrative location,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,1,11,10,0.55,1,http://www.wikidata.org/prop/direct/P840,"""She knows""",narrative location,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,2,6,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,1,2,9,24,0.51,1,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,6,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,The Shadows
+9,3,268,262,258,0,0.09328358208955224,1,2,8,24,0.43,1,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,9,6,0.42,0,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,2,18,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,2,2,13,29,0.51,1,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,1,1,9,11,0.42,0,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,1,11,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,The Shadows
+9,3,268,262,258,0,0.09328358208955224,2,1,29,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0.055384933948516846,0.09328358208955224,1,1,9,10,0.51,1,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,2,9,13,0.51,1,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,8,18,0.42,0,http://www.wikidata.org/prop/direct/P840,Vasodilation,narrative location,The Shadows
+9,3,268,262,258,0.4575095772743225,0.09328358208955224,1,2,9,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,1,2,10,17,0.51,6,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,10,10,0.55,0,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,2,2,17,13,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,House (TV series)
+9,3,268,262,258,0.3242354989051819,0.09328358208955224,1,2,10,13,0.51,1,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0.8514044880867004,0.09328358208955224,2,2,24,24,0.51,5,http://www.wikidata.org/prop/direct/P840,Buffy the Vampire Slayer,narrative location,Buffyverse,1
+9,3,268,262,258,0,0.09328358208955224,1,1,9,8,0.42,0,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,1,6,10,0.55,1,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,Bronze Age
+9,3,268,262,258,0.16579186916351318,0.09328358208955224,2,1,17,18,0.51,1,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Stereophonic sound
+9,3,268,262,258,0.8514044880867004,0.09328358208955224,2,2,13,24,0.51,5,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Buffyverse
+9,3,268,262,258,0.845619797706604,0.09328358208955224,2,1,13,29,0.6,3,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,2,1,29,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,2,1,29,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,Stereophonic sound
+9,3,268,262,258,0.6156198978424072,0.09328358208955224,2,2,13,13,0.51,2,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,2,1,13,11,0.51,0,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,"""She knows"""
+9,3,268,262,258,0,0.09328358208955224,1,2,5,24,0.43,1,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,6,18,0.42,0,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,1,2,6,24,0.51,1,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,2,18,13,0.51,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,House (TV series)
+9,3,268,262,258,0,0.09328358208955224,1,1,5,6,0.42,0,http://www.wikidata.org/prop/direct/P840,Glossary of musical terminology,narrative location,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,2,1,13,9,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Violence
+9,3,268,262,258,0.13731878995895386,0.09328358208955224,1,2,18,13,0.51,0,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,House (TV series)
+9,3,268,262,258,0,0.09328358208955224,1,2,10,29,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.55,1,http://www.wikidata.org/prop/direct/P840,Bronze Age,narrative location,The Shadows
+9,3,268,262,258,0,0.09328358208955224,1,1,10,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,2,1,29,11,0.41,0,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,"""She knows"""
+9,3,268,262,258,0.3242354989051819,0.09328358208955224,1,2,10,17,0.51,1,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,1,11,10,0.55,0,http://www.wikidata.org/prop/direct/P840,"""She knows""",narrative location,North American fraternity and sorority housing
+9,3,268,262,258,0.3683924078941345,0.09328358208955224,1,1,18,18,0.42,0,http://www.wikidata.org/prop/direct/P840,Stereophonic sound,narrative location,The Shadows
+9,3,268,262,258,0,0.09328358208955224,1,2,6,13,0.51,0,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,House (TV series)
+9,3,268,262,258,0,0.09328358208955224,1,1,9,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,2,2,17,29,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,1,1,8,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,Oz (Buffy the Vampire Slayer)
+9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.55,0,http://www.wikidata.org/prop/direct/P840,Bronze Age,narrative location,Stereophonic sound
+9,3,268,262,258,0,0.09328358208955224,2,1,13,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,North American fraternity and sorority housing
+9,3,268,262,258,0,0.09328358208955224,1,2,9,17,0.51,0,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,Dormitory
+9,3,268,262,258,0,0.09328358208955224,1,1,9,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,The Shadows
+9,3,268,262,258,0.5540580153465271,0.09328358208955224,2,1,29,9,0.41,0,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,Violence
+9,3,268,262,258,0,0.09328358208955224,1,1,8,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Vasodilation,from fictional universe,The Shadows
+9,3,268,262,258,0.24453753232955933,0.09328358208955224,2,2,13,29,0.51,1,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,2,1,17,18,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,The Shadows
+9,3,268,262,258,0,0.09328358208955224,2,2,17,24,0.51,1,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,1,1,11,10,0.51,1,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,1,6,10,0.51,1,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,2,5,24,0.51,1,http://www.wikidata.org/prop/direct/P840,Glossary of musical terminology,narrative location,Buffy the Vampire Slayer
+9,3,268,262,258,0,0.09328358208955224,1,2,11,24,0.43,1,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Buffyverse
+9,3,268,262,258,0,0.09328358208955224,2,1,29,11,0.41,0,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,"""She knows"""
+9,3,268,262,258,0.5540580153465271,0.09328358208955224,1,2,9,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,1,1,8,10,0.55,1,http://www.wikidata.org/prop/direct/P840,Vasodilation,narrative location,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,2,1,13,6,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,2,2,29,17,0.51,0,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,Dormitory
+9,3,268,262,258,0.2832457423210144,0.09328358208955224,1,2,9,13,0.51,0,http://www.wikidata.org/prop/direct/P1080,Violence,from fictional universe,House (TV series)
+9,3,268,262,258,0,0.09328358208955224,1,1,11,9,0.41,0,http://www.wikidata.org/prop/direct/P1080,"""She knows""",from fictional universe,Violence
+9,3,268,262,258,0,0.09328358208955224,2,1,13,8,0.51,0,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,2,2,13,29,0.51,2,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Mind
+9,3,268,262,258,0,0.09328358208955224,1,1,8,6,0.42,0,http://www.wikidata.org/prop/direct/P840,Vasodilation,narrative location,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,1,2,18,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,Suffering
+9,3,268,262,258,0,0.09328358208955224,1,2,6,13,0.51,1,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Buffy the Vampire Slayer
+9,3,268,262,258,0.055384933948516846,0.09328358208955224,1,1,10,9,0.51,1,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,Violence
+9,3,268,262,258,0,0.09328358208955224,1,1,18,9,0.42,0,http://www.wikidata.org/prop/direct/P840,The Shadows,narrative location,Violence
+9,3,268,262,258,0,0.09328358208955224,1,1,5,8,0.42,0,http://www.wikidata.org/prop/direct/P840,Glossary of musical terminology,narrative location,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,1,10,8,0.55,0,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,Vasodilation
+9,3,268,262,258,0,0.09328358208955224,1,1,18,6,0.42,0,http://www.wikidata.org/prop/direct/P840,Stereophonic sound,narrative location,"""Pain"""
+9,3,268,262,258,0,0.09328358208955224,2,1,13,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,2,1,13,5,0.51,1,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Glossary of musical terminology
+9,3,268,262,258,0,0.09328358208955224,1,1,5,11,0.42,0,http://www.wikidata.org/prop/direct/P840,Glossary of musical terminology,narrative location,"""She knows"""
+9,3,268,262,258,0.8514044880867004,0.09328358208955224,2,2,17,24,0.51,5,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Buffyverse
+9,3,268,262,258,0.28422945737838745,0.09328358208955224,1,1,18,9,0.41,0,http://www.wikidata.org/prop/direct/P1080,Stereophonic sound,from fictional universe,Violence
+9,3,268,262,258,0,0.09328358208955224,2,1,13,10,0.51,6,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,1,1,10,10,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Bronze Age
+9,3,268,262,258,0,0.09328358208955224,2,1,13,5,0.51,0,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Glossary of musical terminology
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əna,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkəma,part of,Enki
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-u,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-on,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-on
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-omu,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-a:,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-omu,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əna,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-u
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-omu,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-a:,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əna,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-omu,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əna,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-a:,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-omu,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əna,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkən,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-on,part of,Noun phrase
+10,2,174,168,166,0.43196195363998413,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-on
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-u,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əna,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkən,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-on,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,Enki,has part,Noun phrase
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.41,3,http://www.wikidata.org/prop/direct/P361,Noun,part of,Noun phrase,1
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-a:,has part,Yodh
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-on
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-u,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-u,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-a:,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-omu,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-omu,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-u,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əna,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Yodh
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-u,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkən,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-on,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-u,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-on,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-on,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkəma,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-on
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əna,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-on,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-on,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-omu,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-on
+10,2,174,168,166,0.5068553686141968,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Yodh,part of,Noun
+10,2,174,168,166,0.5068553686141968,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Yodh,part of,Noun
+10,2,174,168,166,0.5068553686141968,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,Yodh,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əna,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-u,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-a:
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Yodh,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-u
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Yodh,part of,Noun phrase
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.49,3,http://www.wikidata.org/prop/direct/P279,Noun,subclass of,Noun phrase,1
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-omu,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-a:,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkəma,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-omu,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-u,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-a:,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əna,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-a:,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-on
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-on,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-on,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-omu,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-əna
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-əkəma
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-on,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-u,has part,Noun phrase
+10,2,174,168,166,0.43196195363998413,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-u,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-a:,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-u
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-a:,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-on
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-u,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əna,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-a:,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əna,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkəma,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-əna
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-omu,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-əna
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-on,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-u,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkən,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-a:,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əna,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-omu,part of,Noun phrase
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.54,3,http://www.wikidata.org/prop/direct/P527,Noun phrase,has part,Noun,1
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Enki,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-on
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-omu,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-omu,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkəma,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-on
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,Enki,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-omu
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkən,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-a:,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-u,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əna,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əna,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-a:,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-u,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-on,part of,Noun
+10,2,174,168,166,0.43196195363998413,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Enki,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-on,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-on,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Enki,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,Yodh,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-a:,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Enki,part of,Noun
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,35,genre,Nintendo Video
+2,3,86,83,79,0.6835566759109497,0.10465116279069768,2,2,13,13,0.51,3,http://www.wikidata.org/prop/direct/P136,Nintendo Video,genre,Video,1
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,35,genre,Video
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,205,genre,Nintendo Video
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,200,genre,Nintendo Video
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,205,genre,Video
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,200,genre,Video
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,40,genre,Nintendo Video
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,40,genre,Video

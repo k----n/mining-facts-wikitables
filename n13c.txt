@@ -1,0 +1,531 @@
+7,4,200,199,198,0,0.1,1,1,34,14,0.45,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,8
+7,4,200,199,198,0,0.1,1,1,28,17,0.43,1,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Actor
+7,4,200,199,198,0,0.1,1,1,19,4,0.45,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Girl
+7,4,200,199,198,0,0.1,1,1,32,9,0.31,1,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,32,29,0.0,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,Free Ride (2013 film)
+7,4,200,199,198,0,0.1,1,1,5,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Shell,occupation,Holidays (2016 film)
+7,4,200,199,198,0.8230337500572205,0.1,1,1,28,27,0.0,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,28,3,0.45,1,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Bea
+7,4,200,199,198,0,0.1,1,1,14,28,0.45,0,http://www.wikidata.org/prop/direct/P106,8,occupation,Holidays (2016 film)
+7,4,200,199,198,0,0.1,1,1,32,27,0.0,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,28,34,0.0,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,The Devil's in the Details
+7,4,200,199,198,0,0.1,1,1,25,5,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Chloe
+7,4,200,199,198,0,0.1,1,1,5,25,0.45,0,http://www.wikidata.org/prop/direct/P106,Shell,occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,3,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Bea,occupation,Holidays (2016 film)
+7,4,200,199,198,0,0.1,1,1,25,5,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Shell
+7,4,200,199,198,0,0.1,1,1,28,4,0.45,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Girl
+7,4,200,199,198,0,0.1,1,1,32,3,0.45,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,Bea
+7,4,200,199,198,0,0.1,1,1,14,34,0.45,0,http://www.wikidata.org/prop/direct/P106,8,occupation,The Devil's in the Details
+7,4,200,199,198,0,0.1,1,1,5,25,0.45,0,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,5,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,The Face of an Angel
+7,4,200,199,198,0,0.1,1,1,29,14,0.45,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,8
+7,4,200,199,198,0,0.1,1,1,5,32,0.45,0,http://www.wikidata.org/prop/direct/P106,Shell,occupation,White Bird in a Blizzard
+7,4,200,199,198,0.22904521226882935,0.1,1,1,32,17,0.43,1,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,Actor
+7,4,200,199,198,0,0.1,1,1,28,25,0.45,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,5,34,0.45,1,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,The Devil's in the Details
+7,4,200,199,198,0,0.1,1,1,5,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,Holidays (2016 film)
+7,4,200,199,198,0,0.1,1,1,19,5,0.45,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Chloe
+7,4,200,199,198,0,0.1,1,1,28,34,0.0,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,The Devil's in the Details
+7,4,200,199,198,0,0.1,1,1,25,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Holidays (2016 film)
+7,4,200,199,198,0,0.1,1,1,19,28,0.0,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Holidays (2016 film)
+7,4,200,199,198,0,0.1,1,1,27,25,0.45,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,28,5,0.45,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Chloe
+7,4,200,199,198,0,0.1,1,1,25,9,0.45,1,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,28,9,0.31,1,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,5,34,0.45,0,http://www.wikidata.org/prop/direct/P106,Shell,occupation,The Devil's in the Details
+7,4,200,199,198,0.7344110012054443,0.1,1,1,28,32,0.0,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,White Bird in a Blizzard
+7,4,200,199,198,0,0.1,1,1,32,34,0.0,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,The Devil's in the Details
+7,4,200,199,198,0,0.1,1,1,28,29,0.0,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Free Ride (2013 film)
+7,4,200,199,198,0,0.1,1,1,25,3,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Bea
+7,4,200,199,198,0,0.1,1,1,34,5,0.45,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Shell
+7,4,200,199,198,0,0.1,1,1,4,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Girl,occupation,The Face of an Angel
+7,4,200,199,198,0,0.1,1,1,3,34,0.45,0,http://www.wikidata.org/prop/direct/P106,Bea,occupation,The Devil's in the Details
+7,4,200,199,198,0,0.1,1,1,32,28,0.0,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,Holidays (2016 film)
+7,4,200,199,198,0,0.1,1,1,5,29,0.45,0,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,Free Ride (2013 film)
+7,4,200,199,198,0,0.1,1,1,29,9,0.31,1,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,27,4,0.45,1,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Girl
+7,4,200,199,198,0,0.1,1,1,28,4,0.45,1,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Girl
+7,4,200,199,198,0,0.1,1,1,29,5,0.45,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Chloe
+7,4,200,199,198,0,0.1,1,1,29,19,0.0,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Jobs (film)
+7,4,200,199,198,0,0.1,1,1,14,25,0.45,0,http://www.wikidata.org/prop/direct/P106,8,occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,29,34,0.0,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,The Devil's in the Details
+7,4,200,199,198,0,0.1,1,1,29,28,0.0,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,The Face of an Angel
+7,4,200,199,198,0,0.1,1,1,29,3,0.45,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Bea
+7,4,200,199,198,0,0.1,1,1,32,14,0.45,1,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,8
+7,4,200,199,198,0,0.1,1,1,28,28,0.0,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Holidays (2016 film)
+7,4,200,199,198,0,0.1,1,1,29,4,0.45,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Girl
+7,4,200,199,198,0,0.1,1,1,27,14,0.45,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,8
+7,4,200,199,198,0,0.1,1,1,28,32,0.0,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,White Bird in a Blizzard
+7,4,200,199,198,0,0.1,1,1,29,5,0.45,1,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Shell
+7,4,200,199,198,0,0.1,1,1,28,14,0.45,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,8
+7,4,200,199,198,0,0.1,1,1,3,17,0.45,1,http://www.wikidata.org/prop/direct/P106,Bea,occupation,Actor
+7,4,200,199,198,0,0.1,1,1,29,28,0.0,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Holidays (2016 film)
+7,4,200,199,198,0.8230337500572205,0.1,1,1,27,28,0.0,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Holidays (2016 film)
+7,4,200,199,198,0,0.1,1,1,4,19,0.45,0,http://www.wikidata.org/prop/direct/P106,Girl,occupation,Jobs (film)
+7,4,200,199,198,0,0.1,1,1,34,4,0.45,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Girl
+7,4,200,199,198,0,0.1,1,1,3,19,0.45,0,http://www.wikidata.org/prop/direct/P106,Bea,occupation,Jobs (film)
+7,4,200,199,198,0.6631620526313782,0.1,1,1,28,19,0.0,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Jobs (film)
+7,4,200,199,198,0,0.1,1,1,5,29,0.45,1,http://www.wikidata.org/prop/direct/P106,Shell,occupation,Free Ride (2013 film)
+7,4,200,199,198,0,0.1,1,1,5,19,0.45,0,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,Jobs (film)
+7,4,200,199,198,0,0.1,1,1,34,25,0.45,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,29,25,0.45,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,27,5,0.45,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Chloe
+7,4,200,199,198,0,0.1,1,1,34,3,0.45,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Bea
+7,4,200,199,198,0,0.1,1,1,25,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,The Face of an Angel
+7,4,200,199,198,0.6631620526313782,0.1,1,1,19,28,0.0,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,The Face of an Angel
+7,4,200,199,198,0,0.1,1,1,14,27,0.45,0,http://www.wikidata.org/prop/direct/P106,8,occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,19,9,0.31,1,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,25,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,28,29,0.0,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Free Ride (2013 film)
+7,4,200,199,198,0,0.1,1,1,17,17,0.43,1,http://www.wikidata.org/prop/direct/P106,Ava Acres,occupation,Actor,1
+7,4,200,199,198,0,0.1,1,1,34,17,0.43,1,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Actor
+7,4,200,199,198,0.8106204867362976,0.1,1,1,27,9,0.31,1,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,5,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Shell,occupation,The Face of an Angel
+7,4,200,199,198,0,0.1,1,1,28,27,0.0,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,28,3,0.45,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Bea
+7,4,200,199,198,0,0.1,1,1,4,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Girl,occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,5,19,0.45,0,http://www.wikidata.org/prop/direct/P106,Shell,occupation,Jobs (film)
+7,4,200,199,198,0,0.1,1,1,4,28,0.45,1,http://www.wikidata.org/prop/direct/P106,Girl,occupation,Holidays (2016 film)
+7,4,200,199,198,0,0.1,1,1,34,28,0.0,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,The Face of an Angel
+7,4,200,199,198,0.28583335876464844,0.1,1,1,29,17,0.43,1,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Actor
+7,4,200,199,198,0,0.1,1,1,14,28,0.45,0,http://www.wikidata.org/prop/direct/P106,8,occupation,The Face of an Angel
+7,4,200,199,198,0,0.1,1,1,25,14,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,8
+7,4,200,199,198,0,0.1,1,1,34,19,0.0,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Jobs (film)
+7,4,200,199,198,0,0.1,1,1,3,28,0.45,1,http://www.wikidata.org/prop/direct/P106,Bea,occupation,The Face of an Angel
+7,4,200,199,198,0.08477163314819336,0.1,1,1,4,17,0.45,2,http://www.wikidata.org/prop/direct/P106,Girl,occupation,Actor
+7,4,200,199,198,0,0.1,1,1,28,25,0.45,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,14,17,0.45,1,http://www.wikidata.org/prop/direct/P106,8,occupation,Actor
+7,4,200,199,198,0,0.1,1,1,5,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,28,28,0.0,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,The Face of an Angel
+7,4,200,199,198,0,0.1,1,1,3,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Bea,occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,28,9,0.31,1,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,32,4,0.45,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,Girl
+7,4,200,199,198,0,0.1,1,1,5,9,0.45,1,http://www.wikidata.org/prop/direct/P106,Shell,occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,19,14,0.45,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,8
+7,4,200,199,198,0,0.1,1,1,14,9,0.45,1,http://www.wikidata.org/prop/direct/P106,8,occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,29,32,0.0,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,White Bird in a Blizzard
+7,4,200,199,198,0,0.1,1,1,4,29,0.45,0,http://www.wikidata.org/prop/direct/P106,Girl,occupation,Free Ride (2013 film)
+7,4,200,199,198,0.21625852584838867,0.1,1,1,27,17,0.43,1,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Actor
+7,4,200,199,198,0,0.1,1,1,34,29,0.0,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Free Ride (2013 film)
+7,4,200,199,198,0,0.1,1,1,27,5,0.45,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Shell
+7,4,200,199,198,0,0.1,1,1,3,32,0.45,0,http://www.wikidata.org/prop/direct/P106,Bea,occupation,White Bird in a Blizzard
+7,4,200,199,198,0,0.1,1,1,14,19,0.45,0,http://www.wikidata.org/prop/direct/P106,8,occupation,Jobs (film)
+7,4,200,199,198,0,0.1,1,1,5,17,0.45,1,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,Actor
+7,4,200,199,198,0.2669444680213928,0.1,1,1,28,17,0.43,1,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Actor
+7,4,200,199,198,0,0.1,1,1,5,17,0.45,1,http://www.wikidata.org/prop/direct/P106,Shell,occupation,Actor
+7,4,200,199,198,0,0.1,1,1,3,25,0.45,0,http://www.wikidata.org/prop/direct/P106,Bea,occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,28,19,0.0,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Jobs (film)
+7,4,200,199,198,0,0.1,1,1,25,17,0.45,1,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Actor
+7,4,200,199,198,0,0.1,1,1,25,4,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Girl
+7,4,200,199,198,0,0.1,1,1,34,32,0.0,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,White Bird in a Blizzard
+7,4,200,199,198,0,0.1,1,1,5,9,0.45,1,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,14,29,0.45,0,http://www.wikidata.org/prop/direct/P106,8,occupation,Free Ride (2013 film)
+7,4,200,199,198,0,0.1,1,1,32,5,0.45,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,Shell
+7,4,200,199,198,0,0.1,1,1,29,27,0.0,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,3,9,0.45,1,http://www.wikidata.org/prop/direct/P106,Bea,occupation,Ava Acres
+7,4,200,199,198,0.18197208642959595,0.1,1,1,19,17,0.43,1,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Actor
+7,4,200,199,198,0,0.1,1,1,25,32,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,White Bird in a Blizzard
+7,4,200,199,198,0.8138619065284729,0.1,1,1,19,25,0.45,1,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,32,25,0.45,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,27,3,0.45,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Bea
+7,4,200,199,198,0,0.1,1,1,19,5,0.45,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Shell
+7,4,200,199,198,0,0.1,1,1,27,28,0.0,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,The Face of an Angel
+7,4,200,199,198,0,0.1,1,1,5,32,0.45,0,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,White Bird in a Blizzard
+7,4,200,199,198,0,0.1,1,1,34,28,0.0,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Holidays (2016 film)
+7,4,200,199,198,0,0.1,1,1,5,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Shell,occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,14,32,0.45,1,http://www.wikidata.org/prop/direct/P106,8,occupation,White Bird in a Blizzard
+7,4,200,199,198,0,0.1,1,1,27,29,0.0,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Free Ride (2013 film)
+7,4,200,199,198,0,0.1,1,1,4,9,0.45,2,http://www.wikidata.org/prop/direct/P106,Girl,occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,25,29,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Free Ride (2013 film)
+7,4,200,199,198,0,0.1,1,1,32,19,0.0,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,Jobs (film)
+7,4,200,199,198,0,0.1,1,1,3,29,0.45,0,http://www.wikidata.org/prop/direct/P106,Bea,occupation,Free Ride (2013 film)
+7,4,200,199,198,0,0.1,1,1,34,5,0.45,1,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Chloe
+7,4,200,199,198,0,0.1,1,1,32,5,0.45,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,Chloe
+7,4,200,199,198,0,0.1,1,1,19,34,0.0,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,The Devil's in the Details
+7,4,200,199,198,0,0.1,1,1,27,19,0.0,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Jobs (film)
+7,4,200,199,198,0,0.1,1,1,19,32,0.0,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,White Bird in a Blizzard
+7,4,200,199,198,0,0.1,1,1,19,27,0.0,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,4,34,0.45,0,http://www.wikidata.org/prop/direct/P106,Girl,occupation,The Devil's in the Details
+7,4,200,199,198,0.7344110012054443,0.1,1,1,32,28,0.0,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,The Face of an Angel
+7,4,200,199,198,0.8138619065284729,0.1,1,1,25,19,0.45,1,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Jobs (film)
+7,4,200,199,198,0,0.1,1,1,27,34,0.0,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,The Devil's in the Details
+7,4,200,199,198,0,0.1,1,1,19,29,0.0,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Free Ride (2013 film)
+7,4,200,199,198,0,0.1,1,1,34,27,0.0,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,At the Devil's Door
+7,4,200,199,198,0,0.1,1,1,4,32,0.45,0,http://www.wikidata.org/prop/direct/P106,Girl,occupation,White Bird in a Blizzard
+7,4,200,199,198,0,0.1,1,1,4,25,0.45,0,http://www.wikidata.org/prop/direct/P106,Girl,occupation,Lisa Brennan-Jobs
+7,4,200,199,198,0,0.1,1,1,28,14,0.45,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,8
+7,4,200,199,198,0,0.1,1,1,34,9,0.31,1,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Ava Acres
+7,4,200,199,198,0,0.1,1,1,28,5,0.45,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Shell
+7,4,200,199,198,0,0.1,1,1,27,32,0.0,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,White Bird in a Blizzard
+7,4,200,199,198,0,0.1,1,1,19,3,0.45,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Bea
+7,4,200,199,198,0,0.1,1,1,25,34,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,The Devil's in the Details
+7,4,200,199,198,0,0.1,1,1,28,5,0.45,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Chloe
+7,4,200,199,198,0,0.1,1,1,28,5,0.45,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Shell
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.52,1,http://www.wikidata.org/prop/direct/P452,1892,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2017,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,224,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1995,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,139,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,67,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,94,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,1,21,0.52,1,http://www.wikidata.org/prop/direct/P452,7,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,86,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,3,http://www.wikidata.org/prop/direct/P452,1993,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,86,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,67,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,94,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,1,17,0.52,1,http://www.wikidata.org/prop/direct/P452,7,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,3,http://www.wikidata.org/prop/direct/P452,1993,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,224,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2017,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1995,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,139,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.52,1,http://www.wikidata.org/prop/direct/P452,1892,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,21,21,0.46,1,http://www.wikidata.org/prop/direct/P452,Dm-drogerie markt,industry,Retail,1
+3,7,268,267,266,0,0.08208955223880597,1,1,4,16,0.49,1,http://www.wikidata.org/prop/direct/P54,Draw,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,2,1,16,14,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,13
+3,7,268,267,266,0.6360847353935242,0.08208955223880597,2,2,16,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,1,2,17,31,0.5,1,http://www.wikidata.org/prop/direct/P54,24,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,1,1,3,24,0.49,1,http://www.wikidata.org/prop/direct/P54,Win,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,2,1,16,16,0.5,1,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,Friendly match
+3,7,268,267,266,0.4626811742782593,0.08208955223880597,1,2,5,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,2,1,16,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,IND
+3,7,268,267,266,0,0.08208955223880597,1,1,16,4,0.49,1,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,Draw
+3,7,268,267,266,0,0.08208955223880597,1,1,17,16,0.49,1,http://www.wikidata.org/prop/direct/P54,24,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,2,1,31,4,0.5,1,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Loss
+3,7,268,267,266,0,0.08208955223880597,2,1,31,16,0.5,1,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,1,2,17,21,0.5,0,http://www.wikidata.org/prop/direct/P54,10,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,1,1,24,4,0.49,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,Draw
+3,7,268,267,266,0,0.08208955223880597,1,2,3,21,0.5,0,http://www.wikidata.org/prop/direct/P54,1,member of sports team,Nepal
+3,7,268,267,266,0.3354741334915161,0.08208955223880597,2,2,21,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,2,1,16,17,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,24
+3,7,268,267,266,0,0.08208955223880597,1,1,24,17,0.49,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,24
+3,7,268,267,266,0,0.08208955223880597,2,1,21,3,0.5,1,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,4
+3,7,268,267,266,0,0.08208955223880597,2,1,16,17,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,24
+3,7,268,267,266,0,0.08208955223880597,1,2,4,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Loss,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,2,1,21,17,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,10
+3,7,268,267,266,0,0.08208955223880597,2,1,31,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,Win
+3,7,268,267,266,0,0.08208955223880597,1,2,16,16,0.5,1,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,Aden
+3,7,268,267,266,0,0.08208955223880597,1,2,14,16,0.5,0,http://www.wikidata.org/prop/direct/P54,13,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,2,3,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Win,member of sports team,Aden
+3,7,268,267,266,0.41393762826919556,0.08208955223880597,2,2,31,16,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Aden
+3,7,268,267,266,0,0.08208955223880597,2,1,16,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,4
+3,7,268,267,266,0,0.08208955223880597,1,1,24,3,0.49,1,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,Win
+3,7,268,267,266,0.32061195373535156,0.08208955223880597,1,1,5,13,0.41,2,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,1,1,17,24,0.49,0,http://www.wikidata.org/prop/direct/P54,24,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,1,1,3,13,0.41,1,http://www.wikidata.org/prop/direct/P54,KUW,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,1,1,4,16,0.49,1,http://www.wikidata.org/prop/direct/P54,Loss,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,1,2,14,21,0.5,1,http://www.wikidata.org/prop/direct/P54,13,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,1,1,24,3,0.49,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,KUW
+3,7,268,267,266,0.6125614643096924,0.08208955223880597,2,2,21,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,2,1,16,4,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,Loss
+3,7,268,267,266,0,0.08208955223880597,1,1,4,13,0.41,1,http://www.wikidata.org/prop/direct/P54,Loss,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,1,1,17,13,0.43,1,http://www.wikidata.org/prop/direct/P54,10,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,2,1,16,4,0.5,1,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,Draw
+3,7,268,267,266,0,0.08208955223880597,1,2,3,16,0.5,0,http://www.wikidata.org/prop/direct/P54,KUW,member of sports team,Yemen
+3,7,268,267,266,0.3506122827529907,0.08208955223880597,2,1,21,19,0.5,1,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,North Korea national football team
+3,7,268,267,266,0.6688493490219116,0.08208955223880597,2,1,16,5,0.5,2,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,2,16,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,1,2,3,21,0.5,0,http://www.wikidata.org/prop/direct/P54,KUW,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,1,2,17,21,0.5,0,http://www.wikidata.org/prop/direct/P54,24,member of sports team,Kathmandu
+3,7,268,267,266,0.4626811742782593,0.08208955223880597,2,2,21,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,1,3,13,0.41,1,http://www.wikidata.org/prop/direct/P54,IND,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,1,2,17,21,0.5,0,http://www.wikidata.org/prop/direct/P54,10,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,2,1,21,17,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,24
+3,7,268,267,266,0,0.08208955223880597,1,1,24,4,0.49,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,Loss
+3,7,268,267,266,0,0.08208955223880597,1,2,3,31,0.5,0,http://www.wikidata.org/prop/direct/P54,IND,member of sports team,6th of October City
+3,7,268,267,266,0,0.08208955223880597,1,1,3,19,0.49,3,http://www.wikidata.org/prop/direct/P54,1,member of sports team,North Korea national football team
+3,7,268,267,266,0.717044472694397,0.08208955223880597,2,2,21,21,0.5,1,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,2,1,31,14,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,13
+3,7,268,267,266,0,0.08208955223880597,1,1,16,4,0.49,1,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,Loss
+3,7,268,267,266,0.547370433807373,0.08208955223880597,2,1,21,19,0.5,1,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,1,1,3,16,0.49,0,http://www.wikidata.org/prop/direct/P54,IND,member of sports team,Friendly match
+3,7,268,267,266,0.717044472694397,0.08208955223880597,2,2,21,21,0.5,1,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,1,2,3,31,0.5,0,http://www.wikidata.org/prop/direct/P54,4,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,1,2,14,31,0.5,0,http://www.wikidata.org/prop/direct/P54,13,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,2,1,31,3,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,IND
+3,7,268,267,266,0,0.08208955223880597,1,1,3,16,0.49,3,http://www.wikidata.org/prop/direct/P54,1,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,2,1,21,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,1
+3,7,268,267,266,0,0.08208955223880597,2,1,16,17,0.5,2,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,10
+3,7,268,267,266,0.4990752339363098,0.08208955223880597,2,1,21,13,0.5,1,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,Ri Chol-myong
+3,7,268,267,266,0.6360847353935242,0.08208955223880597,2,2,31,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,2,1,21,4,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,Draw
+3,7,268,267,266,0,0.08208955223880597,1,2,3,21,0.5,1,http://www.wikidata.org/prop/direct/P54,IND,member of sports team,Kathmandu
+3,7,268,267,266,0.6688493490219116,0.08208955223880597,1,2,5,16,0.5,2,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Aden
+3,7,268,267,266,0.295387327671051,0.08208955223880597,2,2,21,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,6th of October City
+3,7,268,267,266,0.3541417717933655,0.08208955223880597,1,1,24,5,0.49,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,2,3,21,0.5,1,http://www.wikidata.org/prop/direct/P54,4,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,1,1,3,16,0.49,0,http://www.wikidata.org/prop/direct/P54,Win,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,1,2,17,31,0.5,0,http://www.wikidata.org/prop/direct/P54,10,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,1,2,4,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Draw,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,1,2,3,31,0.5,1,http://www.wikidata.org/prop/direct/P54,KUW,member of sports team,Egypt
+3,7,268,267,266,0.34297072887420654,0.08208955223880597,2,2,16,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,6th of October City
+3,7,268,267,266,0,0.08208955223880597,2,1,16,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,KUW
+3,7,268,267,266,0,0.08208955223880597,1,2,4,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Loss,member of sports team,Aden
+3,7,268,267,266,0.3728511333465576,0.08208955223880597,1,2,24,16,0.5,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,Aden
+3,7,268,267,266,0.7220894694328308,0.08208955223880597,1,1,19,19,0.49,1,http://www.wikidata.org/prop/direct/P54,Ri Chol-myong,member of sports team,North Korea national football team,1
+3,7,268,267,266,0,0.08208955223880597,1,1,24,16,0.49,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,Friendly match
+3,7,268,267,266,0.41422587633132935,0.08208955223880597,2,1,21,24,0.5,1,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0.587169349193573,0.08208955223880597,2,1,21,24,0.5,1,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,1,1,4,19,0.49,1,http://www.wikidata.org/prop/direct/P54,Draw,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,1,2,3,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Win,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,2,16,31,0.5,1,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,6th of October City
+3,7,268,267,266,0.3354741334915161,0.08208955223880597,2,2,31,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,1,1,3,13,0.41,1,http://www.wikidata.org/prop/direct/P54,4,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,2,1,31,24,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,1,2,3,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Win,member of sports team,6th of October City
+3,7,268,267,266,0.6688493490219116,0.08208955223880597,2,2,16,16,0.5,2,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Aden
+3,7,268,267,266,0.6360847353935242,0.08208955223880597,1,2,5,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,1,2,4,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Loss,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,2,1,31,17,0.5,1,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,24
+3,7,268,267,266,0,0.08208955223880597,1,1,16,24,0.49,0,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,2,1,31,3,0.5,1,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,KUW
+3,7,268,267,266,0,0.08208955223880597,1,2,3,16,0.5,4,http://www.wikidata.org/prop/direct/P54,1,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,2,1,31,3,0.5,1,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,1
+3,7,268,267,266,0,0.08208955223880597,1,1,3,16,0.49,1,http://www.wikidata.org/prop/direct/P54,KUW,member of sports team,Friendly match
+3,7,268,267,266,0.4538915753364563,0.08208955223880597,2,1,31,19,0.5,1,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,1,1,3,24,0.49,0,http://www.wikidata.org/prop/direct/P54,KUW,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,2,1,16,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,4
+3,7,268,267,266,0.34297072887420654,0.08208955223880597,1,2,5,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,6th of October City
+3,7,268,267,266,0.3541417717933655,0.08208955223880597,1,1,5,24,0.49,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,1,2,3,16,0.5,0,http://www.wikidata.org/prop/direct/P54,KUW,member of sports team,Aden
+3,7,268,267,266,0,0.08208955223880597,1,2,3,16,0.5,0,http://www.wikidata.org/prop/direct/P54,4,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,2,3,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Win,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,1,2,3,16,0.5,2,http://www.wikidata.org/prop/direct/P54,1,member of sports team,Aden
+3,7,268,267,266,0,0.08208955223880597,2,1,21,4,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,Draw
+3,7,268,267,266,0,0.08208955223880597,1,2,16,31,0.5,1,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,1,1,3,24,0.49,0,http://www.wikidata.org/prop/direct/P54,1,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,2,1,16,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,KUW
+3,7,268,267,266,0.4795617461204529,0.08208955223880597,2,2,21,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,Aden
+3,7,268,267,266,0.6125614643096924,0.08208955223880597,1,2,5,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,1,2,4,16,0.5,2,http://www.wikidata.org/prop/direct/P54,Draw,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,2,1,21,14,0.5,1,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,13
+3,7,268,267,266,0,0.08208955223880597,1,2,16,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,Nepal
+3,7,268,267,266,0.17976707220077515,0.08208955223880597,2,2,31,21,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,1,1,24,3,0.49,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,1
+3,7,268,267,266,0,0.08208955223880597,1,1,3,16,0.49,0,http://www.wikidata.org/prop/direct/P54,4,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,1,2,4,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Draw,member of sports team,Egypt
+3,7,268,267,266,0.6125614643096924,0.08208955223880597,2,1,21,5,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,2,1,21,3,0.5,1,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,IND
+3,7,268,267,266,0.34297072887420654,0.08208955223880597,2,1,31,5,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Yemen
+3,7,268,267,266,0.32061195373535156,0.08208955223880597,2,1,16,13,0.5,2,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,2,1,21,4,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,Loss
+3,7,268,267,266,0,0.08208955223880597,1,2,4,16,0.5,1,http://www.wikidata.org/prop/direct/P54,Draw,member of sports team,Aden
+3,7,268,267,266,0,0.08208955223880597,1,2,17,16,0.5,2,http://www.wikidata.org/prop/direct/P54,10,member of sports team,Yemen
+3,7,268,267,266,0.18592166900634766,0.08208955223880597,2,1,31,24,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,2,1,31,14,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,13
+3,7,268,267,266,0,0.08208955223880597,1,2,3,31,0.5,1,http://www.wikidata.org/prop/direct/P54,KUW,member of sports team,6th of October City
+3,7,268,267,266,0.41422587633132935,0.08208955223880597,1,2,24,21,0.5,1,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,Nepal
+3,7,268,267,266,0.17976707220077515,0.08208955223880597,2,2,21,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,6th of October City
+3,7,268,267,266,0,0.08208955223880597,1,2,17,31,0.5,0,http://www.wikidata.org/prop/direct/P54,10,member of sports team,6th of October City
+3,7,268,267,266,0,0.08208955223880597,1,1,3,19,0.49,1,http://www.wikidata.org/prop/direct/P54,KUW,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,2,1,31,17,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,10
+3,7,268,267,266,0,0.08208955223880597,1,2,3,21,0.5,1,http://www.wikidata.org/prop/direct/P54,Win,member of sports team,Kathmandu
+3,7,268,267,266,0.18592166900634766,0.08208955223880597,1,2,24,31,0.5,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,Egypt
+3,7,268,267,266,0.34297072887420654,0.08208955223880597,2,2,31,16,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,2,3,31,0.5,1,http://www.wikidata.org/prop/direct/P54,1,member of sports team,6th of October City
+3,7,268,267,266,0,0.08208955223880597,1,1,3,24,0.49,1,http://www.wikidata.org/prop/direct/P54,4,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,1,2,3,21,0.5,1,http://www.wikidata.org/prop/direct/P54,Win,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,1,1,14,24,0.49,1,http://www.wikidata.org/prop/direct/P54,13,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,1,1,17,24,0.49,0,http://www.wikidata.org/prop/direct/P54,10,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,1,1,24,3,0.49,1,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,4
+3,7,268,267,266,0,0.08208955223880597,2,1,31,17,0.5,1,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,24
+3,7,268,267,266,0.4626811742782593,0.08208955223880597,2,2,16,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,2,1,21,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,KUW
+3,7,268,267,266,0,0.08208955223880597,1,1,16,19,0.49,2,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,2,1,31,16,0.5,1,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,1,2,16,16,0.5,2,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,2,17,16,0.5,0,http://www.wikidata.org/prop/direct/P54,24,member of sports team,Yemen
+3,7,268,267,266,0.29146748781204224,0.08208955223880597,2,1,31,19,0.5,1,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,1,1,24,17,0.49,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,10
+3,7,268,267,266,0,0.08208955223880597,1,2,4,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Draw,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,1,1,17,16,0.49,1,http://www.wikidata.org/prop/direct/P54,10,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,2,1,16,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Win
+3,7,268,267,266,0.608806848526001,0.08208955223880597,2,1,31,13,0.5,1,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,1,2,3,31,0.5,0,http://www.wikidata.org/prop/direct/P54,4,member of sports team,6th of October City
+3,7,268,267,266,0.4626811742782593,0.08208955223880597,2,1,21,5,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,2,3,31,0.5,0,http://www.wikidata.org/prop/direct/P54,IND,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,1,2,3,16,0.5,0,http://www.wikidata.org/prop/direct/P54,IND,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,2,3,21,0.5,1,http://www.wikidata.org/prop/direct/P54,4,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,1,2,14,31,0.5,0,http://www.wikidata.org/prop/direct/P54,13,member of sports team,6th of October City
+3,7,268,267,266,0.295387327671051,0.08208955223880597,2,2,31,21,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Kathmandu
+3,7,268,267,266,0.6688493490219116,0.08208955223880597,2,2,16,16,0.5,2,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,1,3,19,0.49,1,http://www.wikidata.org/prop/direct/P54,Win,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,1,2,3,21,0.5,0,http://www.wikidata.org/prop/direct/P54,KUW,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,1,2,17,21,0.5,0,http://www.wikidata.org/prop/direct/P54,24,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,2,1,21,3,0.5,1,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,Win
+3,7,268,267,266,0,0.08208955223880597,1,1,4,13,0.41,1,http://www.wikidata.org/prop/direct/P54,Draw,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,1,1,16,3,0.49,3,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,1
+3,7,268,267,266,0,0.08208955223880597,1,1,16,3,0.49,1,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,KUW
+3,7,268,267,266,0,0.08208955223880597,1,1,3,13,0.41,1,http://www.wikidata.org/prop/direct/P54,Win,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,2,1,16,17,0.5,1,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,10
+3,7,268,267,266,0,0.08208955223880597,1,1,24,14,0.49,1,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,13
+3,7,268,267,266,0,0.08208955223880597,1,1,17,19,0.49,1,http://www.wikidata.org/prop/direct/P54,24,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,2,1,31,4,0.5,1,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,Loss
+3,7,268,267,266,0,0.08208955223880597,1,1,16,17,0.49,1,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,24
+3,7,268,267,266,0,0.08208955223880597,1,1,3,24,0.49,1,http://www.wikidata.org/prop/direct/P54,IND,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,1,2,4,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Loss,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,2,1,31,17,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,10
+3,7,268,267,266,0.5099882483482361,0.08208955223880597,2,2,31,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,1,2,3,16,0.5,0,http://www.wikidata.org/prop/direct/P54,4,member of sports team,Aden
+3,7,268,267,266,0,0.08208955223880597,1,1,4,19,0.49,1,http://www.wikidata.org/prop/direct/P54,Loss,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,2,1,31,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,4
+3,7,268,267,266,0.3571370840072632,0.08208955223880597,2,2,21,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,Aden
+3,7,268,267,266,0.587169349193573,0.08208955223880597,1,2,24,21,0.5,1,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,2,1,21,3,0.5,1,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,IND
+3,7,268,267,266,0,0.08208955223880597,1,1,16,13,0.49,2,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,1,1,3,19,0.49,1,http://www.wikidata.org/prop/direct/P54,4,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,1,1,16,17,0.49,1,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,10
+3,7,268,267,266,0.4673355221748352,0.08208955223880597,2,2,31,31,0.5,1,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,6th of October City
+3,7,268,267,266,0,0.08208955223880597,2,1,16,14,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,13
+3,7,268,267,266,0,0.08208955223880597,2,1,31,4,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Draw
+3,7,268,267,266,0,0.08208955223880597,2,1,16,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,IND
+3,7,268,267,266,0.4795617461204529,0.08208955223880597,2,2,16,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,1,1,4,24,0.49,0,http://www.wikidata.org/prop/direct/P54,Loss,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0,0.08208955223880597,2,1,21,17,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,24
+3,7,268,267,266,0,0.08208955223880597,2,1,16,4,0.5,2,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Draw
+3,7,268,267,266,0,0.08208955223880597,2,1,21,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,KUW
+3,7,268,267,266,0,0.08208955223880597,1,2,3,31,0.5,1,http://www.wikidata.org/prop/direct/P54,1,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,1,2,3,21,0.5,1,http://www.wikidata.org/prop/direct/P54,IND,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,2,1,31,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,IND
+3,7,268,267,266,0,0.08208955223880597,1,1,16,3,0.49,0,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,IND
+3,7,268,267,266,0.4673355221748352,0.08208955223880597,2,2,31,31,0.5,1,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,1,2,24,31,0.5,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,6th of October City
+3,7,268,267,266,0,0.08208955223880597,2,1,21,4,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,Loss
+3,7,268,267,266,0.6914650201797485,0.08208955223880597,1,1,24,13,0.49,1,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,1,1,14,13,0.43,1,http://www.wikidata.org/prop/direct/P54,13,member of sports team,Ri Chol-myong
+3,7,268,267,266,0.5099882483482361,0.08208955223880597,2,2,21,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,2,1,16,13,0.5,1,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,1,2,17,31,0.5,1,http://www.wikidata.org/prop/direct/P54,24,member of sports team,6th of October City
+3,7,268,267,266,0,0.08208955223880597,1,1,16,3,0.49,0,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,Win
+3,7,268,267,266,0.41737717390060425,0.08208955223880597,2,1,16,19,0.5,1,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,2,1,31,3,0.5,1,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,1
+3,7,268,267,266,0,0.08208955223880597,2,1,21,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,2,1,21,3,0.5,1,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,4
+3,7,268,267,266,0,0.08208955223880597,1,2,14,16,0.5,0,http://www.wikidata.org/prop/direct/P54,13,member of sports team,Aden
+3,7,268,267,266,0,0.08208955223880597,2,1,16,4,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Loss
+3,7,268,267,266,0,0.08208955223880597,2,1,16,3,0.5,4,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,1
+3,7,268,267,266,0,0.08208955223880597,1,2,4,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Draw,member of sports team,6th of October City
+3,7,268,267,266,0.7138217687606812,0.08208955223880597,1,1,24,19,0.49,1,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,1,1,3,19,0.49,1,http://www.wikidata.org/prop/direct/P54,IND,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,1,2,4,31,0.5,1,http://www.wikidata.org/prop/direct/P54,Loss,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,2,1,31,4,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,Draw
+3,7,268,267,266,0,0.08208955223880597,1,2,17,16,0.5,1,http://www.wikidata.org/prop/direct/P54,10,member of sports team,Aden
+3,7,268,267,266,0,0.08208955223880597,1,1,5,16,0.49,2,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,1,2,17,16,0.5,0,http://www.wikidata.org/prop/direct/P54,24,member of sports team,Aden
+3,7,268,267,266,0,0.08208955223880597,1,2,3,21,0.5,0,http://www.wikidata.org/prop/direct/P54,1,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,1,1,16,3,0.49,0,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,4
+3,7,268,267,266,0,0.08208955223880597,2,1,21,14,0.5,1,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,13
+3,7,268,267,266,0,0.08208955223880597,1,2,3,16,0.5,0,http://www.wikidata.org/prop/direct/P54,IND,member of sports team,Aden
+3,7,268,267,266,0,0.08208955223880597,2,1,21,3,0.5,1,http://www.wikidata.org/prop/direct/P54,Kathmandu,member of sports team,Win
+3,7,268,267,266,0.41393762826919556,0.08208955223880597,2,2,16,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,6th of October City
+3,7,268,267,266,0,0.08208955223880597,1,1,4,24,0.49,0,http://www.wikidata.org/prop/direct/P54,Draw,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0.40610891580581665,0.08208955223880597,1,1,5,19,0.49,2,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,2,1,16,16,0.5,2,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Friendly match
+3,7,268,267,266,0.3541417717933655,0.08208955223880597,1,2,24,16,0.5,0,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,1,1,24,3,0.49,1,http://www.wikidata.org/prop/direct/P54,2012 AFC Challenge Cup,member of sports team,IND
+3,7,268,267,266,0,0.08208955223880597,1,1,16,5,0.49,2,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,Yemen
+3,7,268,267,266,0.3571370840072632,0.08208955223880597,2,2,16,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,Nepal
+3,7,268,267,266,0,0.08208955223880597,2,1,31,3,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,4
+3,7,268,267,266,0.3541417717933655,0.08208955223880597,2,1,16,24,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0.6125614643096924,0.08208955223880597,2,2,16,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Nepal
+3,7,268,267,266,0.40610891580581665,0.08208955223880597,2,1,16,19,0.5,2,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,North Korea national football team
+3,7,268,267,266,0.2258242964744568,0.08208955223880597,2,1,31,13,0.5,1,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,2,1,21,17,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,10
+3,7,268,267,266,0,0.08208955223880597,1,1,17,13,0.43,1,http://www.wikidata.org/prop/direct/P54,24,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,2,1,21,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,Friendly match
+3,7,268,267,266,0,0.08208955223880597,2,1,16,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,Win
+3,7,268,267,266,0,0.08208955223880597,1,1,14,19,0.49,1,http://www.wikidata.org/prop/direct/P54,13,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,1,1,3,13,0.41,3,http://www.wikidata.org/prop/direct/P54,1,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,1,1,17,19,0.49,1,http://www.wikidata.org/prop/direct/P54,10,member of sports team,North Korea national football team
+3,7,268,267,266,0,0.08208955223880597,2,1,21,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,1
+3,7,268,267,266,0.44937628507614136,0.08208955223880597,2,2,16,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,Egypt
+3,7,268,267,266,0,0.08208955223880597,1,2,14,21,0.5,1,http://www.wikidata.org/prop/direct/P54,13,member of sports team,Kathmandu
+3,7,268,267,266,0,0.08208955223880597,2,1,31,3,0.5,0,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Win
+3,7,268,267,266,0,0.08208955223880597,2,1,16,3,0.5,2,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,1
+3,7,268,267,266,0,0.08208955223880597,1,1,16,14,0.49,0,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,13
+3,7,268,267,266,0,0.08208955223880597,1,1,14,16,0.49,0,http://www.wikidata.org/prop/direct/P54,13,member of sports team,Friendly match
+3,7,268,267,266,0.334220826625824,0.08208955223880597,2,1,21,13,0.5,1,http://www.wikidata.org/prop/direct/P54,Nepal,member of sports team,Ri Chol-myong
+3,7,268,267,266,0,0.08208955223880597,1,2,4,31,0.5,1,http://www.wikidata.org/prop/direct/P54,Loss,member of sports team,6th of October City
+3,7,268,267,266,0.3728511333465576,0.08208955223880597,2,1,16,24,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,2012 AFC Challenge Cup
+3,7,268,267,266,0.6360847353935242,0.08208955223880597,2,1,31,5,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,Yemen
+3,7,268,267,266,0,0.08208955223880597,2,1,31,3,0.5,1,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,KUW
+3,7,268,267,266,0.44937628507614136,0.08208955223880597,2,2,31,16,0.5,0,http://www.wikidata.org/prop/direct/P54,Egypt,member of sports team,Aden
+5,4,144,142,141,0,0.1111111111111111,1,1,12,5,0.63,0,http://www.wikidata.org/prop/direct/P31,Troll,instance of,1
+5,4,144,142,141,0,0.1111111111111111,1,1,4,12,0.63,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Troll
+5,4,144,142,141,0,0.1111111111111111,1,1,4,13,0.63,3,http://www.wikidata.org/prop/direct/P31,5,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,18,12,0.57,0,http://www.wikidata.org/prop/direct/P31,Det Sargade Landet,instance of,Troll
+5,4,144,142,141,0,0.1111111111111111,1,1,17,4,0.63,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,5
+5,4,144,142,141,0,0.1111111111111111,1,1,4,17,0.63,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Troll (Norwegian band)
+5,4,144,142,141,0.28359144926071167,0.1111111111111111,1,1,15,15,0.47,2,http://www.wikidata.org/prop/direct/P31,Ur Nattvindar,instance of,Album,1
+5,4,144,142,141,0,0.1111111111111111,1,1,5,13,0.57,1,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,17,5,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Intro
+5,4,144,142,141,0,0.1111111111111111,1,1,17,18,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Det Sargade Landet
+5,4,144,142,141,0,0.1111111111111111,1,1,4,15,0.63,2,http://www.wikidata.org/prop/direct/P31,5,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,4,12,0.63,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Troll
+5,4,144,142,141,0,0.1111111111111111,1,1,16,17,0.57,0,http://www.wikidata.org/prop/direct/P31,Daughters of Eve,instance of,Troll (Norwegian band)
+5,4,144,142,141,0,0.1111111111111111,1,1,18,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Det Sargade Landet,instance of,Album
+5,4,144,142,141,0.21252167224884033,0.1111111111111111,1,1,17,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Album
+5,4,144,142,141,0.28359144926071167,0.1111111111111111,1,1,13,15,0.57,2,http://www.wikidata.org/prop/direct/P31,Ur Nattvindar,instance of,Album,1
+5,4,144,142,141,0,0.1111111111111111,1,1,4,15,0.63,3,http://www.wikidata.org/prop/direct/P31,4,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,5,17,0.57,0,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Troll (Norwegian band)
+5,4,144,142,141,0,0.1111111111111111,1,1,5,12,0.57,0,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Troll
+5,4,144,142,141,0,0.1111111111111111,1,1,5,17,0.63,0,http://www.wikidata.org/prop/direct/P31,1,instance of,Troll (Norwegian band)
+5,4,144,142,141,0,0.1111111111111111,1,1,17,16,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Daughters of Eve
+5,4,144,142,141,0,0.1111111111111111,1,1,16,15,0.53,1,http://www.wikidata.org/prop/direct/P31,The Ravaged Land,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,5,13,0.63,2,http://www.wikidata.org/prop/direct/P31,1,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,18,13,0.57,1,http://www.wikidata.org/prop/direct/P31,Det Sargade Landet,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,12,18,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll,instance of,Det Sargade Landet
+5,4,144,142,141,0,0.1111111111111111,1,1,16,13,0.53,1,http://www.wikidata.org/prop/direct/P31,The Ravaged Land,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,18,17,0.57,0,http://www.wikidata.org/prop/direct/P31,Det Sargade Landet,instance of,Troll (Norwegian band)
+5,4,144,142,141,0,0.1111111111111111,1,1,12,5,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll,instance of,Intro
+5,4,144,142,141,0,0.1111111111111111,1,1,16,12,0.53,0,http://www.wikidata.org/prop/direct/P31,The Ravaged Land,instance of,Troll
+5,4,144,142,141,0,0.1111111111111111,1,1,17,12,0.57,1,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Troll
+5,4,144,142,141,0,0.1111111111111111,1,1,16,13,0.57,1,http://www.wikidata.org/prop/direct/P31,Daughters of Eve,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,17,4,0.63,1,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,4
+5,4,144,142,141,0,0.1111111111111111,1,1,4,13,0.63,3,http://www.wikidata.org/prop/direct/P31,4,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,5,12,0.63,0,http://www.wikidata.org/prop/direct/P31,1,instance of,Troll
+5,4,144,142,141,0,0.1111111111111111,1,1,17,5,0.63,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,1
+5,4,144,142,141,0,0.1111111111111111,1,1,5,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,12,4,0.63,1,http://www.wikidata.org/prop/direct/P31,Troll,instance of,4
+5,4,144,142,141,0,0.1111111111111111,1,1,12,16,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll,instance of,Daughters of Eve
+5,4,144,142,141,0,0.1111111111111111,1,1,16,17,0.57,0,http://www.wikidata.org/prop/direct/P31,The Ravaged Land,instance of,Troll (Norwegian band)
+5,4,144,142,141,0,0.1111111111111111,1,1,17,16,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,The Ravaged Land
+5,4,144,142,141,0,0.1111111111111111,1,1,16,12,0.57,0,http://www.wikidata.org/prop/direct/P31,Daughters of Eve,instance of,Troll
+5,4,144,142,141,0,0.1111111111111111,1,1,5,15,0.63,2,http://www.wikidata.org/prop/direct/P31,1,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,12,17,0.57,1,http://www.wikidata.org/prop/direct/P31,Troll,instance of,Troll (Norwegian band)
+5,4,144,142,141,0,0.1111111111111111,1,1,17,13,0.57,1,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,16,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Daughters of Eve,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,12,15,0.53,1,http://www.wikidata.org/prop/direct/P31,Troll,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,4,17,0.63,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Troll (Norwegian band)
+5,4,144,142,141,0,0.1111111111111111,1,1,12,13,0.53,1,http://www.wikidata.org/prop/direct/P31,Troll,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,12,4,0.63,0,http://www.wikidata.org/prop/direct/P31,Troll,instance of,5
+5,4,144,142,141,0,0.1111111111111111,1,1,12,16,0.53,0,http://www.wikidata.org/prop/direct/P31,Troll,instance of,The Ravaged Land

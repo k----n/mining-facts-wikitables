@@ -1,0 +1,1162 @@
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,35,genre,Video
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,35,genre,Nintendo Video
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,40,genre,Video
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,40,genre,Nintendo Video
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,205,genre,Nintendo Video
+2,3,86,83,79,0.6835566759109497,0.10465116279069768,2,2,13,13,0.51,3,http://www.wikidata.org/prop/direct/P136,Nintendo Video,genre,Video,1
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,200,genre,Nintendo Video
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,200,genre,Video
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,205,genre,Video
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,245,genre,Video
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,325,genre,Nintendo Video
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,435,genre,Nintendo Video
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,140,genre,Nintendo Video
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,325,genre,Video
+4,3,136,133,129,0,0.11029411764705882,1,2,2,13,0.47,1,http://www.wikidata.org/prop/direct/P136,5,genre,Video
+4,3,136,133,129,0.6835566759109497,0.11029411764705882,2,2,13,13,0.51,3,http://www.wikidata.org/prop/direct/P136,Nintendo Video,genre,Video,1
+4,3,136,133,129,0,0.11029411764705882,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,95,genre,Nintendo Video
+4,3,136,133,129,0,0.11029411764705882,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,95,genre,Video
+4,3,136,133,129,0,0.11029411764705882,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,20,genre,Nintendo Video
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,435,genre,Video
+4,3,136,133,129,0,0.11029411764705882,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,70,genre,Nintendo Video
+4,3,136,133,129,0,0.11029411764705882,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,70,genre,Video
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,140,genre,Video
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,245,genre,Nintendo Video
+4,3,136,133,129,0,0.11029411764705882,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,20,genre,Video
+4,3,136,133,129,0,0.11029411764705882,1,2,2,13,0.51,1,http://www.wikidata.org/prop/direct/P136,5,genre,Nintendo Video
+12,3,314,309,305,0,0.08917197452229299,1,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Joropo
+12,3,314,309,305,0.08445090055465698,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,27,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,2,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,2,15,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,27,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Joropo
+12,3,314,309,305,0.08445090055465698,0.08917197452229299,1,1,23,24,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,2,1,19,21,0.59,1,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,1,19,20,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,39,23,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,2,24,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,2,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,39,19,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,20,39,0.59,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,2,12,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,2,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,12,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,2,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,2,15,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,2,1,19,15,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,24,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,9,24,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,2,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0.15859752893447876,0.08917197452229299,2,1,19,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,2,24,13,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,20,19,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,20,27,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,2,1,19,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,39,15,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,2,9,13,0.52,1,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,19,9,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,1,20,23,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,19,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,2,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,39,21,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,2,20,13,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,15,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,9,20,0.52,1,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,24,39,0.59,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,23,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,24,12,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,24,21,0.59,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,1,9,23,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,23,39,0.59,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,15,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,19,39,0.59,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,24,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0.1918635368347168,0.08917197452229299,1,1,27,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,2,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,12,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Fue
+12,3,314,309,305,0.19982433319091797,0.08917197452229299,1,2,19,13,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,2,12,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,15,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,2,1,19,39,0.59,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,23,21,0.59,1,http://www.wikidata.org/prop/direct/P31,English language,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,2,1,19,21,0.59,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,1,24,9,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,2,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,23,15,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,2,27,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,2,23,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Fue,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,24,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,27,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,1,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Coplas a las madres
+12,3,314,309,305,0.22028130292892456,0.08917197452229299,2,2,13,13,0.44,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Album,1
+12,3,314,309,305,0,0.08917197452229299,1,1,12,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,21,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,21,23,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,23,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,2,1,19,9,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,2,39,13,0.59,1,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,9,39,0.59,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,39,23,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,9,23,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,12,39,0.59,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0.08192265033721924,0.08917197452229299,2,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,24,15,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,2,27,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0.07437270879745483,0.08917197452229299,1,1,23,24,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,27,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,9,15,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,12,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,39,19,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,39,13,0.59,1,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,12,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,19,15,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,23,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,2,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Joropo
+12,3,314,309,305,0.07437270879745483,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,English language
+12,3,314,309,305,0.2315603494644165,0.08917197452229299,2,2,13,13,0.45,3,http://www.wikidata.org/prop/direct/P31,We Were Dead Before the Ship Even Sank,instance of,Album,1
+12,3,314,309,305,0,0.08917197452229299,1,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,M.I
+12,3,314,309,305,0.7038983106613159,0.08917197452229299,1,1,24,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,2,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,15,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,2,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,15,12,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,2,23,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,2,12,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,2,20,19,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Delaware
+12,3,314,309,305,0.895069420337677,0.08917197452229299,1,1,21,20,0.59,12,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,English language
+12,3,314,309,305,0.7038983106613159,0.08917197452229299,1,1,20,24,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,2,9,19,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,19,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,12,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,English language
+12,3,314,309,305,0.25356054306030273,0.08917197452229299,1,1,27,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,21,19,0.59,2,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,M.I
+12,3,314,309,305,0.12277942895889282,0.08917197452229299,1,2,24,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,24,24,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,2,39,19,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,27,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Coplas a las madres
+12,3,314,309,305,0.22028130292892456,0.08917197452229299,1,2,20,13,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Album,1
+12,3,314,309,305,0,0.08917197452229299,1,1,12,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,19,12,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,19,27,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,2,1,19,12,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,23,23,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,27,21,0.59,1,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,2,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,15,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,2,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,2,1,19,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,1,23,9,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,El Viento
+12,3,314,309,305,0.1918635368347168,0.08917197452229299,1,1,23,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,2,1,19,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,27,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,2,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,2,39,19,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,39,20,0.59,1,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,39,9,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,El Viento
+12,3,314,309,305,0.08445090055465698,0.08917197452229299,1,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,24,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,2,1,19,20,0.52,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,39,12,0.59,1,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,23,12,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,27,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,12,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,24,12,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,24,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,1,27,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,19,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Joan Llaneras
+12,3,314,309,305,0.7624812722206116,0.08917197452229299,1,1,24,21,0.59,1,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,2,21,19,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,2,12,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,39,27,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,20,15,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,2,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0.2029879093170166,0.08917197452229299,2,2,19,19,0.52,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,2,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,27,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,15,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,2,1,19,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,15,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,21,15,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Joan Llaneras
+12,3,314,309,305,0.7624812722206116,0.08917197452229299,1,1,21,24,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,15,21,0.59,1,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,2,23,13,0.52,1,http://www.wikidata.org/prop/direct/P31,English language,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,39,24,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,2,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,23,20,0.52,1,http://www.wikidata.org/prop/direct/P31,English language,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,19,21,0.59,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0.2463638186454773,0.08917197452229299,1,2,21,13,0.59,11,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,20,24,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,19,13,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,23,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,21,23,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,23,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,20,23,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,2,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,39,24,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,2,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,M.I
+12,3,314,309,305,0.15859752893447876,0.08917197452229299,1,2,27,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,2,1,19,12,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,24,27,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Middle East
+12,3,314,309,305,0.19982433319091797,0.08917197452229299,1,2,24,13,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,2,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,15,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,23,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,9,24,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,9,19,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,M.I
+12,3,314,309,305,0.08192265033721924,0.08917197452229299,1,2,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,15,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,2,9,19,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,2,21,13,0.59,11,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,2,9,13,0.52,1,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,9,27,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,24,20,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,15,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,2,15,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,2,21,19,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,21,24,0.59,2,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,2,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,27,12,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Contrapunteo
+12,3,314,309,305,0.2029879093170166,0.08917197452229299,2,2,19,19,0.52,1,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,2,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,23,13,0.52,1,http://www.wikidata.org/prop/direct/P31,English language,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,23,12,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,2,1,19,27,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,23,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,1,23,21,0.59,1,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0.08445090055465698,0.08917197452229299,1,1,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,20,19,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,19,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,2,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,2,15,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Album
+12,3,314,309,305,0.25356054306030273,0.08917197452229299,1,1,23,27,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,21,27,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Middle East
+5,5,436,433,432,0,0.05504587155963303,4,4,62,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,4,10,53,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,2,1,27,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,1,2,9,27,0.45,0,http://www.wikidata.org/prop/direct/P106,2017,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,1,26,7,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,1,4,8,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,5,1,45,10,0.43,2,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,5,7,45,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,2,4,27,62,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Identifier
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,4,10,62,0.43,0,http://www.wikidata.org/prop/direct/P106,2017,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,4,1,65,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,4,1,62,8,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Survivor
+5,5,436,433,432,0.561650276184082,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,1,4,8,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Com.x
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,4,62,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTML
+5,5,436,433,432,0.05228298902511597,0.05504587155963303,5,1,45,14,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Wuxia
+5,5,436,433,432,0.10695856809616089,0.05504587155963303,1,2,14,27,0.45,2,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,1,28,7,0.41,1,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Zi Wang
+5,5,436,433,432,0.6993693113327026,0.05504587155963303,4,4,65,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,1,62,8,0.4,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,1,2,10,27,0.45,0,http://www.wikidata.org/prop/direct/P106,2017,occupation,Gan Siqi
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,65,62,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,1,45,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,4,1,53,10,0.43,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,1,62,15,0.45,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,4,1,65,17,0.4,1,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Identifier
+5,5,436,433,432,0.08031821250915527,0.05504587155963303,4,1,65,4,0.43,3,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,7,0.41,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,1,1,7,26,0.45,1,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Actor
+5,5,436,433,432,0.6527195572853088,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,4,26,65,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,1,52,17,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,The General Store
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,5,65,45,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTML
+5,5,436,433,432,0.16711139678955078,0.05504587155963303,2,1,27,52,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,5,17,45,0.4,0,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,4,28,65,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,2,4,27,65,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,4,15,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Com.x
+5,5,436,433,432,0.14669620990753174,0.05504587155963303,5,1,45,4,0.43,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Actor
+5,5,436,433,432,0.4364556670188904,0.05504587155963303,4,4,62,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,4,15,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Tencent QQ
+5,5,436,433,432,0.523556649684906,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.5546061992645264,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Component Object Model
+5,5,436,433,432,0.3454563021659851,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,4,1,65,10,0.43,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,2,4,27,53,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,4,7,62,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,1,26,7,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,洛溪的养成计划
+5,5,436,433,432,0.5546061992645264,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,4,65,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,4,52,53,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,1,7,52,0.43,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,4,1,53,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,2,4,27,62,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,4,8,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,53,52,0.43,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,4,2,53,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,4,1,53,8,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,2,4,27,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,53,7,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,5,1,45,10,0.43,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,4,28,62,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,53,10,0.43,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,4,26,62,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,62,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,1,4,15,53,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,HTML
+5,5,436,433,432,0.31832456588745117,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,1,5,14,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,2,4,27,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,5,1,45,17,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Com.x
+5,5,436,433,432,0.17706477642059326,0.05504587155963303,1,4,26,62,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,4,1,53,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0.4364556670188904,0.05504587155963303,4,4,65,62,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Identifier
+5,5,436,433,432,0.16711139678955078,0.05504587155963303,1,1,26,52,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,1,4,10,65,0.43,4,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTML
+5,5,436,433,432,0.7424430847167969,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,World Wide Web
+5,5,436,433,432,0.6527195572853088,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Tencent QQ
+5,5,436,433,432,0.2634531855583191,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,5,65,45,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.41,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Zi Wang
+5,5,436,433,432,0.45888060331344604,0.05504587155963303,4,4,62,65,0.4,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,IQiyi
+5,5,436,433,432,0.2634531855583191,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,52,65,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,14,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Identifier
+5,5,436,433,432,0.6527195572853088,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,4,14,65,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,4,65,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,4,2,65,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Gan Siqi
+5,5,436,433,432,0.713365912437439,0.05504587155963303,5,4,45,65,0.4,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,HTML
+5,5,436,433,432,0.5044993162155151,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,1,4,52,53,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,65,7,0.41,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,4,1,65,10,0.43,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,4,53,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.14669620990753174,0.05504587155963303,5,2,45,27,0.45,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,2,53,27,0.45,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,23,62,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,2,1,27,9,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,1,53,14,0.4,1,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,4,14,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.41,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Zi Wang
+5,5,436,433,432,0.523556649684906,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.4739074110984802,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,2,28,27,0.45,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Gan Siqi
+5,5,436,433,432,0.2634531855583191,0.05504587155963303,4,4,62,53,0.4,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,1,7,14,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Wuxia
+5,5,436,433,432,0.5044993162155151,0.05504587155963303,5,4,45,65,0.4,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,62,4,0.43,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,28,65,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,2,23,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,4,1,62,9,0.43,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,5,26,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,4,4,65,62,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,2,5,27,45,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,65,17,0.4,1,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,The General Store
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,5,28,45,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,4,2,65,27,0.45,3,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Actor
+5,5,436,433,432,0.45888060331344604,0.05504587155963303,4,4,62,53,0.4,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,HTML
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,5,65,45,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,4,62,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,1,52,28,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,1,4,15,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,4,62,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,1,53,15,0.45,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,4,4,53,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Identifier
+5,5,436,433,432,0.5546061992645264,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,53,7,0.41,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Zi Wang
+5,5,436,433,432,0.45888060331344604,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,洛溪的养成计划
+5,5,436,433,432,0.8569443821907043,0.05504587155963303,4,4,62,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,5,9,45,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,4,2,65,27,0.45,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,1,5,28,45,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,IQiyi
+5,5,436,433,432,0.9469974637031555,0.05504587155963303,4,5,62,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,4,4,65,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,4,1,53,4,0.43,3,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Actor
+5,5,436,433,432,0.523556649684906,0.05504587155963303,4,4,62,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,4,7,65,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,1,10,4,0.43,6,http://www.wikidata.org/prop/direct/P106,2017,occupation,Actor
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,1,23,4,0.45,1,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Actor
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,65,62,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,52,62,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,2,2,27,27,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,2,4,27,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,1,53,8,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,4,4,62,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,2,1,27,7,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Zi Wang
+5,5,436,433,432,0.5186517238616943,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,1,52,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,4,1,65,7,0.41,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Zi Wang
+5,5,436,433,432,0.7424430847167969,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,3,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Actor
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,1,23,7,0.45,1,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,2,1,27,23,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0.08031821250915527,0.05504587155963303,4,2,53,27,0.45,3,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,5,23,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,4,62,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,53,14,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,5,52,45,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,1,5,26,45,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,5,53,45,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,5,23,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,1,5,28,45,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.7008200287818909,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,65,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,1,4,10,62,0.43,4,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,1,8,4,0.43,2,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,17,65,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,5,7,45,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,HTML
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,5,4,45,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,5,1,45,26,0.45,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,2,7,27,0.45,1,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,5,28,45,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,9,65,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,1,9,4,0.43,6,http://www.wikidata.org/prop/direct/P106,2017,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,5,1,45,4,0.43,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,28,62,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,3,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,5,1,45,8,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,1,2,28,27,0.45,1,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,5,8,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,5,15,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.41,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Zi Wang
+5,5,436,433,432,0.14669620990753174,0.05504587155963303,1,5,26,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Com.x
+5,5,436,433,432,0.4364556670188904,0.05504587155963303,4,4,62,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,1,14,17,0.28,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,The General Store
+5,5,436,433,432,0.39822858572006226,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Component Object Model
+5,5,436,433,432,0.4133026599884033,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,4,52,53,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,62,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,4,1,65,7,0.41,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Zi Wang
+5,5,436,433,432,0.523556649684906,0.05504587155963303,4,4,62,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,1,4,26,0.45,3,http://www.wikidata.org/prop/direct/P106,Zi Wang,occupation,Actor,1
+5,5,436,433,432,0,0.05504587155963303,1,4,8,65,0.4,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,2,4,27,53,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,5,23,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,4,1,62,9,0.43,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,2,1,27,9,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,4,9,53,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,5,1,45,52,0.43,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,4,1,65,4,0.43,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,2,1,27,7,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Zi Wang
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,4,65,62,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,2,4,27,65,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,2,53,27,0.45,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Gan Siqi
+5,5,436,433,432,0.5186517238616943,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,2,9,27,0.45,6,http://www.wikidata.org/prop/direct/P106,2017,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,28,53,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Tencent QQ
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,5,62,45,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.45888060331344604,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.41,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,4,1,53,15,0.45,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,5,4,45,65,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,65,52,0.43,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,2,4,27,65,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTTPS
+5,5,436,433,432,0.7008200287818909,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,1,1,26,8,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,4,2,65,27,0.45,3,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,9,65,0.43,4,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,1,9,52,0.43,0,http://www.wikidata.org/prop/direct/P106,2017,occupation,Montreal World Film Festival
+5,5,436,433,432,0.713365912437439,0.05504587155963303,5,4,45,53,0.4,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,HTML
+5,5,436,433,432,0.7008200287818909,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,5,4,45,62,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,1,1,8,7,0.41,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,1,4,10,53,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,5,1,45,4,0.43,3,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,5,17,45,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,2,65,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,1,4,14,53,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,HTML
+5,5,436,433,432,0.5546061992645264,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Component Object Model
+5,5,436,433,432,0.45888060331344604,0.05504587155963303,4,4,65,62,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Identifier
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,4,62,62,0.4,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTML
+5,5,436,433,432,0.17706477642059326,0.05504587155963303,4,1,62,26,0.45,2,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Actor
+5,5,436,433,432,0.8569443821907043,0.05504587155963303,4,4,62,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTTPS
+5,5,436,433,432,0.3379857540130615,0.05504587155963303,1,4,14,53,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Tencent QQ
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,5,4,45,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,4,7,65,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,4,26,53,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,5,14,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,1,4,8,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,65,52,0.43,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,5,1,45,28,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,1,1,14,52,0.43,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Montreal World Film Festival
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,5,17,45,0.4,0,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,4,14,53,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,4,23,62,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,4,45,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Tencent QQ
+5,5,436,433,432,0.713365912437439,0.05504587155963303,4,5,65,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,5,4,45,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,1,1,9,26,0.45,6,http://www.wikidata.org/prop/direct/P106,2017,occupation,Actor
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,62,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,53,14,0.4,1,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,4,1,65,10,0.43,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,1,62,26,0.45,3,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Actor
+5,5,436,433,432,0.08031821250915527,0.05504587155963303,4,1,65,26,0.45,3,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,52,62,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,1,45,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,1,26,9,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,5,9,45,0.43,4,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,1,45,52,0.43,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,4,1,53,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,4,1,62,14,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,4,1,65,8,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,5,1,45,9,0.43,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,2017
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,5,4,45,62,0.4,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTML
+5,5,436,433,432,0.523556649684906,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,5,1,45,26,0.45,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,9,62,0.43,0,http://www.wikidata.org/prop/direct/P106,2017,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,1,4,9,65,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTTPS
+5,5,436,433,432,0.7424430847167969,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,5,5,45,45,0.4,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,2,1,27,10,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,2017
+5,5,436,433,432,0.5186517238616943,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Tencent QQ
+5,5,436,433,432,0.4133026599884033,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.10695856809616089,0.05504587155963303,1,1,26,14,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Com.x
+5,5,436,433,432,0.17706477642059326,0.05504587155963303,4,1,62,4,0.43,2,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,1,14,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,2,4,27,53,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,28,62,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,1,45,26,0.45,3,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,15,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,5,1,45,10,0.43,2,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,1,7,4,0.43,1,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,65,15,0.45,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,4,1,62,7,0.41,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,62,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,5,1,45,10,0.43,2,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,2017
+5,5,436,433,432,0.2634531855583191,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Youku
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,5,5,45,45,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,1,10,14,0.43,1,http://www.wikidata.org/prop/direct/P106,2017,occupation,Wuxia
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,62,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,1,65,4,0.43,3,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,8,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,1,4,52,53,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,1,15,26,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,5,62,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,1,4,10,62,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,62,17,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,The General Store
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,53,62,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,4,1,62,10,0.43,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,1,53,8,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,1,1,14,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,1,4,7,62,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,4,1,62,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0.7008200287818909,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,World Wide Web
+5,5,436,433,432,0.9469974637031555,0.05504587155963303,5,4,45,62,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,2,5,27,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,62,8,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Survivor
+5,5,436,433,432,0.8569443821907043,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,65,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,1,23,14,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Wuxia
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,5,53,45,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,1,45,8,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Survivor
+5,5,436,433,432,0.16711139678955078,0.05504587155963303,1,1,52,26,0.45,2,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,5,28,45,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,World Wide Web
+5,5,436,433,432,0.5186517238616943,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,62,17,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,The General Store
+5,5,436,433,432,0.17706477642059326,0.05504587155963303,4,2,62,27,0.45,2,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Actor
+5,5,436,433,432,0.561650276184082,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,HTTPS
+5,5,436,433,432,0.523556649684906,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Tencent QQ
+5,5,436,433,432,0.3275631070137024,0.05504587155963303,4,5,62,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,1,5,7,45,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,5,1,45,17,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,4,1,62,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0.4133026599884033,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,5,1,45,15,0.45,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Female Reporter
+5,5,436,433,432,0.713365912437439,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,5,9,45,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,IQiyi
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Tencent QQ
+5,5,436,433,432,0.523556649684906,0.05504587155963303,4,4,65,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,53,26,0.45,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,2,5,27,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,1,4,10,65,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,53,17,0.4,1,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,The General Store
+5,5,436,433,432,0.14669620990753174,0.05504587155963303,2,5,27,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,5,23,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,1,52,8,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,1,4,17,62,0.4,0,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,1,4,52,65,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,HTTPS
+5,5,436,433,432,0.8569443821907043,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,52,0.43,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,1,4,28,53,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,5,8,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Component Object Model
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,5,62,45,0.4,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,62,9,0.43,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,2,5,27,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.5044993162155151,0.05504587155963303,4,5,65,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Component Object Model
+5,5,436,433,432,0.08031821250915527,0.05504587155963303,1,4,26,53,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Tencent QQ
+5,5,436,433,432,0.16711139678955078,0.05504587155963303,1,1,52,4,0.43,2,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Actor
+5,5,436,433,432,0.561650276184082,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,5,1,45,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,2,4,27,62,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,5,1,45,23,0.45,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0.5044993162155151,0.05504587155963303,5,4,45,53,0.4,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,65,8,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Survivor
+5,5,436,433,432,0.5044993162155151,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,8,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,1,10,52,0.43,0,http://www.wikidata.org/prop/direct/P106,2017,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,4,5,62,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,1,5,7,45,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,1,1,52,9,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,2017
+5,5,436,433,432,0.713365912437439,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,4,45,53,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,2,4,27,0.45,3,http://www.wikidata.org/prop/direct/P106,Zi Wang,occupation,Actor,1
+5,5,436,433,432,0,0.05504587155963303,1,1,8,14,0.28,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Wuxia
+5,5,436,433,432,0.8569443821907043,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,4,23,62,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,2,4,27,65,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,4,10,53,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,1,53,8,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,23,0.45,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,4,4,62,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,53,4,0.43,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,2,1,27,15,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Female Reporter
+5,5,436,433,432,0.6993693113327026,0.05504587155963303,4,4,62,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,2,4,27,53,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,1,14,8,0.28,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,4,1,65,23,0.45,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,5,1,45,15,0.45,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,1,4,7,53,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,HTML
+5,5,436,433,432,0.45888060331344604,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,2,1,27,8,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,5,1,45,52,0.43,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Montreal World Film Festival
+5,5,436,433,432,0.5044993162155151,0.05504587155963303,4,5,53,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,1,5,10,45,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.2634531855583191,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Youku
+5,5,436,433,432,0.4364556670188904,0.05504587155963303,4,4,53,62,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Identifier
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,62,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,1,17,14,0.28,0,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,4,4,53,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,1,4,23,62,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,1,4,17,62,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,62,7,0.4,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,1,4,14,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,IQiyi
+5,5,436,433,432,0.10695856809616089,0.05504587155963303,1,1,14,4,0.43,2,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Actor
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,53,62,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTML
+5,5,436,433,432,0.37318289279937744,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,5,1,45,28,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,4,1,53,7,0.41,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,1,1,17,26,0.45,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,62,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,53,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,5,1,45,14,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,4,1,53,4,0.43,3,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,洛溪的养成计划
+5,5,436,433,432,0.8569443821907043,0.05504587155963303,4,4,65,62,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.08031821250915527,0.05504587155963303,4,2,65,27,0.45,3,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,2,5,27,45,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,62,15,0.45,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,1,1,8,26,0.45,2,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,26,0.45,3,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,8,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Tencent QQ
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,1,45,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,4,1,62,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,1,1,8,52,0.43,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,1,5,15,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,5,1,45,23,0.45,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,1,5,52,45,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,5,1,45,28,0.4,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,1,4,52,65,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,1,62,28,0.4,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,1,4,17,65,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,5,1,45,8,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,2,5,27,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,5,1,45,4,0.43,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,1,52,10,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,4,62,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,65,9,0.43,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,2,1,27,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Female Reporter
+5,5,436,433,432,0.05228298902511597,0.05504587155963303,1,5,14,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,5,1,45,15,0.45,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Female Reporter
+5,5,436,433,432,0.6993693113327026,0.05504587155963303,4,4,53,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,1,4,15,62,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,2,1,27,26,0.45,2,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,1,4,10,62,0.43,0,http://www.wikidata.org/prop/direct/P106,2017,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,1,4,15,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,2,23,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Actor
+5,5,436,433,432,0.08031821250915527,0.05504587155963303,2,4,27,53,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Tencent QQ
+5,5,436,433,432,0.3379857540130615,0.05504587155963303,4,1,53,14,0.4,1,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,4,28,65,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,4,9,53,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,4,26,62,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,1,5,8,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,53,10,0.43,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,2,1,27,14,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,4,28,53,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,HTTPS
+5,5,436,433,432,0.3275631070137024,0.05504587155963303,5,4,45,62,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Youku
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,4,62,62,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Tencent QQ
+5,5,436,433,432,0.523556649684906,0.05504587155963303,4,4,53,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,62,17,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,1,1,15,4,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,2,53,27,0.45,3,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Actor
+5,5,436,433,432,0.2634531855583191,0.05504587155963303,4,4,65,62,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,2,4,27,62,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,1,45,9,0.43,2,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,1,65,7,0.41,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,4,1,62,14,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,5,15,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,World Wide Web
+5,5,436,433,432,0.39759278297424316,0.05504587155963303,5,4,45,62,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,4,4,53,62,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Youku
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,53,7,0.41,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,1,4,8,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,2,1,27,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,1,1,52,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,1,2,7,27,0.45,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Gan Siqi
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,1,14,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,4,4,53,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,1,5,52,45,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,1,10,26,0.45,6,http://www.wikidata.org/prop/direct/P106,2017,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,23,0.45,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,1,4,9,53,0.43,4,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,1,17,7,0.41,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,5,4,45,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,5,26,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Component Object Model
+5,5,436,433,432,0.37318289279937744,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,4,1,53,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,5,1,45,15,0.45,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,4,2,53,27,0.45,3,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,23,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,53,9,0.43,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,2,1,27,10,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,4,10,65,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Tencent QQ
+5,5,436,433,432,0.08031821250915527,0.05504587155963303,4,1,53,26,0.45,3,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,62,14,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,5,1,45,10,0.43,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,1,62,9,0.43,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,5,10,45,0.43,4,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,8,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,HTML
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,4,53,62,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,65,7,0.4,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,4,1,62,14,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Wuxia
+5,5,436,433,432,0.3379857540130615,0.05504587155963303,1,4,14,65,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,2,8,27,0.45,2,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,17,62,0.4,0,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,5,7,45,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,1,26,28,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,1,1,15,7,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,5,1,45,4,0.43,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,9,0.43,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,5,9,45,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,1,5,52,45,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,4,15,65,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,HTML
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,1,23,26,0.45,1,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Actor
+5,5,436,433,432,0.31832456588745117,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,1,52,7,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,1,26,10,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,5,53,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,4,17,62,0.4,0,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,1,5,15,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTML
+5,5,436,433,432,0.17706477642059326,0.05504587155963303,2,4,27,62,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,1,1,26,17,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,The General Store
+5,5,436,433,432,0.45888060331344604,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,4,4,62,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,4,15,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,HTTPS
+5,5,436,433,432,0.16711139678955078,0.05504587155963303,1,2,52,27,0.45,2,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Actor
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,65,28,0.4,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,4,1,62,7,0.41,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,4,1,65,9,0.43,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,5,1,45,17,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,1,4,28,65,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,1,28,26,0.45,1,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,52,62,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Youku
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,1,28,14,0.28,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,4,26,65,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Com.x
+5,5,436,433,432,0.2634531855583191,0.05504587155963303,4,4,62,65,0.4,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,7,53,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,4,65,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,1,2,14,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,1,4,7,65,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Com.x
+5,5,436,433,432,0.561650276184082,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,5,8,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,4,1,62,52,0.43,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,5,1,45,9,0.43,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,4,15,62,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,1,4,4,0.43,3,http://www.wikidata.org/prop/direct/P106,Zi Wang,occupation,Actor,1
+5,5,436,433,432,0,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,2,8,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,4,1,65,26,0.45,3,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,1,52,7,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,4,52,62,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,65,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,1,4,10,65,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTTPS
+5,5,436,433,432,0.10695856809616089,0.05504587155963303,1,1,14,26,0.45,2,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Actor
+5,5,436,433,432,0.713365912437439,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,1,5,10,45,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,5,1,45,14,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,5,17,45,0.4,0,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,4,5,65,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,4,1,65,14,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Wuxia
+5,5,436,433,432,0.5186517238616943,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,5,1,45,8,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,1,5,10,45,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,4,1,65,26,0.45,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,1,14,28,0.28,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,2,5,27,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,2,4,27,62,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,1,4,23,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,65,52,0.43,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,4,1,62,8,0.4,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,15,62,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Youku
+5,5,436,433,432,0.5186517238616943,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,1,65,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,4,1,53,17,0.4,1,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,The General Store
+5,5,436,433,432,0.8569443821907043,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,2,1,27,4,0.45,2,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,28,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0.14669620990753174,0.05504587155963303,5,1,45,26,0.45,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Actor
+5,5,436,433,432,0.5044993162155151,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,1,4,52,65,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,4,17,65,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,4,62,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,5,14,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Tencent QQ
+5,5,436,433,432,0.08031821250915527,0.05504587155963303,2,4,27,65,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Tencent QQ
+5,5,436,433,432,0.4739074110984802,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,4,7,62,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,5,17,45,0.4,0,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,4,9,62,0.43,0,http://www.wikidata.org/prop/direct/P106,2017,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,1,4,10,53,0.43,4,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,26,53,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Com.x
+5,5,436,433,432,0.713365912437439,0.05504587155963303,4,5,53,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,1,4,28,53,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,2,1,27,7,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,5,1,45,17,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,1,1,52,14,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,4,1,65,52,0.43,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,1,2,17,27,0.45,0,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,4,2,53,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Gan Siqi
+5,5,436,433,432,0.5186517238616943,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,65,9,0.43,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,5,1,45,52,0.43,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,5,1,45,9,0.43,2,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,53,10,0.43,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,1,65,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,1,4,14,53,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,1,17,52,0.43,0,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Montreal World Film Festival
+5,5,436,433,432,0.39822858572006226,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,4,1,62,7,0.41,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Zi Wang
+5,5,436,433,432,0.3379857540130615,0.05504587155963303,4,1,65,14,0.4,1,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,4,1,65,17,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,1,1,28,52,0.43,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,1,2,17,27,0.45,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Actor
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,2,1,27,52,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,1,1,9,7,0.43,5,http://www.wikidata.org/prop/direct/P106,2017,occupation,Zi Wang
+5,5,436,433,432,0.3454563021659851,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,4,2,65,27,0.45,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0.713365912437439,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,4,1,65,4,0.43,3,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,4,26,65,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,53,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,4,1,62,52,0.43,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Montreal World Film Festival
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,5,4,45,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,2,5,27,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,1,26,15,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,4,2,53,27,0.45,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,4,1,53,28,0.4,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0.4739074110984802,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,1,1,14,10,0.43,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,1,62,26,0.45,2,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,1,9,14,0.43,1,http://www.wikidata.org/prop/direct/P106,2017,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,4,1,62,10,0.43,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,4,7,53,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,4,23,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,HTML
+5,5,436,433,432,0.7424430847167969,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,World Wide Web
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,5,4,45,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,5,1,45,8,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,52,0.43,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,4,1,62,10,0.43,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,2,15,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,1,4,23,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,4,23,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,62,52,0.43,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,1,4,14,65,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,62,23,0.45,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,5,1,45,15,0.45,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,4,1,62,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,洛溪的养成计划
+5,5,436,433,432,0.2634531855583191,0.05504587155963303,4,4,53,62,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Youku
+5,5,436,433,432,0.8569443821907043,0.05504587155963303,4,4,53,62,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,4,23,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.41,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,2,1,27,28,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,4,1,62,4,0.43,2,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,2,1,27,7,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,1,4,23,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Com.x
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,5,65,45,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,62,10,0.43,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,2,1,27,17,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,1,15,14,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,1,14,9,0.43,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,2017
+5,5,436,433,432,0.39759278297424316,0.05504587155963303,4,5,62,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,1,4,14,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,9,65,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,62,26,0.45,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,1,5,23,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,1,15,52,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,5,1,45,9,0.43,2,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,2,4,27,62,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,62,52,0.43,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,2,1,27,17,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,1,4,8,53,0.4,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,5,26,45,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTML
+5,5,436,433,432,0.45888060331344604,0.05504587155963303,4,4,53,62,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Component Object Model
+5,5,436,433,432,0,0.05504587155963303,5,1,45,14,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,4,28,62,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,1,1,17,4,0.43,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,65,10,0.43,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,2,4,27,62,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,53,52,0.43,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,5,1,45,14,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,4,15,62,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Identifier
+5,5,436,433,432,0.37318289279937744,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,4,1,62,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Female Reporter
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,5,4,45,62,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,53,17,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,4,4,62,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,53,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,1,4,9,53,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,62,17,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,4,7,53,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,4,53,62,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,4,2,65,27,0.45,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,4,4,62,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,HTTPS
+5,5,436,433,432,0.5186517238616943,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,62,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,5,53,45,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,4,62,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,1,4,9,62,0.43,4,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,2,4,27,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Com.x
+5,5,436,433,432,0.37318289279937744,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,65,23,0.45,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,4,1,65,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,1,1,26,23,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0,0.05504587155963303,1,5,15,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,23,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,4,9,62,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,4,1,62,7,0.41,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Gan Siqi
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,4,17,53,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,1,14,7,0.41,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Zi Wang
+5,5,436,433,432,0.3454563021659851,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,2,4,27,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,5,1,45,23,0.45,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,5,4,45,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,65,28,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,How to Train Your Girlfriend
+5,5,436,433,432,0,0.05504587155963303,1,5,8,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,1,28,4,0.43,1,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,17,0.4,1,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Gan Siqi
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,5,4,45,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.4,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,洛溪的养成计划
+5,5,436,433,432,0.10695856809616089,0.05504587155963303,2,1,27,14,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,1,10,7,0.43,5,http://www.wikidata.org/prop/direct/P106,2017,occupation,Zi Wang
+5,5,436,433,432,0,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,5,1,45,17,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,5,1,45,26,0.45,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,9,0.43,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,2,52,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,1,5,14,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,4,1,53,26,0.45,3,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,65,8,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,1,1,23,52,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,1,1,7,7,0.41,1,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Zi Wang
+5,5,436,433,432,0.4739074110984802,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,1,4,17,65,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,HTML
+5,5,436,433,432,0.5044993162155151,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,65,14,0.4,1,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,1,4,14,65,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,65,23,0.45,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Luo Xi(洛溪) main actress
+5,5,436,433,432,0.3454563021659851,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,4,26,62,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,1,62,4,0.43,3,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,5,1,45,52,0.43,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Montreal World Film Festival
+5,5,436,433,432,0,0.05504587155963303,1,5,10,45,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTML
+5,5,436,433,432,0.4133026599884033,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,2,1,27,8,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,4,4,53,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,65,7,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,4,1,53,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,洛溪的养成计划
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,洛溪的养成计划
+5,5,436,433,432,0.08031821250915527,0.05504587155963303,4,1,53,4,0.43,3,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,65,9,0.43,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,1,4,17,53,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,4,1,65,8,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Survivor
+5,5,436,433,432,0,0.05504587155963303,1,4,26,53,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,1,65,17,0.4,1,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,The General Store
+5,5,436,433,432,0,0.05504587155963303,2,2,27,27,0.45,2,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,9,0.43,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,2017
+5,5,436,433,432,0,0.05504587155963303,4,5,62,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,IQiyi
+5,5,436,433,432,0,0.05504587155963303,1,4,17,53,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,1,65,14,0.4,1,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Wuxia
+5,5,436,433,432,0,0.05504587155963303,1,2,26,27,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Gan Siqi
+5,5,436,433,432,0,0.05504587155963303,2,4,27,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,4,4,62,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Com.x
+5,5,436,433,432,0,0.05504587155963303,2,5,27,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,World Wide Web
+5,5,436,433,432,0,0.05504587155963303,5,4,45,62,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Youku
+5,5,436,433,432,0,0.05504587155963303,4,1,65,26,0.45,3,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,2,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,53,7,0.4,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,洛溪的养成计划
+5,5,436,433,432,0.08031821250915527,0.05504587155963303,1,4,26,65,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,4,4,65,62,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTML
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,62,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,HTTPS
+5,5,436,433,432,0,0.05504587155963303,1,2,15,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,65,15,0.45,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Female Reporter
+5,5,436,433,432,0.6527195572853088,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,4,17,53,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,8,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0,0.05504587155963303,1,5,9,45,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Hypertext Transfer Protocol
+5,5,436,433,432,0.6993693113327026,0.05504587155963303,4,4,62,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Tencent QQ
+5,5,436,433,432,0,0.05504587155963303,1,2,10,27,0.45,6,http://www.wikidata.org/prop/direct/P106,2017,occupation,Actor
+5,5,436,433,432,0,0.05504587155963303,4,1,62,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Female Reporter
+5,5,436,433,432,0,0.05504587155963303,4,5,53,45,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,5,52,45,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,HTML
+5,5,436,433,432,0,0.05504587155963303,1,4,7,62,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Identifier
+5,5,436,433,432,0,0.05504587155963303,1,4,7,65,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,HTML
+3,4,100,97,96,0.9239128828048706,0.1,1,1,23,12,0.51,2,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,1,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,D
+3,4,100,97,96,0.5367867946624756,0.1,2,1,42,21,0.45,0,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,Dž
+3,4,100,97,96,0,0.1,1,1,11,12,0.51,3,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,Dz (digraph)
+3,4,100,97,96,0.5367867946624756,0.1,1,2,21,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Letter case
+3,4,100,97,96,0,0.1,1,1,1,11,0.3,1,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Ampere
+3,4,100,97,96,0.4398632049560547,0.1,2,1,42,11,0.45,1,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,Ampere
+3,4,100,97,96,0,0.1,1,1,21,11,0.45,2,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Ampere
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,D
+3,4,100,97,96,0,0.1,1,1,23,1,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,ǲ
+3,4,100,97,96,0,0.1,1,2,11,42,0.45,1,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,D
+3,4,100,97,96,0,0.1,1,1,1,21,0.45,1,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Dž
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,1,1,1,21,0.45,0,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Dž
+3,4,100,97,96,0.9239128828048706,0.1,1,1,21,12,0.51,2,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Letter case
+3,4,100,97,96,0,0.1,1,1,21,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Ǳ
+3,4,100,97,96,0.7026825547218323,0.1,1,2,23,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,D
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,0,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,ǳ
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,ǲ
+3,4,100,97,96,0,0.1,1,1,1,11,0.3,1,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Ampere
+3,4,100,97,96,0.7026825547218323,0.1,2,1,42,23,0.45,0,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Dž
+3,4,100,97,96,0,0.1,1,1,1,21,0.45,1,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Dž
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,0,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,D
+3,4,100,97,96,0,0.1,2,1,42,11,0.45,1,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Ampere
+3,4,100,97,96,0,0.1,1,1,1,11,0.3,1,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Ampere
+3,4,100,97,96,0,0.1,1,1,1,23,0.45,1,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Dž
+3,4,100,97,96,0,0.1,1,1,11,1,0.3,1,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,ǳ
+3,4,100,97,96,0,0.1,1,1,23,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Ǳ
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,0,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Ǳ
+3,4,100,97,96,0,0.1,1,1,9,1,0.51,1,http://www.wikidata.org/prop/direct/P487,Dz (digraph),Unicode character,Ǳ,1
+3,4,100,97,96,0.7026825547218323,0.1,2,1,42,21,0.45,0,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Dž
+3,4,100,97,96,0.7026825547218323,0.1,1,2,21,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,D
+3,4,100,97,96,0.7133215665817261,0.1,2,2,42,42,0.45,1,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,D
+3,4,100,97,96,0,0.1,1,1,23,11,0.45,2,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Ampere
+3,4,100,97,96,0,0.1,1,1,1,23,0.45,1,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Dž
+3,4,100,97,96,0.48898112773895264,0.1,2,1,42,12,0.51,1,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,1,http://www.wikidata.org/prop/direct/P487,D,Unicode character,ǲ
+3,4,100,97,96,0,0.1,1,1,11,1,0.3,1,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,ǲ
+3,4,100,97,96,0,0.1,1,1,11,21,0.45,2,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,Dž
+3,4,100,97,96,0.5367867946624756,0.1,2,1,42,23,0.45,0,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,Dž
+3,4,100,97,96,0.4398632049560547,0.1,1,2,11,42,0.45,1,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,Letter case
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,0,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Letter case
+3,4,100,97,96,0,0.1,1,1,9,1,0.51,1,http://www.wikidata.org/prop/direct/P487,Dz (digraph),Unicode character,ǲ,1
+3,4,100,97,96,0,0.1,1,1,11,23,0.45,2,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,Dž
+3,4,100,97,96,0,0.1,1,1,11,1,0.3,1,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,Ǳ
+3,4,100,97,96,0.6946901679039001,0.1,2,1,42,12,0.51,1,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,1,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Letter case
+3,4,100,97,96,0,0.1,1,1,9,1,0.51,1,http://www.wikidata.org/prop/direct/P487,Dz (digraph),Unicode character,ǳ,1
+3,4,100,97,96,0,0.1,1,1,1,23,0.45,0,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Dž
+3,4,100,97,96,0,0.1,1,1,21,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,ǳ
+3,4,100,97,96,0.7133215665817261,0.1,2,2,42,42,0.45,1,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Letter case
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,0,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,Ǳ
+3,4,100,97,96,0,0.1,1,1,23,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,ǳ
+3,4,100,97,96,0.5367867946624756,0.1,1,2,23,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Letter case
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,0,http://www.wikidata.org/prop/direct/P487,D,Unicode character,ǳ
+3,4,100,97,96,0,0.1,1,1,21,1,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,ǲ

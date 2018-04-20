@@ -1,0 +1,297 @@
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-omu,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-a:,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-u,part of,Noun phrase
+10,2,174,168,166,0.43196195363998413,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkəma,part of,Enki
+10,2,174,168,166,0.5068553686141968,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,Yodh,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,Enki,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-u,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-u,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkəma,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-u,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-omu,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-u,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-on,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-a:,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-on
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-omu,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-u,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əna,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkən,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-a:,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əna,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-on,part of,Noun phrase
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əna,has part,Noun phrase
+10,2,174,168,166,0.43196195363998413,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-a:,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-omu,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-omu
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əna,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-a:,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Yodh,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-on
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-on
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Enki,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-əna
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-omu,has part,Ka (Cyrillic)
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.41,3,http://www.wikidata.org/prop/direct/P361,Noun,part of,Noun phrase,1
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-omu,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-on,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkəma,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-u,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-u,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-a:,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-omu,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkən,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-on
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,Yodh
+10,2,174,168,166,0.5068553686141968,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Yodh,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-u,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-u
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-on
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əna,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-on,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-a:,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkən,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-a:,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-on,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-omu,has part,Noun
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkən,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-a:,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkəma,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-omu,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,Enki,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-on,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əna,part of,Enki
+10,2,174,168,166,0.43196195363998413,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əna,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əna,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-on
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-u
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əna,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-a:,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-on,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əna,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-omu,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-əna
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-on,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-on
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.54,3,http://www.wikidata.org/prop/direct/P527,Noun phrase,has part,Noun,1
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Enki,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-a:,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-u,part of,Enki
+10,2,174,168,166,0.5068553686141968,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Yodh,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-u,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkəma,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əna,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-u
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-u,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-omu,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-on,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Enki,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əna,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-on,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-on
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-on,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-əkən
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-on,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-u,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əna,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əkən,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-əna
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-a:,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-a:,has part,Enki
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-u,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-omu
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-omu,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Noun
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-a:,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-on,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Enki,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,Yodh,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-omu,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-u,has part,Yodh
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-əkəma
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,-a:
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-a:,has part,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əna,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-on
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,Ka (Cyrillic)
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Yodh,part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-u
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-omu,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-əna
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əna,part of,Yodh
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.49,3,http://www.wikidata.org/prop/direct/P279,Noun,subclass of,Noun phrase,1
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-on,part of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-omu,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-on,part of,Enki
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Ka (Cyrillic)
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1995,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,94,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,3,http://www.wikidata.org/prop/direct/P452,1993,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,1,21,0.52,1,http://www.wikidata.org/prop/direct/P452,7,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1995,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,21,21,0.46,1,http://www.wikidata.org/prop/direct/P452,Dm-drogerie markt,industry,Retail,1
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2017,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,94,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,3,http://www.wikidata.org/prop/direct/P452,1993,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,67,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,86,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,224,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,139,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,224,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,139,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,1,17,0.52,1,http://www.wikidata.org/prop/direct/P452,7,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.52,1,http://www.wikidata.org/prop/direct/P452,1892,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2017,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.52,1,http://www.wikidata.org/prop/direct/P452,1892,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,86,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,67,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Dm-drogerie markt
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.44,1,http://www.wikidata.org/prop/direct/P361,46,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,144,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,396,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,142,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,1,26,0.43,1,http://www.wikidata.org/prop/direct/P361,-,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,11,26,0.44,1,http://www.wikidata.org/prop/direct/P361,4,part of,Infrastructure
+20,2,376,373,369,0.5943657159805298,0.1356382978723404,2,2,26,26,0.44,3,http://www.wikidata.org/prop/direct/P361,Infrastructure,part of,Economy,1
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,142,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.43,1,http://www.wikidata.org/prop/direct/P361,33,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.43,1,http://www.wikidata.org/prop/direct/P361,32,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,471,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,835,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.44,1,http://www.wikidata.org/prop/direct/P361,52,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,396,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,471,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,259,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,147,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.44,1,http://www.wikidata.org/prop/direct/P361,89,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,235,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.44,1,http://www.wikidata.org/prop/direct/P361,33,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.44,1,http://www.wikidata.org/prop/direct/P361,20,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,235,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.43,1,http://www.wikidata.org/prop/direct/P361,46,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,458,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,139,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,323,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,277,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.43,1,http://www.wikidata.org/prop/direct/P361,52,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,323,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,144,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,1,26,0.44,1,http://www.wikidata.org/prop/direct/P361,-,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,139,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,147,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.43,1,http://www.wikidata.org/prop/direct/P361,89,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,259,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.44,1,http://www.wikidata.org/prop/direct/P361,32,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,277,part of,Infrastructure
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,835,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.43,1,http://www.wikidata.org/prop/direct/P361,20,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,458,part of,Economy
+20,2,376,373,369,0,0.1356382978723404,1,2,11,26,0.43,1,http://www.wikidata.org/prop/direct/P361,4,part of,Economy

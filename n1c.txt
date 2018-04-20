@@ -1,0 +1,225 @@
+12,3,314,309,305,0,0.08917197452229299,1,1,24,20,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,2,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,19,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,2,12,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,2,24,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,12,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,M.I
+12,3,314,309,305,0.08445090055465698,0.08917197452229299,1,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,9,23,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,English language
+12,3,314,309,305,0.895069420337677,0.08917197452229299,1,1,21,20,0.59,12,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,2,27,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,15,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,23,20,0.52,1,http://www.wikidata.org/prop/direct/P31,English language,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,27,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,27,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,23,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,2,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,2,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,2,19,13,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,2,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,39,13,0.59,1,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,21,23,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,9,23,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,27,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,9,13,0.52,1,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0.25356054306030273,0.08917197452229299,1,1,23,27,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,24,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,27,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,2,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Joropo
+12,3,314,309,305,0.07437270879745483,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,12,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,21,24,0.59,2,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0.7038983106613159,0.08917197452229299,1,1,20,24,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,2,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,15,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,2,27,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,23,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,19,27,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,21,23,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,English language
+12,3,314,309,305,0.19982433319091797,0.08917197452229299,1,2,24,13,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Album
+12,3,314,309,305,0.7624812722206116,0.08917197452229299,1,1,24,21,0.59,1,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0.7038983106613159,0.08917197452229299,1,1,24,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,2,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,19,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,19,20,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,2,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,20,23,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,2,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,20,19,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,2,21,13,0.59,11,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,23,21,0.59,1,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0.7624812722206116,0.08917197452229299,1,1,21,24,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,23,21,0.59,1,http://www.wikidata.org/prop/direct/P31,English language,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,1,27,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,21,27,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,19,12,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,2,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,2,15,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,24,9,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,1,23,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,24,15,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,12,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Joropo
+12,3,314,309,305,0.08192265033721924,0.08917197452229299,2,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,English language
+12,3,314,309,305,0.2463638186454773,0.08917197452229299,1,2,21,13,0.59,11,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Album
+12,3,314,309,305,0.08192265033721924,0.08917197452229299,1,2,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,23,39,0.59,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,19,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,M.I
+12,3,314,309,305,0.2315603494644165,0.08917197452229299,2,2,13,13,0.45,3,http://www.wikidata.org/prop/direct/P31,We Were Dead Before the Ship Even Sank,instance of,Album,1
+12,3,314,309,305,0,0.08917197452229299,1,1,12,39,0.59,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,2,23,13,0.52,1,http://www.wikidata.org/prop/direct/P31,English language,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,2,39,19,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,2,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,2,1,19,9,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,2,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,39,9,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,1,39,27,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,2,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,15,12,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,2,24,13,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,24,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,15,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,2,15,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0.15859752893447876,0.08917197452229299,2,1,19,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,39,20,0.59,1,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,39,19,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,19,39,0.59,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,2,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,2,1,19,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,2,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,39,19,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,12,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,2,1,19,21,0.59,1,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,1,27,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,24,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Joan Llaneras
+12,3,314,309,305,0.1918635368347168,0.08917197452229299,1,1,23,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,20,24,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,27,21,0.59,1,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,2,9,13,0.52,1,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Album
+12,3,314,309,305,0.2029879093170166,0.08917197452229299,2,2,19,19,0.52,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,20,19,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,27,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,23,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,El Viento
+12,3,314,309,305,0.2029879093170166,0.08917197452229299,2,2,19,19,0.52,1,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,9,24,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,M.I
+12,3,314,309,305,0.22028130292892456,0.08917197452229299,1,2,20,13,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,23,12,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,23,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,2,27,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,2,39,19,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0.25356054306030273,0.08917197452229299,1,1,27,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,20,15,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,9,19,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,39,15,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Joan Llaneras
+12,3,314,309,305,0.22028130292892456,0.08917197452229299,2,2,13,13,0.44,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Album,1
+12,3,314,309,305,0,0.08917197452229299,1,1,15,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,9,19,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,2,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,20,39,0.59,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,9,24,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,2,21,19,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Delaware
+12,3,314,309,305,0.12277942895889282,0.08917197452229299,1,2,24,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,2,21,19,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,2,1,19,12,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,24,27,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,39,21,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,1,15,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,2,15,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,20,23,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,1,23,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,2,1,19,15,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,39,23,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,English language
+12,3,314,309,305,0.08445090055465698,0.08917197452229299,1,1,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,20,19,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,2,1,19,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,21,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,21,15,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Joan Llaneras
+12,3,314,309,305,0.19982433319091797,0.08917197452229299,1,2,19,13,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,15,21,0.59,1,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,1,9,39,0.59,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,2,39,13,0.59,1,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,15,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,12,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,24,21,0.59,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,1,24,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,1,39,23,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,2,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,20,27,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,2,23,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Fue,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0.08445090055465698,0.08917197452229299,1,1,23,24,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,9,27,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,2,12,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,2,12,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,23,15,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,2,20,13,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,24,12,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,2,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,23,23,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,27,12,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,2,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,1,1,12,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,15,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,2,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Coplas a las madres
+12,3,314,309,305,0.1918635368347168,0.08917197452229299,1,1,27,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,2,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,15,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,2,12,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,2,1,19,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,39,12,0.59,1,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,2,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,2,1,19,12,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,19,21,0.59,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,1,1,19,9,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,2,1,19,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,El Viento
+12,3,314,309,305,0.22028130292892456,0.08917197452229299,1,2,20,13,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Album,1
+12,3,314,309,305,0,0.08917197452229299,1,1,23,12,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,21,19,0.59,2,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,2,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Coplas a las madres
+12,3,314,309,305,0,0.08917197452229299,1,1,24,12,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Contrapunteo
+12,3,314,309,305,0,0.08917197452229299,1,1,23,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,2,9,19,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,12,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,2,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,"Ayer, Massachusetts"
+12,3,314,309,305,0,0.08917197452229299,2,1,19,20,0.52,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,19,15,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Joan Llaneras
+12,3,314,309,305,0.07437270879745483,0.08917197452229299,1,1,23,24,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,15,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,39,24,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Fue
+12,3,314,309,305,0,0.08917197452229299,1,1,23,9,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,El Viento
+12,3,314,309,305,0,0.08917197452229299,1,2,23,13,0.52,1,http://www.wikidata.org/prop/direct/P31,English language,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,1,9,15,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,19,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Joan Llaneras
+12,3,314,309,305,0,0.08917197452229299,1,1,27,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,24,24,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Joropo
+12,3,314,309,305,0,0.08917197452229299,1,1,12,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,2,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,15,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,1,2,23,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,1,15,27,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,2,1,19,27,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Middle East
+12,3,314,309,305,0,0.08917197452229299,1,1,24,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,M.I
+12,3,314,309,305,0,0.08917197452229299,1,1,39,24,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,M.I
+12,3,314,309,305,0.08445090055465698,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,English language
+12,3,314,309,305,0,0.08917197452229299,2,1,19,21,0.59,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Ángel Custodio Loyola
+12,3,314,309,305,0,0.08917197452229299,2,1,19,39,0.59,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,2,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Joropo
+12,3,314,309,305,0.15859752893447876,0.08917197452229299,1,2,27,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Delaware
+12,3,314,309,305,0,0.08917197452229299,1,1,24,39,0.59,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Samuel Moreno Rojas
+12,3,314,309,305,0,0.08917197452229299,1,1,9,20,0.52,1,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Ay! Catira Marmoleña

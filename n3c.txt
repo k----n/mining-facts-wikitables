@@ -1,0 +1,6 @@
+2,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,25,16,0.55,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
+2,3,86,84,78,0,0.11627906976744186,1,2,2,16,0.47,1,http://www.wikidata.org/prop/direct/P361,ॻू,part of,Devanagari
+2,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,16,16,0.5,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
+2,3,86,84,78,0,0.11627906976744186,1,2,2,16,0.47,1,http://www.wikidata.org/prop/direct/P361,ॻु,part of,Devanagari
+2,3,86,84,78,0,0.11627906976744186,1,1,2,10,0.5,1,http://www.wikidata.org/prop/direct/P361,ॻू,part of,Ga (Indic)
+2,3,86,84,78,0,0.11627906976744186,1,1,2,10,0.5,1,http://www.wikidata.org/prop/direct/P361,ॻु,part of,Ga (Indic)
