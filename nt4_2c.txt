@@ -1,0 +1,56 @@
+1,4,20,18,18,0,0.25,0,1,12,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Wo (kana),Unicode character,ヲ,1
+1,4,20,18,18,0,0.25,1,1,1,9,0.4,1,http://www.wikidata.org/prop/direct/P373,を,Commons category,Wo (kana)
+1,4,20,18,18,0,0.25,1,1,1,9,0.49,1,http://www.wikidata.org/prop/direct/P487,を,Unicode character,Wo (kana)
+1,4,20,18,18,0,0.25,0,1,12,1,0.4,1,http://www.wikidata.org/prop/direct/P373,Wo (kana),Commons category,を,1
+1,4,20,18,18,0,0.25,0,1,12,1,0.49,1,http://www.wikidata.org/prop/direct/P487,Wo (kana),Unicode character,を,1
+1,4,20,18,18,0,0.25,1,1,1,9,0.45,1,http://www.wikidata.org/prop/direct/P487,ヲ,Unicode character,Wo (kana)
+1,4,20,18,18,0,0.25,1,1,1,9,0.4,1,http://www.wikidata.org/prop/direct/P487,ヲ,Commons category,Wo (kana)
+1,4,20,18,18,0,0.25,1,1,1,9,0.4,1,http://www.wikidata.org/prop/direct/P373,ヲ,Commons category,Wo (kana)
+1,4,20,18,18,0,0.25,1,1,1,9,0.4,1,http://www.wikidata.org/prop/direct/P487,を,Commons category,Wo (kana)
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,1,http://www.wikidata.org/prop/direct/P131,الجراجير,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0.9869377613067627,0.08579881656804733,2,2,31,31,0.46,14,http://www.wikidata.org/prop/direct/P131,Al-Nabek,located in the administrative territorial entity,An-Nabek District,1
+9,4,338,324,320,0,0.08579881656804733,1,1,7,17,0.49,2,http://www.wikidata.org/prop/direct/P131,الحميرة,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,2,http://www.wikidata.org/prop/direct/P131,الجراجير,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,7,31,0.49,1,http://www.wikidata.org/prop/direct/P131,الحميرة,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,1,http://www.wikidata.org/prop/direct/P131,12508,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,2,http://www.wikidata.org/prop/direct/P131,قارة,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,2,http://www.wikidata.org/prop/direct/P131,1740,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,2,http://www.wikidata.org/prop/direct/P131,10984,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,5,17,0.49,2,http://www.wikidata.org/prop/direct/P131,12508,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,5,17,0.49,2,http://www.wikidata.org/prop/direct/P131,10984,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,2,http://www.wikidata.org/prop/direct/P131,دير عطية,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,1,http://www.wikidata.org/prop/direct/P131,دير عطية,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,1,4,17,0.49,2,http://www.wikidata.org/prop/direct/P131,4022,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,1,http://www.wikidata.org/prop/direct/P131,1740,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,2,http://www.wikidata.org/prop/direct/P131,4022,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,7,31,0.49,2,http://www.wikidata.org/prop/direct/P131,الحميرة,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,1,http://www.wikidata.org/prop/direct/P131,10984,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,1,4,17,0.49,2,http://www.wikidata.org/prop/direct/P131,1740,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,4,17,0.49,2,http://www.wikidata.org/prop/direct/P131,قارة,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,1,http://www.wikidata.org/prop/direct/P131,4022,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,2,http://www.wikidata.org/prop/direct/P131,12508,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,1,http://www.wikidata.org/prop/direct/P131,قارة,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,1,8,17,0.49,2,http://www.wikidata.org/prop/direct/P131,الجراجير,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,8,17,0.49,2,http://www.wikidata.org/prop/direct/P131,دير عطية,located in the administrative territorial entity,An-Nabek District
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,5,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,14,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,20,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,15,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,the anniversary,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,17,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,10,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,qepHom Hut,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,16,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,28,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,Guest lecture by Markus Groß,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,29,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,8,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,26,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,15,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,28,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,Guest lecture by Hubert Zitt,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,9,3,0.47,1,http://www.wikidata.org/prop/direct/P1256,History,Iconclass notation,6,1
+14,4,564,563,562,0,0.08156028368794327,1,1,16,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,29,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,11,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,13,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,07,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,05,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,10,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,1,9,0.47,14,http://www.wikidata.org/prop/direct/P1256,-,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,19,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,21,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,Do is immer ebbes los,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,25,Iconclass notation,History
