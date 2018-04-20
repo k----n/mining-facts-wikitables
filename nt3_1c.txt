@@ -1,0 +1,29 @@
+5,2,576,573,567,0.31569045782089233,0.06076388888888889,2,9,21,573,0.53,3,http://www.wikidata.org/prop/direct/P31,By-elections in Singapore,instance of,By-election,1
+5,2,576,573,567,0,0.06076388888888889,1,1,11,25,0.53,1,http://www.wikidata.org/prop/direct/P31,Polling day,instance of,By-elections in Singapore
+5,2,576,573,567,0,0.06076388888888889,1,2,14,21,0.53,1,http://www.wikidata.org/prop/direct/P31,Nomination day,instance of,By-election
+5,2,576,573,567,0.31569045782089233,0.06076388888888889,2,2,21,21,0.5,3,http://www.wikidata.org/prop/direct/P31,By-elections in Singapore,instance of,By-election,1
+5,2,576,573,567,0,0.06076388888888889,1,1,14,25,0.53,1,http://www.wikidata.org/prop/direct/P31,Nomination day,instance of,By-elections in Singapore
+5,2,576,573,567,0,0.06076388888888889,1,2,11,21,0.53,1,http://www.wikidata.org/prop/direct/P31,Polling day,instance of,By-election
+5,2,576,573,567,0.31569045782089233,0.06076388888888889,2,12,21,298,0.53,3,http://www.wikidata.org/prop/direct/P31,By-elections in Singapore,instance of,By-election,1
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,10,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,25,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,15,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,11,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,13,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,26,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,16,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,29,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,16,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,19,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,9,3,0.47,1,http://www.wikidata.org/prop/direct/P1256,History,Iconclass notation,6,1
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,07,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,5,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,15,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,the anniversary,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,21,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,Do is immer ebbes los,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,1,9,0.47,14,http://www.wikidata.org/prop/direct/P1256,-,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,14,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,20,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,28,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,Guest lecture by Markus Groß,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,17,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,29,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,8,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,28,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,Guest lecture by Hubert Zitt,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,10,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,qepHom Hut,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,05,Iconclass notation,History

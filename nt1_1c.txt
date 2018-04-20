@@ -1,0 +1,34 @@
+1,4,20,18,18,0,0.25,1,1,1,9,0.45,1,http://www.wikidata.org/prop/direct/P487,ヲ,Unicode character,Wo (kana)
+1,4,20,18,18,0,0.25,1,1,1,9,0.4,1,http://www.wikidata.org/prop/direct/P373,を,Commons category,Wo (kana)
+1,4,20,18,18,0,0.25,0,1,12,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Wo (kana),Unicode character,ヲ,1
+1,4,20,18,18,0,0.25,0,1,12,1,0.49,1,http://www.wikidata.org/prop/direct/P487,Wo (kana),Unicode character,を,1
+1,4,20,18,18,0,0.25,1,1,1,9,0.4,1,http://www.wikidata.org/prop/direct/P373,ヲ,Commons category,Wo (kana)
+1,4,20,18,18,0,0.25,1,1,1,9,0.49,1,http://www.wikidata.org/prop/direct/P487,を,Unicode character,Wo (kana)
+1,4,20,18,18,0,0.25,1,1,1,9,0.4,1,http://www.wikidata.org/prop/direct/P487,を,Commons category,Wo (kana)
+1,4,20,18,18,0,0.25,1,1,1,9,0.4,1,http://www.wikidata.org/prop/direct/P487,ヲ,Commons category,Wo (kana)
+1,4,20,18,18,0,0.25,0,1,12,1,0.4,1,http://www.wikidata.org/prop/direct/P373,Wo (kana),Commons category,を,1
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,28,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Brána (bonus)"" Gate (bonus)",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,28,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Brána (bonus)"" Gate (bonus)",instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,22,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Hej lidi"" Hey, people",instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,4,13,0.45,3,http://www.wikidata.org/prop/direct/P31,Deph,instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,13,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Fstup"" Ynput",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,20,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Zpomal!"" Slow down!",instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,15,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Výstub"" Outpud",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,13,13,0.39,1,http://www.wikidata.org/prop/direct/P31,Zprdeleklika,instance of,Album,1
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,37,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Všude dobře"" [It is] good everywhere",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,20,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Zpomal!"" Slow down!",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,22,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Hej lidi"" Hey, people",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,40,12,0.53,2,http://www.wikidata.org/prop/direct/P31,7,instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,15,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Výstub"" Outpud",instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,13,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Fstup"" Ynput",instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,4,12,0.45,3,http://www.wikidata.org/prop/direct/P31,Deph,instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,40,13,0.53,2,http://www.wikidata.org/prop/direct/P31,7,instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,37,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Všude dobře"" [It is] good everywhere",instance of,Zprdeleklika
+5,3,94,92,92,0,0.13829787234042554,1,1,2,12,0.75,1,http://www.wikidata.org/prop/direct/P17,38,country,Vatican City
+5,3,94,92,92,0,0.13829787234042554,1,1,3,12,0.32,3,http://www.wikidata.org/prop/direct/P17,1,country,Vatican City
+5,3,94,92,92,0,0.13829787234042554,1,1,3,12,0.32,3,http://www.wikidata.org/prop/direct/P17,7,country,Vatican City
+5,3,94,92,92,0,0.13829787234042554,1,1,3,12,0.32,1,http://www.wikidata.org/prop/direct/P17,2,country,Vatican City
+5,3,94,92,92,0,0.13829787234042554,1,1,2,12,0.75,1,http://www.wikidata.org/prop/direct/P17,10,country,Vatican City
+5,3,94,92,92,1.0,0.13829787234042554,1,1,12,12,0.32,2,http://www.wikidata.org/prop/direct/P17,Vatican City,country,Vatican City,1
+5,3,94,92,92,0,0.13829787234042554,1,1,1,12,0.75,3,http://www.wikidata.org/prop/direct/P17,7,country,Vatican City
+5,3,94,92,92,0,0.13829787234042554,1,1,1,12,0.75,1,http://www.wikidata.org/prop/direct/P17,9,country,Vatican City

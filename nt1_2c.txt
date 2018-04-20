@@ -1,0 +1,99 @@
+9,6,522,521,520,0,0.04789272030651341,1,1,12,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1964,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,13,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1962,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,13,14,0.52,1,http://www.wikidata.org/prop/direct/P31,1965,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,7,15,0.53,1,http://www.wikidata.org/prop/direct/P31,751,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,9,15,0.53,25,http://www.wikidata.org/prop/direct/P31,not known,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,7,14,0.52,1,http://www.wikidata.org/prop/direct/P31,755,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,23,14,0.52,1,http://www.wikidata.org/prop/direct/P31,1996,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,9,14,0.52,1,http://www.wikidata.org/prop/direct/P31,1967,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,14,14,0.52,2,http://www.wikidata.org/prop/direct/P31,1964,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,9,14,0.52,2,http://www.wikidata.org/prop/direct/P31,1962,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,7,14,0.52,1,http://www.wikidata.org/prop/direct/P31,751,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,4,14,0.52,1,http://www.wikidata.org/prop/direct/P31,1963,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,13,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1966,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,9,15,0.53,1,http://www.wikidata.org/prop/direct/P31,1967,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,9,14,0.52,25,http://www.wikidata.org/prop/direct/P31,not known,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,9,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1962,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,13,15,0.53,1,http://www.wikidata.org/prop/direct/P31,1965,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,12,14,0.52,2,http://www.wikidata.org/prop/direct/P31,1964,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,13,14,0.52,2,http://www.wikidata.org/prop/direct/P31,1962,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,14,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1964,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,7,15,0.53,1,http://www.wikidata.org/prop/direct/P31,755,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,4,15,0.53,1,http://www.wikidata.org/prop/direct/P31,1963,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,23,15,0.53,1,http://www.wikidata.org/prop/direct/P31,1996,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,13,14,0.52,2,http://www.wikidata.org/prop/direct/P31,1966,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,14,14,0.53,1,http://www.wikidata.org/prop/direct/P31,Uda-class oiler,instance of,Ship class,1
+1,3,38,37,31,0,0.15789473684210525,1,2,10,26,0.58,1,http://www.wikidata.org/prop/direct/P31,"""""Closed""""",instance of,Train station
+1,3,38,37,31,0,0.15789473684210525,1,1,10,24,0.53,1,http://www.wikidata.org/prop/direct/P31,"""""Closed""""",instance of,Zwartowo railway station
+1,3,38,37,31,0,0.15789473684210525,2,2,26,26,0.58,1,http://www.wikidata.org/prop/direct/P31,Zwartowo railway station,instance of,Train station,1
+1,8,280,279,273,0,0.060714285714285714,1,2,3,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,348,participant of,24 Hours of Le Mans
+1,8,280,279,273,0,0.060714285714285714,2,2,27,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,Pu Jun Jin,participant of,24 Hours of Le Mans,1
+1,8,280,279,273,0,0.060714285714285714,1,1,4,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,2,participant of,Pu Jun Jin
+1,8,280,279,273,0,0.060714285714285714,1,1,3,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,5,participant of,Pu Jun Jin
+1,8,280,279,273,0,0.060714285714285714,1,2,3,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,9,participant of,24 Hours of Le Mans
+1,8,280,279,273,0,0.060714285714285714,1,2,3,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,5,participant of,24 Hours of Le Mans
+1,8,280,279,273,0,0.060714285714285714,1,1,3,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,348,participant of,Pu Jun Jin
+1,8,280,279,273,0,0.060714285714285714,1,2,4,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,2,participant of,24 Hours of Le Mans
+1,8,280,279,273,0,0.060714285714285714,1,1,3,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,9,participant of,Pu Jun Jin
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,1,1,9,1,0.51,1,http://www.wikidata.org/prop/direct/P487,Dz (digraph),Unicode character,ǳ,1
+3,4,100,97,96,0,0.1,1,1,9,1,0.51,1,http://www.wikidata.org/prop/direct/P487,Dz (digraph),Unicode character,Ǳ,1
+3,4,100,97,96,0,0.1,1,1,9,1,0.51,1,http://www.wikidata.org/prop/direct/P487,Dz (digraph),Unicode character,ǲ,1
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Dz (digraph)
+3,4,88,87,86,0,0.125,1,1,14,10,0.45,1,http://www.wikidata.org/prop/direct/P106,Nandini Oberoi,occupation,Actor
+3,4,88,87,86,0,0.125,1,1,11,10,0.43,1,http://www.wikidata.org/prop/direct/P106,"""""Mastaan""""",occupation,Actor
+3,4,88,87,86,0,0.125,1,1,5,10,0.45,1,http://www.wikidata.org/prop/direct/P106,Tanya,occupation,Actor
+3,4,88,87,86,0,0.125,1,1,5,10,0.6,1,http://www.wikidata.org/prop/direct/P106,Tanya,occupation,Zoa Morani
+3,4,88,87,86,0,0.125,1,1,14,10,0.6,1,http://www.wikidata.org/prop/direct/P106,Nandini Oberoi,occupation,Zoa Morani
+3,4,88,87,86,0,0.125,1,1,10,10,0.6,1,http://www.wikidata.org/prop/direct/P106,Zoa Morani,occupation,Actor,1
+3,4,88,87,86,0,0.125,1,1,11,10,0.6,1,http://www.wikidata.org/prop/direct/P106,"""""Mastaan""""",occupation,Zoa Morani
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2017,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,224,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,224,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,139,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,86,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,3,http://www.wikidata.org/prop/direct/P452,1993,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,94,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,3,http://www.wikidata.org/prop/direct/P452,1993,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1995,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.52,1,http://www.wikidata.org/prop/direct/P452,1892,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,94,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,67,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1995,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,139,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2017,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,21,21,0.46,1,http://www.wikidata.org/prop/direct/P452,Dm-drogerie markt,industry,Retail,1
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,1,17,0.52,1,http://www.wikidata.org/prop/direct/P452,7,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,86,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,1,21,0.52,1,http://www.wikidata.org/prop/direct/P452,7,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.52,1,http://www.wikidata.org/prop/direct/P452,1892,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,67,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Dm-drogerie markt

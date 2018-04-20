@@ -1,0 +1,86 @@
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,1,http://www.wikidata.org/prop/direct/P131,4022,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,1,4,17,0.49,2,http://www.wikidata.org/prop/direct/P131,قارة,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,1,http://www.wikidata.org/prop/direct/P131,الجراجير,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,2,http://www.wikidata.org/prop/direct/P131,10984,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,8,17,0.49,2,http://www.wikidata.org/prop/direct/P131,دير عطية,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,2,http://www.wikidata.org/prop/direct/P131,12508,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,1,http://www.wikidata.org/prop/direct/P131,1740,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,7,31,0.49,2,http://www.wikidata.org/prop/direct/P131,الحميرة,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,1,http://www.wikidata.org/prop/direct/P131,قارة,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,2,http://www.wikidata.org/prop/direct/P131,1740,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,5,17,0.49,2,http://www.wikidata.org/prop/direct/P131,10984,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,1,http://www.wikidata.org/prop/direct/P131,دير عطية,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,1,4,17,0.49,2,http://www.wikidata.org/prop/direct/P131,4022,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,1,http://www.wikidata.org/prop/direct/P131,12508,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,7,31,0.49,1,http://www.wikidata.org/prop/direct/P131,الحميرة,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0.9869377613067627,0.08579881656804733,2,2,31,31,0.46,14,http://www.wikidata.org/prop/direct/P131,Al-Nabek,located in the administrative territorial entity,An-Nabek District,1
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,2,http://www.wikidata.org/prop/direct/P131,الجراجير,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,4,17,0.49,2,http://www.wikidata.org/prop/direct/P131,1740,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,8,17,0.49,2,http://www.wikidata.org/prop/direct/P131,الجراجير,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,7,17,0.49,2,http://www.wikidata.org/prop/direct/P131,الحميرة,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,1,http://www.wikidata.org/prop/direct/P131,10984,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,2,http://www.wikidata.org/prop/direct/P131,دير عطية,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,2,http://www.wikidata.org/prop/direct/P131,4022,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,5,17,0.49,2,http://www.wikidata.org/prop/direct/P131,12508,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,2,http://www.wikidata.org/prop/direct/P131,قارة,located in the administrative territorial entity,An-Nabek District
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkəma,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-əna,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-omu,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əna,has part,Noun
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.54,3,http://www.wikidata.org/prop/direct/P527,Noun phrase,has part,Noun,1
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-əkəma,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-u,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-əkən,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-on,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-a:,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-on,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-u,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-on,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-omu,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-u,has part,Noun phrase
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.49,3,http://www.wikidata.org/prop/direct/P279,Noun,subclass of,Noun phrase,1
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-on,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-u,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-a:,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-u,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-a:,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-omu,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əna,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-a:,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-omu,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-a:,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-əna,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkən,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkən,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-on,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-on,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əna,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-omu,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-omu,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-a:,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əna,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-əkən,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-əkəma,subclass of,Noun phrase
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.41,3,http://www.wikidata.org/prop/direct/P361,Noun,part of,Noun phrase,1
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-u,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkəma,subclass of,Noun
+5,4,144,142,141,0,0.1111111111111111,1,1,5,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,5,13,0.57,1,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,16,15,0.53,1,http://www.wikidata.org/prop/direct/P31,The Ravaged Land,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,16,13,0.53,1,http://www.wikidata.org/prop/direct/P31,The Ravaged Land,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,4,13,0.63,3,http://www.wikidata.org/prop/direct/P31,5,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,18,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Det Sargade Landet,instance of,Album
+5,4,144,142,141,0.28359144926071167,0.1111111111111111,1,1,13,15,0.57,2,http://www.wikidata.org/prop/direct/P31,Ur Nattvindar,instance of,Album,1
+5,4,144,142,141,0,0.1111111111111111,1,1,5,13,0.63,2,http://www.wikidata.org/prop/direct/P31,1,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,5,15,0.63,2,http://www.wikidata.org/prop/direct/P31,1,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,4,13,0.63,3,http://www.wikidata.org/prop/direct/P31,4,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,16,13,0.57,1,http://www.wikidata.org/prop/direct/P31,Daughters of Eve,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,18,13,0.57,1,http://www.wikidata.org/prop/direct/P31,Det Sargade Landet,instance of,Ur Nattvindar
+5,4,144,142,141,0.28359144926071167,0.1111111111111111,1,1,15,15,0.47,2,http://www.wikidata.org/prop/direct/P31,Ur Nattvindar,instance of,Album,1
+5,4,144,142,141,0,0.1111111111111111,1,1,4,15,0.63,3,http://www.wikidata.org/prop/direct/P31,4,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,4,15,0.63,2,http://www.wikidata.org/prop/direct/P31,5,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,16,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Daughters of Eve,instance of,Album
