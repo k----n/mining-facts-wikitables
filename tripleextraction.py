@@ -487,15 +487,21 @@ for k,v in tables.items():
                         potential_subjects = potential_subjects.union(set([(row, xsc)\
                                                                            for xsc in positions[row].keys()\
                                                                            if xsc[0]]))
-                        if sc[1] == "article" or sc[1] == "section":
-                            potential_objects.add(sc)    
+                        try:
+                            if sc[1] == "article" or sc[1] == "section":
+                                potential_objects.add(sc)    
+                        except:
+                            pass
 
                     for oc in set(object_col):
                         potential_objects = potential_objects.union(set([(row, xoc)\
                                                                          for xoc in positions[row].keys()\
                                                                          if xoc[0]])) 
-                        if oc[1] == "article" or oc[1] == "section":
-                            potential_objects.add(oc)
+                        try:                        
+                            if oc[1] == "article" or oc[1] == "section":
+                                potential_objects.add(oc)
+                        except:
+                            pass
 
                     # generate cartesian product between potential subjects and potential columns
                     combos = list(itertools.product(potential_subjects, potential_objects))
