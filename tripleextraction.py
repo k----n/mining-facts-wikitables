@@ -515,6 +515,8 @@ for k,v in tables.items():
                         try:
                             if not new_table[cc[0][0]][cc[0][1][0]] and not new_table[cc[1][0]][cc[1][1][0]]:
                                 continue
+                            else:
+                                raise ValueError('We can still go on to the except, what a hack')
                         except:
                             # check to see if entity is from title or subsection
                             if cc[0][1] == "article":
