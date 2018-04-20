@@ -594,7 +594,7 @@ for k,v in tables.items():
                                                         feature6,feature7,feature8,feature9,feature10,\
                                                         feature11,feature12,feature13,ip,subject,wdtitle,obj))
             
-            with open(file, 'a', newline='') as csvfile:
+            with open(file1, 'a', newline='') as csvfile:
                 spamwriter = csv.writer(csvfile, delimiter=',')                                 
                 for twc in to_write:
                     spamwriter.writerow(twc)
