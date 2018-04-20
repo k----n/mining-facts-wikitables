@@ -384,85 +384,85 @@ for k,v in tables.items():
              # write the gold standard triples
 
             to_write = set()
-            
-            print(pk,pv)
-            subject = pk[0]
-            obj = pk[1]
-            subjectFlag = False
-            objFlag = False
-            for ip in pv:
-                for rr in resolved_relations[pk]:
-                    if rr[0][0] == "article":
-                        subjectFlag = True
-                    elif rr[0][0] == "section":
-                        subjectFlag = True
-
-                    if rr[1][0] == "article":
-                        objFlag = True
-                    elif rr[1][0] == "section":
-                        objFlag = True
-                    
-                    try:
-                        relatedness = tagme.relatedness_title((subject, obj)).relatedness[0].rel
-                    except:
-                        relatedness = 0
-                    if relatedness:
-                        feature6 = float(relatedness)
-                    else:
-                        feature6 = 0
-
-                    # feature 8 and 10
-                    if subjectFlag:
-                        if rr[0][1] == "article":
-                            feature8 = 1
-                            feature10 = len(k)
-                        else:
-                            feature8 = len(section_entities)
-                            feature10 = len(section_title)
-                        subj_header = subject
-                    else:
-                        feature8 = len(temp_table[rr[0][0]][rr[0][1][0]])
-                        feature10 = len(old_table[rr[0][0]][rr[0][1][0]])
-
-                        subj_header = old_table[0][rr[0][1][0]]
-
-                    # feature 9 and 11
-                    if objFlag:
-                        if rr[1][1] == "article":
-                            feature9 = 1
-                            feature11 = len(k)
-                        else:
-                            feature9 = len(section_entities)
-                            feature11 = len(section_title)
-                        obj_header = obj
-
-                    else:
-                        feature9 = len(temp_table[rr[1][0]][rr[1][1][0]])
-                        feature11 = len(old_table[rr[1][0]][rr[1][1][0]])
-
-                        obj_header = old_table[0][rr[1][1][0]]
-
-
-                    # feature 12
-                    wdtitle = findWDTitle(ip)
-                    feature12 = max(getfeature12(subj_header,wdtitle),getfeature12(obj_header,wdtitle))
-
-                    # feature 13
-                    feature13 = len(resolved_relations[(subject,obj)])
-
-                    print(subject,wdtitle,obj)
-
-                    to_write.add((feature1,feature2,feature3,feature4,feature5,\
-                                                feature6,feature7,feature8,feature9,feature10,\
-                                                feature11,feature12,feature13,ip,subject,wdtitle,obj,1))
-
 
 
 #                     print(subject,wdtitle,obj)
 #                     print(ip)
 
             # features 6,8,9,10,11,12,13
-            for pk, pv in predicates.items():
+            for pk, pv in predicates.items(): 
+                print(pk,pv)
+                subject = pk[0]
+                obj = pk[1]
+                subjectFlag = False
+                objFlag = False
+                for ip in pv:
+                    for rr in resolved_relations[pk]:
+                        if rr[0][0] == "article":
+                            subjectFlag = True
+                        elif rr[0][0] == "section":
+                            subjectFlag = True
+
+                        if rr[1][0] == "article":
+                            objFlag = True
+                        elif rr[1][0] == "section":
+                            objFlag = True
+
+                        try:
+                            relatedness = tagme.relatedness_title((subject, obj)).relatedness[0].rel
+                        except:
+                            relatedness = 0
+                        if relatedness:
+                            feature6 = float(relatedness)
+                        else:
+                            feature6 = 0
+
+                        # feature 8 and 10
+                        if subjectFlag:
+                            if rr[0][1] == "article":
+                                feature8 = 1
+                                feature10 = len(k)
+                            else:
+                                feature8 = len(section_entities)
+                                feature10 = len(section_title)
+                            subj_header = subject
+                        else:
+                            feature8 = len(temp_table[rr[0][0]][rr[0][1][0]])
+                            feature10 = len(old_table[rr[0][0]][rr[0][1][0]])
+
+                            subj_header = old_table[0][rr[0][1][0]]
+
+                        # feature 9 and 11
+                        if objFlag:
+                            if rr[1][1] == "article":
+                                feature9 = 1
+                                feature11 = len(k)
+                            else:
+                                feature9 = len(section_entities)
+                                feature11 = len(section_title)
+                            obj_header = obj
+
+                        else:
+                            feature9 = len(temp_table[rr[1][0]][rr[1][1][0]])
+                            feature11 = len(old_table[rr[1][0]][rr[1][1][0]])
+
+                            obj_header = old_table[0][rr[1][1][0]]
+
+
+                        # feature 12
+                        wdtitle = findWDTitle(ip)
+                        feature12 = max(getfeature12(subj_header,wdtitle),getfeature12(obj_header,wdtitle))
+
+                        # feature 13
+                        feature13 = len(resolved_relations[(subject,obj)])
+
+                        print(subject,wdtitle,obj)
+
+                        to_write.add((feature1,feature2,feature3,feature4,feature5,\
+                                                    feature6,feature7,feature8,feature9,feature10,\
+                                                    feature11,feature12,feature13,ip,subject,wdtitle,obj,1))            
+            
+            
                 potentialrows = set(range(1,len_rows))
                 subject_col = list()
                 object_col = list()
@@ -588,7 +588,7 @@ for k,v in tables.items():
                                                         feature6,feature7,feature8,feature9,feature10,\
                                                         feature11,feature12,feature13,ip,subject,wdtitle,obj))
             
-            with open(file1, 'a', newline='') as csvfile:
+            with open(file, 'a', newline='') as csvfile:
                 spamwriter = csv.writer(csvfile, delimiter=',')                                 
                 for twc in to_write:
                     spamwriter.writerow(twc)
