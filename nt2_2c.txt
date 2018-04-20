@@ -1,0 +1,21 @@
+5,2,576,573,567,0,0.06076388888888889,1,2,14,21,0.53,1,http://www.wikidata.org/prop/direct/P31,Nomination day,instance of,By-election
+5,2,576,573,567,0,0.06076388888888889,1,1,11,25,0.53,1,http://www.wikidata.org/prop/direct/P31,Polling day,instance of,By-elections in Singapore
+5,2,576,573,567,0.31569045782089233,0.06076388888888889,2,9,21,573,0.53,3,http://www.wikidata.org/prop/direct/P31,By-elections in Singapore,instance of,By-election,1
+5,2,576,573,567,0.31569045782089233,0.06076388888888889,2,2,21,21,0.5,3,http://www.wikidata.org/prop/direct/P31,By-elections in Singapore,instance of,By-election,1
+5,2,576,573,567,0,0.06076388888888889,1,1,14,25,0.53,1,http://www.wikidata.org/prop/direct/P31,Nomination day,instance of,By-elections in Singapore
+5,2,576,573,567,0.31569045782089233,0.06076388888888889,2,12,21,298,0.53,3,http://www.wikidata.org/prop/direct/P31,By-elections in Singapore,instance of,By-election,1
+5,2,576,573,567,0,0.06076388888888889,1,2,11,21,0.53,1,http://www.wikidata.org/prop/direct/P31,Polling day,instance of,By-election
+11,5,472,470,469,0,0.06567796610169492,1,1,8,17,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Maayeh""",instance of,Az Khaneh Ta Goor
+11,5,472,470,469,0,0.06567796610169492,1,1,8,15,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Emshab""",instance of,Album
+11,5,472,470,469,0,0.06567796610169492,2,1,27,15,0.53,2,http://www.wikidata.org/prop/direct/P31,Az Khaneh Ta Goor,instance of,Album,1
+11,5,472,470,469,0,0.06567796610169492,1,1,8,17,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Emshab""",instance of,Az Khaneh Ta Goor
+11,5,472,470,469,0,0.06567796610169492,1,1,4,15,0.45,5,http://www.wikidata.org/prop/direct/P31,4,instance of,Album
+11,5,472,470,469,0,0.06567796610169492,1,1,4,15,0.45,7,http://www.wikidata.org/prop/direct/P31,3,instance of,Album
+11,5,472,470,469,0,0.06567796610169492,1,1,8,15,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Maayeh""",instance of,Album
+11,5,472,470,469,0,0.06567796610169492,1,1,6,15,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Joda""",instance of,Album
+11,5,472,470,469,0,0.06567796610169492,1,1,15,15,0.52,2,http://www.wikidata.org/prop/direct/P31,Az Khaneh Ta Goor,instance of,Album,1
+11,5,472,470,469,0,0.06567796610169492,1,1,4,17,0.52,5,http://www.wikidata.org/prop/direct/P31,4,instance of,Az Khaneh Ta Goor
+11,5,472,470,469,0,0.06567796610169492,1,1,13,17,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Khatteh Man""",instance of,Az Khaneh Ta Goor
+11,5,472,470,469,0,0.06567796610169492,1,1,6,17,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Joda""",instance of,Az Khaneh Ta Goor
+11,5,472,470,469,0,0.06567796610169492,1,1,13,15,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Khatteh Man""",instance of,Album
+11,5,472,470,469,0,0.06567796610169492,1,1,4,17,0.52,7,http://www.wikidata.org/prop/direct/P31,3,instance of,Az Khaneh Ta Goor

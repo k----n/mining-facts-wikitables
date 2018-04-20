@@ -1,0 +1,33 @@
+5,2,94,88,86,0.9531748294830322,0.1276595744680851,2,2,35,35,0.57,3,http://www.wikidata.org/prop/direct/P156,Destour,followed by,Neo Destour,1
+5,2,94,88,86,0.9531748294830322,0.1276595744680851,2,2,35,35,0.49,3,http://www.wikidata.org/prop/direct/P155,Neo Destour,follows,Destour,1
+15,5,632,631,630,0,0.08544303797468354,1,1,4,18,0.56,1,http://www.wikidata.org/prop/direct/P106,霸王别姬,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,4,18,0.56,1,http://www.wikidata.org/prop/direct/P106,边走边唱,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,2,18,0.56,1,http://www.wikidata.org/prop/direct/P106,大路,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,3,18,0.56,1,http://www.wikidata.org/prop/direct/P106,红高粱,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,7,11,0.52,1,http://www.wikidata.org/prop/direct/P106,阳光灿烂的日子,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,2,11,0.52,4,http://www.wikidata.org/prop/direct/P106,NA,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,26,11,0.52,3,http://www.wikidata.org/prop/direct/P106,As director of photography,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,2,11,0.52,1,http://www.wikidata.org/prop/direct/P106,大路,occupation,Gu Changwei
+15,5,632,631,630,0.4724208116531372,0.08544303797468354,1,1,18,18,0.56,1,http://www.wikidata.org/prop/direct/P106,Gu Changwei,occupation,Cinematographer,1
+15,5,632,631,630,0,0.08544303797468354,1,1,4,11,0.52,1,http://www.wikidata.org/prop/direct/P106,霸王别姬,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,4,11,0.52,1,http://www.wikidata.org/prop/direct/P106,边走边唱,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,4,11,0.52,1,http://www.wikidata.org/prop/direct/P106,鬼子来了,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,2,11,0.52,1,http://www.wikidata.org/prop/direct/P106,菊豆,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,26,18,0.56,3,http://www.wikidata.org/prop/direct/P106,As director of photography,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,3,11,0.52,1,http://www.wikidata.org/prop/direct/P106,红高粱,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,5,11,0.52,1,http://www.wikidata.org/prop/direct/P106,代号美洲豹,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,2,18,0.56,1,http://www.wikidata.org/prop/direct/P106,菊豆,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,3,11,0.52,1,http://www.wikidata.org/prop/direct/P106,孩子王,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,5,18,0.56,1,http://www.wikidata.org/prop/direct/P106,代号美洲豹,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,4,18,0.56,1,http://www.wikidata.org/prop/direct/P106,鬼子来了,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,7,18,0.56,1,http://www.wikidata.org/prop/direct/P106,阳光灿烂的日子,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,2,18,0.56,4,http://www.wikidata.org/prop/direct/P106,NA,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,3,18,0.56,1,http://www.wikidata.org/prop/direct/P106,孩子王,occupation,Cinematographer
+4,4,456,447,422,1.0,0.03508771929824561,4,4,26,26,0.45,2,http://www.wikidata.org/prop/direct/P17,Japan,country,Japan,1
+4,4,456,447,422,0,0.03508771929824561,1,4,1,26,0.45,1,http://www.wikidata.org/prop/direct/P17,5,country,Japan
+4,4,456,447,422,0,0.03508771929824561,1,4,5,26,0.45,1,http://www.wikidata.org/prop/direct/P17,25702,country,Japan
+4,4,456,447,422,0,0.03508771929824561,1,4,3,26,0.45,1,http://www.wikidata.org/prop/direct/P17,286,country,Japan
+4,4,456,447,422,0,0.03508771929824561,1,4,5,26,0.45,1,http://www.wikidata.org/prop/direct/P17,18689,country,Japan
+4,4,456,447,422,0,0.03508771929824561,1,4,2,26,0.45,1,http://www.wikidata.org/prop/direct/P17,12,country,Japan
+4,4,456,447,422,0.3645172715187073,0.03508771929824561,4,4,26,26,0.53,7,http://www.wikidata.org/prop/direct/P17,Oricon,country,Japan,1
+4,4,456,447,422,0,0.03508771929824561,1,4,2,26,0.45,1,http://www.wikidata.org/prop/direct/P17,30,country,Japan
