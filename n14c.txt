@@ -1,0 +1,1227 @@
+13,4,582,578,574,0,0.07560137457044673,1,1,4,19,0.51,4,http://www.wikidata.org/prop/direct/P31,3,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,1,32,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,3,23,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,14,72,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,2,45,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,3,2,37,13,0.54,3,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,2,1,59,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,2,1,43,21,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,22,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,2,14,59,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,1,15,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,2,65,13,0.53,2,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,2,16,46,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,3,24,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Adam Anders
+13,4,582,578,574,0.7930733561515808,0.07560137457044673,3,1,37,65,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Marvin Winans
+13,4,582,578,574,0.22349053621292114,0.07560137457044673,2,2,18,13,0.54,2,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,14,45,0.54,1,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,2,14,18,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,72,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,This Is How the Wind Shifts
+13,4,582,578,574,0.20698344707489014,0.07560137457044673,2,2,43,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,8,21,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,35,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,23,14,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,2,1,43,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,2,1,46,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,2,4,18,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,25,16,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,2,1,59,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,2,4,13,0.51,2,http://www.wikidata.org/prop/direct/P31,5,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,45,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,23,16,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,35,17,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,14,26,0.54,1,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,3,1,37,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,2,45,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,2,3,43,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,65,25,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,2,1,46,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,2,2,59,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,2,17,18,0.54,1,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Sims (rapper)
+13,4,582,578,574,0.2235843539237976,0.07560137457044673,2,2,46,13,0.54,2,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,2,24,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,17,8,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,72,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,16,45,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,65,19,0.53,2,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,2,1,18,8,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,14,25,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,65,35,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,4,23,0.53,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,2,23,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,14,22,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,2,14,59,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,3,1,37,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,1,17,15,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,32,8,0.54,1,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,2,14,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,4,45,0.54,1,http://www.wikidata.org/prop/direct/P31,3,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,24,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,2,4,59,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,39,14,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,16,8,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,4,19,0.51,2,http://www.wikidata.org/prop/direct/P31,5,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,1,35,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,72,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,2,21,43,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Jamie O'Neal
+13,4,582,578,574,0.5759677886962891,0.07560137457044673,3,2,37,59,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,22,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,2,1,18,26,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,2,26,18,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,2,24,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,2,1,59,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,24,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,3,3,37,37,0.54,1,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,CeCe Winans
+13,4,582,578,574,0.7930733561515808,0.07560137457044673,2,1,18,65,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,22,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,2,2,46,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,2,17,18,0.54,1,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,24,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,39,14,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,22,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,2,24,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,2,1,46,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,2,2,59,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,3,72,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,4,46,0.54,2,http://www.wikidata.org/prop/direct/P31,3,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,15,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,2,1,46,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,14,25,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,3,16,37,0.54,1,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,25,4,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,2,26,13,0.54,1,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,2,14,43,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,1,35,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,45,19,0.54,1,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,1,4,65,0.53,2,http://www.wikidata.org/prop/direct/P31,4,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,3,18,37,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,3,14,37,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,2,21,18,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,2,35,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,4,15,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,24,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0.6498736143112183,0.07560137457044673,2,1,18,22,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,3,2,37,59,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,1,21,25,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,15,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,2,1,18,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,2,2,46,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,2,2,43,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,2,32,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,23,14,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,8,14,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,2,1,46,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,2,72,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,3,4,37,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,4,46,0.54,1,http://www.wikidata.org/prop/direct/P31,5,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,2,25,59,0.54,1,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,3,4,37,0.54,1,http://www.wikidata.org/prop/direct/P31,3,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,46,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,3,32,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,65,17,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,32,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,25,39,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,26,25,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,3,1,37,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,25,21,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,72,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,1,72,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,16,25,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,2,2,59,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,14,46,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,26,14,0.54,1,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,2,1,43,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,2,32,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,32,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,59,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,1,4,72,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,23,8,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,2,17,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,72,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,2,25,18,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,43,19,0.54,2,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,2,17,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,23,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,3,3,37,37,0.54,1,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,15,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,2,1,59,25,0.54,1,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,22,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,25,23,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,2,25,59,0.54,1,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,2,21,18,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,39,17,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,2,1,46,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,2,1,59,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,2,14,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,2,1,46,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Marc Anthony
+13,4,582,578,574,0.5759677886962891,0.07560137457044673,2,3,59,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,4,22,0.54,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,1,72,39,0.54,1,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,8,15,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Marvin Winans
+13,4,582,578,574,0.6998727321624756,0.07560137457044673,1,2,39,18,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,4,43,0.54,1,http://www.wikidata.org/prop/direct/P31,5,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,16,39,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,24,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,2,1,46,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,5
+13,4,582,578,574,0,0.07560137457044673,2,3,43,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,46,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,2,1,46,19,0.54,2,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,2,1,46,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,2,72,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Wendy Waldman
+13,4,582,578,574,0.1639193892478943,0.07560137457044673,3,2,37,13,0.54,3,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Album
+13,4,582,578,574,0.7930733561515808,0.07560137457044673,3,1,37,15,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,43,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,3,1,37,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Holy Spirit
+13,4,582,578,574,0.4603918194770813,0.07560137457044673,1,3,32,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,43,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,3,1,37,4,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,2,45,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,15,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,14,24,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,2,1,59,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,35,14,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,3,14,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,3,35,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,1,8,4,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,21,39,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,14,14,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,2,17,43,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Adrian Gurvitz
+13,4,582,578,574,0.1980927586555481,0.07560137457044673,1,2,15,13,0.54,2,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,45,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,17,14,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,2,2,59,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,2,26,59,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,39,24,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,2,2,59,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Adrian Gurvitz
+13,4,582,578,574,0.2235843539237976,0.07560137457044673,2,2,43,13,0.54,2,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,14,65,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,8,13,0.53,1,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,2,3,43,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,1,14,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,2,1,46,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,3,17,37,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,4,14,0.53,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,2,25,46,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,14,39,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,2,4,59,0.54,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,1,17,14,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,2,1,43,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Say a Prayer
+13,4,582,578,574,0.6498736143112183,0.07560137457044673,1,2,22,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,25,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,2,1,43,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,1,25,72,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0.6998727321624756,0.07560137457044673,1,3,39,37,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,59,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,2,32,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,3,2,37,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,8,45,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,65,14,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,2,14,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,21,45,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,4,32,0.54,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,14,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,3,1,37,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,4,45,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,2,2,18,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,3,1,37,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,2,25,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,2,15,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,72,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,25,65,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,14,14,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,22,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,3
+13,4,582,578,574,0,0.07560137457044673,3,1,37,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,2,65,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Adrian Gurvitz
+13,4,582,578,574,0.1980927586555481,0.07560137457044673,1,2,65,13,0.53,2,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,65,4,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,17,22,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Babbie Mason
+13,4,582,578,574,0.7930733561515808,0.07560137457044673,2,1,18,15,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,21,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,2,2,59,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,43,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,2,2,43,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,2,1,18,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,2,4,59,0.54,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Michael J. Powell
+13,4,582,578,574,0.6460367441177368,0.07560137457044673,1,2,24,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,CeCe Winans
+13,4,582,578,574,0.6330504417419434,0.07560137457044673,1,2,45,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,16,13,0.53,1,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,2,2,59,59,0.54,1,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,45,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,32,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,3,25,37,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,22,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,24,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,2,72,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,8,4,0.53,1,http://www.wikidata.org/prop/direct/P31,For No One,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,1,45,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,2,1,59,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,2,1,59,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,3,2,37,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,1,65,17,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,17,39,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,2,1,46,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,3,1,37,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,14,17,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,3,4,37,0.54,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,3,1,37,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,21,22,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,1,15,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,2,2,18,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,2,2,18,46,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,2,1,59,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,45,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,2,26,43,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,43,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,72,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,3,39,37,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,2,1,59,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,3,1,37,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Marc Anthony
+13,4,582,578,574,0.43802791833877563,0.07560137457044673,1,2,32,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,3,65,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,2,17,43,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,17,46,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,35,22,0.54,1,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,1,26,4,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,3
+13,4,582,578,574,0,0.07560137457044673,3,1,37,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,2,4,18,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,21,35,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,2,1,59,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,21,23,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,3,25,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,3,17,37,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,46,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,1,72,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,2,1,59,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,GRITS
+13,4,582,578,574,0.5132653117179871,0.07560137457044673,1,2,24,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,2,45,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,1,17,19,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,2,14,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,59,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,3,1,37,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,2,2,59,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,2,2,18,43,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,2,14,46,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,2,2,43,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,3,46,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,3,1,37,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,23,17,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,26,16,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,2,14,13,0.53,1,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,2,14,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,1,4,16,0.53,0,http://www.wikidata.org/prop/direct/P31,5,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,23,39,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,3,1,37,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,2,1,18,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,16,14,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,35,19,0.53,1,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,2,1,59,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,3,2,37,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,3,17,37,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,3,3,37,37,0.54,1,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,2,3,43,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,14,17,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,4,26,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,8,16,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,32,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,2,1,59,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,2,72,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,2,2,43,13,0.54,2,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,39,35,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,2,2,46,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,2,1,46,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,2,1,18,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,2,1,18,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,2,14,18,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,32,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,3,72,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,3,14,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,2,1,59,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,2,17,43,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,2,1,46,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,GRITS
+13,4,582,578,574,0.7930733561515808,0.07560137457044673,1,2,65,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,3,35,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,22,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,8,25,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,2,23,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,2,2,18,46,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,26,59,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,1,26,17,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,2,1,59,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,2,1,59,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,2,25,43,0.54,1,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,2,1,43,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,22,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,2,2,43,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,2,2,46,13,0.54,2,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,2,2,59,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,3,45,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,2,2,18,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,2,24,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,4,15,0.54,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,39,46,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,25,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,46,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,2,17,18,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,4,72,0.54,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,2,1,59,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,3,4,37,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,1,65,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,2,3,46,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,2,72,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,3,1,37,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,2,22,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Kayla Parker
+13,4,582,578,574,0.247697114944458,0.07560137457044673,1,2,25,13,0.53,1,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,2,15,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Kayla Parker
+13,4,582,578,574,0.6498736143112183,0.07560137457044673,1,3,22,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,8,4,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,17,65,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,23,4,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,2,4,43,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,72,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,4,46,0.54,1,http://www.wikidata.org/prop/direct/P31,3,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,39,4,0.53,1,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,1,4,35,0.53,0,http://www.wikidata.org/prop/direct/P31,4,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,2,23,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,2,1,59,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,22,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,4,14,0.53,1,http://www.wikidata.org/prop/direct/P31,4,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,2,1,46,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,46,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,2,1,18,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,8,25,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,1,17,14,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,4,35,0.53,1,http://www.wikidata.org/prop/direct/P31,5,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,2,2,59,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,32,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,3,2,37,46,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,39,65,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,14,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,17,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,"""Out of My House"""
+13,4,582,578,574,0.7545110583305359,0.07560137457044673,2,1,18,19,0.54,3,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,1,35,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,2,43,46,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,25,14,0.53,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,2,1,43,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,3,26,37,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,25,35,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,2,2,59,59,0.54,1,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,2,1,18,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,35,14,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,2,1,46,25,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,2,2,43,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,2,1,59,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,2,21,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,22,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,1,4,19,0.51,10,http://www.wikidata.org/prop/direct/P31,4,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,3,39,37,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,2,32,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,2,1,18,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,3,2,37,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,4,18,0.54,2,http://www.wikidata.org/prop/direct/P31,4,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,3,17,37,0.54,1,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,3,18,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,2,2,43,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,3,1,37,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,16,17,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,3,4,37,0.54,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,2,21,46,0.54,1,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,4,26,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,65,8,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,3,2,37,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,17,46,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,2,1,18,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,2,17,43,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,2,1,46,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,65,4,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,3
+13,4,582,578,574,0,0.07560137457044673,2,1,43,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,15,4,0.54,2,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,2,4,43,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,1,25,25,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,2,35,13,0.53,1,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,23,25,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,2,1,18,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,35,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,North of England Education Conference
+13,4,582,578,574,0.43802791833877563,0.07560137457044673,2,1,43,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,2,2,18,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,43,19,0.54,1,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,2,1,59,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Marc Anthony
+13,4,582,578,574,0.7930733561515808,0.07560137457044673,1,3,65,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,21,43,0.54,1,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,24,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,2,22,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,22,19,0.54,1,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,3,25,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,16,23,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,1,14,32,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,15,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,15,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,2,8,59,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,3,1,37,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,3,1,37,4,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,16,19,0.53,1,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,3,4,37,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,2,1,46,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,2,17,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,25,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,2,3,59,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,3,22,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,2,35,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Sims (rapper)
+13,4,582,578,574,0.42279213666915894,0.07560137457044673,1,1,32,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,39,23,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Genesis (Genesis album)
+13,4,582,578,574,0.2390766739845276,0.07560137457044673,3,2,37,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,21,72,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,2,4,13,0.51,4,http://www.wikidata.org/prop/direct/P31,3,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,72,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,3,21,37,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,2,1,18,14,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,4,25,0.53,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,2,1,43,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,14,4,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,5
+13,4,582,578,574,0,0.07560137457044673,2,1,43,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Just a Friend 2002
+13,4,582,578,574,0.21290504932403564,0.07560137457044673,2,2,13,13,0.46,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans (album),instance of,Album,1
+13,4,582,578,574,0,0.07560137457044673,1,1,14,4,0.53,1,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,15,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,2,25,46,0.54,1,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,17,72,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,3,17,37,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,2,1,59,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,2,1,43,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,2,35,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,8,59,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,26,19,0.54,1,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,16,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,65,25,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,1,25,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,North of England Education Conference
+13,4,582,578,574,0.4603918194770813,0.07560137457044673,1,2,32,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,17,23,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,2,3,59,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,25,4,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,2,15,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,1,8,72,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,4,16,0.53,0,http://www.wikidata.org/prop/direct/P31,3,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,2,16,43,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,2,22,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,2,1,46,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,2,1,43,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,26,8,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,3,1,37,8,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,25,17,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,26,39,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,2,4,13,0.51,10,http://www.wikidata.org/prop/direct/P31,4,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,22,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,25,4,0.53,1,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,3,16,37,0.54,1,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,2,1,59,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,15,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,17,45,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,4,22,0.54,0,http://www.wikidata.org/prop/direct/P31,4,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,2,1,59,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,2,8,43,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,39,4,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,65,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Marc Anthony
+13,4,582,578,574,0.6330504417419434,0.07560137457044673,2,1,18,45,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,2,35,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,3,25,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,23,4,0.53,1,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,2,35,13,0.53,1,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,3,8,37,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,22,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,15,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,3,2,37,46,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,2,1,43,4,0.54,2,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,25,19,0.53,1,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,CeCe Winans (album)
+13,4,582,578,574,0.28413987159729004,0.07560137457044673,1,2,14,13,0.53,1,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,2,1,59,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,2,1,43,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,2,45,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Wendy Waldman
+13,4,582,578,574,0.42279213666915894,0.07560137457044673,1,1,24,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,3,25,37,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Adam Anders
+13,4,582,578,574,0.6330504417419434,0.07560137457044673,1,3,45,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,2,46,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,17,16,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,3,1,37,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,3,1,37,35,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,2,17,59,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,2,1,46,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,26,72,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,2,17,46,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,15,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,2,1,18,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,35,17,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,4,72,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,21,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,17,25,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,65,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,2,1,46,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,2,1,59,19,0.54,1,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,1,16,17,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,16,32,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,3,2,37,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,2,4,13,0.51,4,http://www.wikidata.org/prop/direct/P31,3,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,23,35,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,2,8,18,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,43,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,16,35,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,16,22,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,2,14,43,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,59,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0.7545110583305359,0.07560137457044673,3,1,37,19,0.54,3,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,26,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,2,4,43,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,1,4,16,0.53,1,http://www.wikidata.org/prop/direct/P31,4,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,8,32,0.54,1,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,4,23,0.53,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Genesis (Genesis album)
+13,4,582,578,574,0.6998727321624756,0.07560137457044673,3,1,37,39,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,2,1,18,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,26,4,0.54,1,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,1,4,24,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,16,25,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,3,2,37,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,17,26,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,14,17,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,25,14,0.53,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,2,2,18,59,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,2,2,18,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,32,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,14,15,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Marvin Winans
+13,4,582,578,574,0.6998727321624756,0.07560137457044673,2,1,18,39,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,2,1,18,25,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,2,1,59,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,2,24,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,2,43,46,0.54,1,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,45,14,0.54,1,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,21,19,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,2,1,18,23,0.54,1,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,2,1,59,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,3,1,37,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,2,21,46,0.54,1,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,59,19,0.54,1,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,2,23,18,0.54,1,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,17,26,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,4,39,0.53,0,http://www.wikidata.org/prop/direct/P31,3,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,3,14,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,2,59,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,14,17,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,2,22,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,17,24,0.54,1,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,2,16,43,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,4,46,0.54,0,http://www.wikidata.org/prop/direct/P31,4,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,72,19,0.54,1,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,1,26,25,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,1,25,15,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,3,46,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,14,4,0.53,1,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,2,65,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,17,8,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,35,4,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,3
+13,4,582,578,574,0,0.07560137457044673,2,2,43,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,3,1,37,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,2,4,13,0.51,2,http://www.wikidata.org/prop/direct/P31,5,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,2,22,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,3,14,37,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,4,35,0.53,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,16,14,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,2,1,46,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,2,1,43,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,21,65,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Marvin Winans
+13,4,582,578,574,0.7391219139099121,0.07560137457044673,2,1,59,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,3,1,37,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Holy Spirit
+13,4,582,578,574,0.5759677886962891,0.07560137457044673,2,2,18,59,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,45,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,22,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,45,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,32,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,"""Heavenly Father"""
+13,4,582,578,574,0.2878320813179016,0.07560137457044673,1,2,24,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Album
+13,4,582,578,574,0.7391219139099121,0.07560137457044673,1,2,15,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Michael J. Powell
+13,4,582,578,574,0.7391219139099121,0.07560137457044673,1,2,65,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,2,1,43,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,24,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,3
+13,4,582,578,574,0,0.07560137457044673,2,2,59,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,2,1,18,17,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,2,1,46,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,2,2,46,46,0.54,1,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,26,45,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,3,1,37,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,8,35,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,8,24,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,17,45,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,2,26,18,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,45,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,24,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,2,1,18,17,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,25,39,0.53,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,4,14,0.53,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Say a Prayer
+13,4,582,578,574,0.5102999806404114,0.07560137457044673,1,2,23,13,0.53,1,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,39,25,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,2,26,46,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,24,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,1,14,19,0.53,1,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,17,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,17,39,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,3,24,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,1,14,23,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,2,1,46,19,0.54,1,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,3,15,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,2,1,18,21,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,4,25,0.53,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,23,17,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,23,19,0.53,1,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,2,1,18,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,3,1,37,19,0.54,1,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,1,39,19,0.53,1,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,2,25,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,32,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,2,2,43,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,39,46,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,2,1,46,21,0.54,1,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,14,16,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,14,21,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,3,1,37,16,0.54,1,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,2,1,43,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,3,16,37,0.54,1,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,2,1,46,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,18,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,2,45,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,2,45,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,3,4,37,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,2,2,46,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,15,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,2,1,46,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,72,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,2,65,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,3,26,37,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,25,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,24,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,18,4,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,26,4,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,21,24,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,2,1,43,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,1,21,14,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,3,23,37,0.54,1,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,25,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,2,1,43,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,39,4,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,3
+13,4,582,578,574,0,0.07560137457044673,2,1,59,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,25,25,0.53,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,3,1,37,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,8,65,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,45,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,GRITS
+13,4,582,578,574,0.4603918194770813,0.07560137457044673,3,1,37,32,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Marc Anthony
+13,4,582,578,574,0.6460367441177368,0.07560137457044673,2,1,18,24,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,2,1,59,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,2,1,43,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,17,23,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,2,25,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,3,1,37,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,25,22,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,2,1,43,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,24,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,2,45,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,24,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,14,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,3,2,37,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,2,1,43,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,2,16,46,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,3,1,37,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,32,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,4
+13,4,582,578,574,0,0.07560137457044673,2,1,18,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,24,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,22,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,25,35,0.53,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,22,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,26,35,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,26,23,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,1,14,21,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,14,8,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,21,14,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,39,16,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,3,35,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,72,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,2,1,46,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,3,2,37,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,2,2,59,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,2,35,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,65,23,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,1,14,8,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,2,8,18,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,14,16,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,2,26,46,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,18,23,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,2,1,43,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,16,72,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0.6460367441177368,0.07560137457044673,3,1,37,24,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,26,21,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,15,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,21,16,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,45,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,32,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,1,4,26,0.54,0,http://www.wikidata.org/prop/direct/P31,3,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,2,25,59,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Michael J. Powell
+13,4,582,578,574,0.6330504417419434,0.07560137457044673,3,1,37,45,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,32,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,4,65,0.53,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,3,32,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,2,65,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,1,35,39,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,4,23,0.53,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,1,17,32,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,2,1,43,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,2,25,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,3,45,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Pam Sheyne
+13,4,582,578,574,0.6427258253097534,0.07560137457044673,1,2,24,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,2,24,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,3,18,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,2,2,46,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,25,19,0.53,1,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,2,1,43,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,22,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,4,14,0.53,0,http://www.wikidata.org/prop/direct/P31,5,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,3,1,37,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,3,1,37,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,2,17,59,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,2,2,46,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,3,4,37,0.54,2,http://www.wikidata.org/prop/direct/P31,4,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,22,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,45,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,2,1,43,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,65,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,14,25,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,2,1,43,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,1,23,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,2,39,18,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,4,25,0.53,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,2,3,43,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,14,35,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,2,3,59,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,25,65,0.53,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,2,18,43,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,26,14,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,2,15,13,0.54,2,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,3,2,37,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,2,17,59,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,16,4,0.53,1,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,4
+13,4,582,578,574,0,0.07560137457044673,2,1,43,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,39,8,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,2,16,18,0.54,1,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,16,24,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,2,4,59,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,21,32,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,23,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,35,21,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,15,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,3,1,37,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,15,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,25,23,0.53,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,14,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,25,8,0.53,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,35,25,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,3,2,37,18,0.54,2,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,8,23,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Genesis (Genesis album)
+13,4,582,578,574,0.7930733561515808,0.07560137457044673,1,3,15,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,23,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,1,45,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,3,1,37,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,17,25,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,17,22,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,1,45,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,72,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,2,1,59,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,1,21,26,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,2,16,59,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,2,1,43,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,17,18,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,3,2,37,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,2,2,46,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,14,4,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,8,17,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,2,72,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,3,46,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,1,22,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,14,23,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,1,25,45,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,25,24,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,4,15,0.54,2,http://www.wikidata.org/prop/direct/P31,4,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,26,17,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,3,2,37,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,2,14,13,0.53,1,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,15,19,0.54,2,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,2,1,18,35,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,35,4,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,4
+13,4,582,578,574,0,0.07560137457044673,3,1,37,4,0.54,2,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,2,23,18,0.54,1,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,3,1,37,16,0.54,1,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,65,4,0.53,2,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,1,24,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,2,1,59,25,0.54,1,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,8,14,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,2,21,59,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,3,2,37,43,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,2,4,46,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Adrian Gurvitz
+13,4,582,578,574,0.17996704578399658,0.07560137457044673,1,2,32,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,15,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,4,8,0.53,0,http://www.wikidata.org/prop/direct/P31,5,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,24,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,23,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,45,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,2,16,59,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,8,19,0.53,1,http://www.wikidata.org/prop/direct/P31,For No One,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,2,39,43,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,3,23,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,1,45,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,2,35,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,3,18,37,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,3,14,37,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,2,65,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,1,35,4,0.53,1,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,5
+13,4,582,578,574,0,0.07560137457044673,2,2,43,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,2,2,18,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,2,15,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,59,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,3,2,37,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,46,4,0.54,2,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,23,25,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,1,32,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,2,65,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,1,22,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,39,25,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,2,1,59,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,14,4,0.53,1,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,4
+13,4,582,578,574,0,0.07560137457044673,2,1,18,19,0.54,2,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,2,2,18,13,0.54,2,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,72,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,39,15,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,18,16,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,2,1,43,25,0.54,1,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,1,4,8,0.53,0,http://www.wikidata.org/prop/direct/P31,3,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,2,15,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,46,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,3,21,37,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,59,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,24,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,2,1,18,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,2,1,46,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,2,1,46,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,16,4,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,65,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,23,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,1,65,39,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,1,26,32,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,2,8,43,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,3,1,37,72,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0.5759677886962891,0.07560137457044673,2,2,59,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,3,3,37,37,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,32,19,0.54,1,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,2,4,18,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,35,16,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,For Love Alone
+13,4,582,578,574,0.7391219139099121,0.07560137457044673,2,1,59,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Marvin Winans
+13,4,582,578,574,0.17539918422698975,0.07560137457044673,1,2,14,13,0.53,1,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,2,1,59,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,5
+13,4,582,578,574,0,0.07560137457044673,2,2,46,43,0.54,1,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,72,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,32,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,14,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,4,39,0.53,0,http://www.wikidata.org/prop/direct/P31,5,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,2,1,46,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,2,8,46,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,3,1,37,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,4
+13,4,582,578,574,0,0.07560137457044673,2,1,43,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,35,65,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Marvin Winans
+13,4,582,578,574,0.7930733561515808,0.07560137457044673,1,2,15,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,24,19,0.54,1,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,1,17,19,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,1,72,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,16,21,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,2,39,43,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,2,2,59,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,8,17,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,72,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,14,39,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,2,2,18,13,0.54,3,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,3,1,37,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,39,72,0.54,1,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,16,4,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,3
+13,4,582,578,574,0.12889450788497925,0.07560137457044673,3,2,37,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,25,16,0.53,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,2,4,18,0.54,1,http://www.wikidata.org/prop/direct/P31,3,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,2,1,18,14,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,4,65,0.53,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,3,1,37,23,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,2,1,46,21,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,4,39,0.53,1,http://www.wikidata.org/prop/direct/P31,4,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,2,3,46,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,17,24,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,32,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,5
+13,4,582,578,574,0,0.07560137457044673,1,1,23,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,2,39,59,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,2,14,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,3,1,37,14,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,2,2,46,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,8,22,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,1,65,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,2,1,59,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,2,2,46,46,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,3,15,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,25,8,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,25,14,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,2,26,13,0.54,1,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,17,15,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,17,35,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,2,8,46,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,3,1,37,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,14,19,0.53,1,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,1,72,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,2,1,43,25,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,3,2,37,43,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,18,72,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,3,72,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,2,4,59,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,2,22,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,3,2,37,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Jamie O'Neal
+13,4,582,578,574,0.4603918194770813,0.07560137457044673,2,1,18,32,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,14,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,39,21,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,4,32,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,2,39,59,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,1,4,14,0.53,1,http://www.wikidata.org/prop/direct/P31,3,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,45,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,2,1,59,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,2,4,43,0.54,2,http://www.wikidata.org/prop/direct/P31,3,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,72,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,4,43,0.54,1,http://www.wikidata.org/prop/direct/P31,3,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,3,1,37,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,14,25,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,2,1,46,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,32,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,21,15,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,32,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,3,1,37,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,3
+13,4,582,578,574,0,0.07560137457044673,1,1,4,32,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Marc Anthony
+13,4,582,578,574,0.29535770416259766,0.07560137457044673,1,2,8,13,0.53,1,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,2,39,13,0.53,1,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,8,39,0.53,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,2,2,43,43,0.54,1,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,16,18,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,17,16,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,4,22,0.54,1,http://www.wikidata.org/prop/direct/P31,5,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,1,45,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,3,22,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,4,24,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,2,1,46,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,2,25,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,2,25,43,0.54,1,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,3,59,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,2,25,59,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,3,1,37,25,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,3,1,37,25,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,2,1,46,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,5
+13,4,582,578,574,0,0.07560137457044673,3,1,37,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,1,39,17,0.53,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,2,1,43,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,2,1,18,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,14,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,35,8,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,25,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,2,1,59,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,18,4,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,5
+13,4,582,578,574,0.1639193892478943,0.07560137457044673,2,2,18,13,0.54,3,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,23,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,72,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,3,8,37,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,39,32,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,14,4,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,3
+13,4,582,578,574,0,0.07560137457044673,3,2,37,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0.17603552341461182,0.07560137457044673,1,2,23,13,0.53,1,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Album
+13,4,582,578,574,0,0.07560137457044673,2,2,43,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,3,26,37,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,2,17,59,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,2,2,46,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,16,26,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,2,4,13,0.51,10,http://www.wikidata.org/prop/direct/P31,4,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,3,2,37,18,0.54,1,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,35,23,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,2,1,43,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,24,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,5
+13,4,582,578,574,0,0.07560137457044673,2,2,59,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,1,39,22,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,2,23,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,1,18,65,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,45,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,22,39,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,GRITS
+13,4,582,578,574,0,0.07560137457044673,1,3,4,37,0.54,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,3,1,37,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,1,39,26,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,15,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,2,1,18,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,2,72,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,3,65,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Adam Anders
+13,4,582,578,574,0.24970096349716187,0.07560137457044673,1,2,45,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,32,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,2,1,43,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,15,8,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,25,17,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,3,1,37,19,0.54,1,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,CeCe Winans (album)
+13,4,582,578,574,0,0.07560137457044673,1,1,14,45,0.54,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,2,4,59,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,1,16,65,0.53,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,45,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,"""Looking Back at You"""
+13,4,582,578,574,0.25566327571868896,0.07560137457044673,2,2,59,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,25,15,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,72,21,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,45,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,2,1,46,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,4
+13,4,582,578,574,0,0.07560137457044673,2,1,43,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,2,17,46,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,2,25,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,22,35,0.54,1,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,22,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,2,1,18,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,3,17,37,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,2,1,18,25,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,23,21,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,1,1,17,72,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,1,2,14,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,3,1,37,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,1,16,15,0.54,0,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,59,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Kayla Parker,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,2,23,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Wendy Waldman
+13,4,582,578,574,0,0.07560137457044673,1,2,4,18,0.54,1,http://www.wikidata.org/prop/direct/P31,3,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,46,22,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,3,21,37,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,1,25,26,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,3,3,37,37,0.54,1,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,1,35,25,0.53,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,1,1,65,16,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,For Love Alone
+13,4,582,578,574,0.6427258253097534,0.07560137457044673,2,1,43,24,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Tommy Sims
+13,4,582,578,574,0,0.07560137457044673,1,1,32,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,17,65,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,25,72,0.54,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Margaret Bell (songwriter)
+13,4,582,578,574,0,0.07560137457044673,3,1,37,23,0.54,0,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Genesis (Genesis album)
+13,4,582,578,574,0,0.07560137457044673,1,1,65,14,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,65,21,0.53,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,"""Looking Back at You"""
+13,4,582,578,574,0,0.07560137457044673,3,2,37,18,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,26,15,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,17,35,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,2,1,43,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,25,32,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,2,1,43,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,2,2,18,18,0.54,2,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,21,59,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,2,16,13,0.53,1,http://www.wikidata.org/prop/direct/P31,For Love Alone,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,1,1,14,35,0.53,0,http://www.wikidata.org/prop/direct/P31,This Is How the Wind Shifts,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,2,3,59,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,2,1,18,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,Holy Spirit
+13,4,582,578,574,0.6498736143112183,0.07560137457044673,3,1,37,22,0.54,0,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Babbie Mason
+13,4,582,578,574,0,0.07560137457044673,1,2,4,46,0.54,1,http://www.wikidata.org/prop/direct/P31,5,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,1,1,72,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,3,8,37,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,1,15,32,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,2,3,43,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,3,2,37,18,0.54,1,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,72,43,0.54,0,http://www.wikidata.org/prop/direct/P31,Margaret Bell (songwriter),instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,1,17,14,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,32,4,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,3
+13,4,582,578,574,0.21080619096755981,0.07560137457044673,1,2,39,13,0.53,1,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,2,1,18,4,0.54,2,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,4
+13,4,582,578,574,0,0.07560137457044673,3,1,37,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Pam Sheyne,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,1,1,24,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Just a Friend 2002
+13,4,582,578,574,0,0.07560137457044673,1,1,15,26,0.54,0,http://www.wikidata.org/prop/direct/P31,Marvin Winans,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,1,1,32,17,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,1,1,32,25,0.54,0,http://www.wikidata.org/prop/direct/P31,Marc Anthony,instance of,"""More Than What I Wanted"""
+13,4,582,578,574,0,0.07560137457044673,2,2,46,13,0.54,1,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Album
+13,4,582,578,574,0,0.07560137457044673,2,1,59,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Michael J. Powell,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,1,4,45,0.54,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,2,35,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Kayla Parker
+13,4,582,578,574,0,0.07560137457044673,1,1,8,26,0.54,0,http://www.wikidata.org/prop/direct/P31,For No One,instance of,North of England Education Conference
+13,4,582,578,574,0,0.07560137457044673,2,1,46,14,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,23,4,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,5
+13,4,582,578,574,0,0.07560137457044673,2,2,18,18,0.54,2,http://www.wikidata.org/prop/direct/P31,CeCe Winans,instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,2,1,43,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Jamie O'Neal,instance of,4
+13,4,582,578,574,0,0.07560137457044673,2,1,46,35,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Holy Spirit
+13,4,582,578,574,0,0.07560137457044673,1,1,35,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,22,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,2,25,18,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Sims (rapper)
+13,4,582,578,574,0,0.07560137457044673,1,1,21,8,0.53,0,http://www.wikidata.org/prop/direct/P31,"""Looking Back at You""",instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,1,1,26,22,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Babbie Mason
+13,4,582,578,574,0.28066378831863403,0.07560137457044673,2,2,13,13,0.46,3,http://www.wikidata.org/prop/direct/P31,Goodbye Yellow Brick Road,instance of,Album,1
+13,4,582,578,574,0,0.07560137457044673,2,1,18,17,0.54,1,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,"""Out of My House"""
+13,4,582,578,574,0,0.07560137457044673,3,3,37,37,0.54,1,http://www.wikidata.org/prop/direct/P31,Adam Anders,instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,2,17,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Out of My House""",instance of,Album
+13,4,582,578,574,0,0.07560137457044673,2,2,43,43,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,2,26,43,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,1,23,65,0.53,0,http://www.wikidata.org/prop/direct/P31,Genesis (Genesis album),instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,1,1,26,24,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Tommy Sims
+13,4,582,578,574,0.6460367441177368,0.07560137457044673,1,3,24,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,25,13,0.53,1,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Goodbye Yellow Brick Road
+13,4,582,578,574,0,0.07560137457044673,1,1,39,45,0.54,0,http://www.wikidata.org/prop/direct/P31,GRITS,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,2,22,46,0.54,0,http://www.wikidata.org/prop/direct/P31,Babbie Mason,instance of,Adrian Gurvitz
+13,4,582,578,574,0,0.07560137457044673,2,2,46,43,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,Jamie O'Neal
+13,4,582,578,574,0,0.07560137457044673,1,1,14,65,0.53,0,http://www.wikidata.org/prop/direct/P31,Say a Prayer,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,3,46,37,0.54,0,http://www.wikidata.org/prop/direct/P31,Wendy Waldman,instance of,Adam Anders
+13,4,582,578,574,0,0.07560137457044673,1,1,4,14,0.53,0,http://www.wikidata.org/prop/direct/P31,3,instance of,This Is How the Wind Shifts
+13,4,582,578,574,0,0.07560137457044673,1,3,25,37,0.54,0,http://www.wikidata.org/prop/direct/P31,"""More Than What I Wanted""",instance of,Pam Sheyne
+13,4,582,578,574,0,0.07560137457044673,1,1,17,32,0.54,0,http://www.wikidata.org/prop/direct/P31,"""Heavenly Father""",instance of,Marc Anthony
+13,4,582,578,574,0,0.07560137457044673,1,1,24,17,0.54,1,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,"""Heavenly Father"""
+13,4,582,578,574,0,0.07560137457044673,2,3,18,37,0.54,2,http://www.wikidata.org/prop/direct/P31,Sims (rapper),instance of,CeCe Winans
+13,4,582,578,574,0,0.07560137457044673,1,2,35,59,0.54,0,http://www.wikidata.org/prop/direct/P31,Holy Spirit,instance of,Michael J. Powell
+13,4,582,578,574,0,0.07560137457044673,1,1,24,45,0.54,0,http://www.wikidata.org/prop/direct/P31,Tommy Sims,instance of,Madeline Stone
+13,4,582,578,574,0,0.07560137457044673,1,1,45,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Madeline Stone,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,1,4,8,0.53,1,http://www.wikidata.org/prop/direct/P31,4,instance of,For No One
+13,4,582,578,574,0,0.07560137457044673,2,1,46,16,0.54,0,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,For Love Alone
+13,4,582,578,574,0,0.07560137457044673,1,1,26,65,0.54,0,http://www.wikidata.org/prop/direct/P31,North of England Education Conference,instance of,Marvin Winans
+13,4,582,578,574,0,0.07560137457044673,2,1,46,4,0.54,1,http://www.wikidata.org/prop/direct/P31,Adrian Gurvitz,instance of,4
+13,4,582,578,574,0,0.07560137457044673,1,1,25,14,0.53,0,http://www.wikidata.org/prop/direct/P31,Just a Friend 2002,instance of,Say a Prayer
+13,4,582,578,574,0,0.07560137457044673,1,1,4,24,0.54,0,http://www.wikidata.org/prop/direct/P31,3,instance of,Tommy Sims
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,139,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,1,21,0.52,1,http://www.wikidata.org/prop/direct/P452,7,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,94,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,67,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.52,1,http://www.wikidata.org/prop/direct/P452,1892,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.52,1,http://www.wikidata.org/prop/direct/P452,1892,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,3,http://www.wikidata.org/prop/direct/P452,1993,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2017,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,3,http://www.wikidata.org/prop/direct/P452,1993,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,224,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,67,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,94,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,86,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,139,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,224,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,21,21,0.46,1,http://www.wikidata.org/prop/direct/P452,Dm-drogerie markt,industry,Retail,1
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,86,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1995,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1995,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2017,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,1,17,0.52,1,http://www.wikidata.org/prop/direct/P452,7,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Retail
