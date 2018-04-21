@@ -44,3 +44,4 @@
 11,5,472,470,469,0,0.06567796610169492,1,1,4,17,0.52,7,http://www.wikidata.org/prop/direct/P31,3,instance of,Az Khaneh Ta Goor
 11,5,472,470,469,0,0.06567796610169492,1,1,8,17,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Emshab""",instance of,Az Khaneh Ta Goor
 11,5,472,470,469,0,0.06567796610169492,1,1,4,15,0.45,5,http://www.wikidata.org/prop/direct/P31,4,instance of,Album
+

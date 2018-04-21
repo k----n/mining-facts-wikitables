@@ -32,6 +32,8 @@
 5,3,94,92,92,1.0,0.13829787234042554,1,1,12,12,0.32,2,http://www.wikidata.org/prop/direct/P17,Vatican City,country,Vatican City,1
 5,3,94,92,92,0,0.13829787234042554,1,1,1,12,0.75,3,http://www.wikidata.org/prop/direct/P17,7,country,Vatican City
 5,3,94,92,92,0,0.13829787234042554,1,1,1,12,0.75,1,http://www.wikidata.org/prop/direct/P17,9,country,Vatican City
+
+
 9,6,522,521,520,0,0.04789272030651341,1,1,12,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1964,instance of,Uda-class oiler
 9,6,522,521,520,0,0.04789272030651341,1,1,13,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1962,instance of,Uda-class oiler
 9,6,522,521,520,0,0.04789272030651341,1,1,13,14,0.52,1,http://www.wikidata.org/prop/direct/P31,1965,instance of,Ship class
@@ -131,6 +133,7 @@
 13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Dm-drogerie markt
 13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,67,industry,Retail
 13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Dm-drogerie markt
+
 19,3,470,469,463,0,0.1148936170212766,2,2,20,20,0.5,1,http://www.wikidata.org/prop/direct/P106,Xabier Elorriaga,occupation,Actor,1
 4,4,456,447,422,1.0,0.03508771929824561,4,4,26,26,0.45,2,http://www.wikidata.org/prop/direct/P17,Japan,country,Japan,1
 4,4,456,447,422,0,0.03508771929824561,1,4,5,26,0.45,1,http://www.wikidata.org/prop/direct/P17,25702,country,Japan
@@ -174,6 +177,7 @@
 3,6,212,209,205,0,0.05660377358490566,1,2,3,25,0.57,3,http://www.wikidata.org/prop/direct/P31,UBA,instance of,Airline
 5,2,94,88,86,0.9531748294830322,0.1276595744680851,2,2,35,35,0.57,3,http://www.wikidata.org/prop/direct/P156,Destour,followed by,Neo Destour,1
 5,2,94,88,86,0.9531748294830322,0.1276595744680851,2,2,35,35,0.49,3,http://www.wikidata.org/prop/direct/P155,Neo Destour,follows,Destour,1
+
 12,3,314,309,305,0,0.08917197452229299,1,1,9,20,0.52,1,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Ay! Catira Marmoleña
 12,3,314,309,305,0.22028130292892456,0.08917197452229299,2,2,13,13,0.44,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Album,1
 12,3,314,309,305,0,0.08917197452229299,1,2,9,13,0.52,1,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,We Were Dead Before the Ship Even Sank
@@ -220,6 +224,7 @@
 11,5,472,470,469,0,0.06567796610169492,1,1,4,17,0.52,7,http://www.wikidata.org/prop/direct/P31,3,instance of,Az Khaneh Ta Goor
 11,5,472,470,469,0,0.06567796610169492,1,1,8,17,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Emshab""",instance of,Az Khaneh Ta Goor
 11,5,472,470,469,0,0.06567796610169492,1,1,4,15,0.45,5,http://www.wikidata.org/prop/direct/P31,4,instance of,Album
+
 5,2,576,573,567,0.31569045782089233,0.06076388888888889,2,9,21,573,0.53,3,http://www.wikidata.org/prop/direct/P31,By-elections in Singapore,instance of,By-election,1
 5,2,576,573,567,0,0.06076388888888889,1,1,11,25,0.53,1,http://www.wikidata.org/prop/direct/P31,Polling day,instance of,By-elections in Singapore
 5,2,576,573,567,0,0.06076388888888889,1,2,14,21,0.53,1,http://www.wikidata.org/prop/direct/P31,Nomination day,instance of,By-election
@@ -249,7 +254,9 @@
 14,4,564,563,562,0,0.08156028368794327,1,1,28,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,Guest lecture by Hubert Zitt,Iconclass notation,History
 14,4,564,563,562,0,0.08156028368794327,1,1,10,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,qepHom Hut,Iconclass notation,History
 14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,05,Iconclass notation,History
+
 1,3,50,49,43,0,0.14,2,2,26,26,0.58,1,http://www.wikidata.org/prop/direct/P31,Gdańsk Biskupia Górka railway station,instance of,Train station,1
+
 9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,1,http://www.wikidata.org/prop/direct/P131,4022,located in the administrative territorial entity,Al-Nabek
 9,4,338,324,320,0,0.08579881656804733,1,1,4,17,0.49,2,http://www.wikidata.org/prop/direct/P131,قارة,located in the administrative territorial entity,An-Nabek District
 9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,1,http://www.wikidata.org/prop/direct/P131,الجراجير,located in the administrative territorial entity,Al-Nabek
@@ -336,6 +343,7 @@
 5,4,144,142,141,0,0.1111111111111111,1,1,4,15,0.63,3,http://www.wikidata.org/prop/direct/P31,4,instance of,Album
 5,4,144,142,141,0,0.1111111111111111,1,1,4,15,0.63,2,http://www.wikidata.org/prop/direct/P31,5,instance of,Album
 5,4,144,142,141,0,0.1111111111111111,1,1,16,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Daughters of Eve,instance of,Album
+
 8,10,3374,3356,3269,0,0.016301126259632485,1,7,9,33,0.47,2,http://www.wikidata.org/prop/direct/P527,598462095,has part,Database
 8,10,3374,3356,3269,0,0.016301126259632485,1,7,3,33,0.58,16,http://www.wikidata.org/prop/direct/P527,yes,has part,Data
 8,10,3374,3356,3269,0.6057807803153992,0.016301126259632485,4,4,51,51,0.42,18,http://www.wikidata.org/prop/direct/P527,Database,has part,Data,1
@@ -363,6 +371,7 @@
 3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,15,subclass of,Test (assessment)
 3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,20,subclass of,Educational entrance examination
 3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,15,subclass of,Educational entrance examination
+
 5,4,144,142,141,0,0.1111111111111111,1,1,17,5,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Intro,
 5,4,144,142,141,0,0.1111111111111111,1,1,5,17,0.63,0,http://www.wikidata.org/prop/direct/P31,1,instance of,Troll (Norwegian band),
 5,4,144,142,141,0,0.1111111111111111,1,1,17,5,0.63,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,1,
@@ -379,7 +388,8 @@
 5,4,144,142,141,0,0.1111111111111111,1,1,5,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Album,
 5,4,144,142,141,0,0.1111111111111111,1,1,4,13,0.63,3,http://www.wikidata.org/prop/direct/P31,5,instance of,Ur Nattvindar,
 5,4,144,142,141,0,0.1111111111111111,1,1,5,12,0.63,0,http://www.wikidata.org/prop/direct/P31,1,instance of,Troll,
-5,4,144,142,141,0.28359144926071167,0.1111111111111111,1,1,13,15,0.57,2,http://www.wikidata.org/prop/direct/P31,Ur Nattvindar,instance of,Album,12,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,16,16,0.5,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
+5,4,144,142,141,0.28359144926071167,0.1111111111111111,1,1,13,15,0.57,2,http://www.wikidata.org/prop/direct/P31,Ur Nattvindar,instance of,Album,1
+2,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,16,16,0.5,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
 2,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,25,16,0.55,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
 2,3,86,84,78,0,0.11627906976744186,1,1,2,10,0.5,1,http://www.wikidata.org/prop/direct/P361,ॻु,part of,Ga (Indic),
 2,3,86,84,78,0,0.11627906976744186,1,1,2,10,0.5,1,http://www.wikidata.org/prop/direct/P361,ॻू,part of,Ga (Indic),
@@ -576,7 +586,8 @@
 3,4,122,121,115,0,0.11475409836065574,2,2,17,17,0.43,1,http://www.wikidata.org/prop/direct/P106,Ava Acres,occupation,Actor,1
 3,4,122,121,115,0,0.11475409836065574,1,1,24,4,0.45,0,http://www.wikidata.org/prop/direct/P106,Birthday Boy (short story),occupation,Erik,
 3,4,122,121,115,0.5622303485870361,0.11475409836065574,1,1,22,29,0.0,0,http://www.wikidata.org/prop/direct/P106,Happy Feet Two,occupation,When Marnie Was There,
-3,4,122,121,115,0,0.11475409836065574,1,1,6,29,0.45,1,http://www.wikidata.org/prop/direct/P106,Sayaka,occupation,When Marnie Was There,2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,35,genre,Video,
+3,4,122,121,115,0,0.11475409836065574,1,1,6,29,0.45,1,http://www.wikidata.org/prop/direct/P106,Sayaka,occupation,When Marnie Was There,
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,35,genre,Video,
 2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,35,genre,Nintendo Video,
 2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,40,genre,Video,
 2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,40,genre,Nintendo Video,
@@ -889,7 +900,8 @@
 5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Gan Siqi,
 5,5,436,433,432,0,0.05504587155963303,1,1,23,52,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Montreal World Film Festival,
 5,5,436,433,432,0,0.05504587155963303,1,1,7,7,0.41,1,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Zi Wang,
-5,5,436,433,432,0.4739074110984802,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,World Wide Web,7,4,200,199,198,0,0.1,1,1,19,5,0.45,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Chloe,
+5,5,436,433,432,0.4739074110984802,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,World Wide Web,
+7,4,200,199,198,0,0.1,1,1,19,5,0.45,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Chloe,
 7,4,200,199,198,0,0.1,1,1,28,34,0.0,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,The Devil's in the Details,
 7,4,200,199,198,0,0.1,1,1,25,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Holidays (2016 film),
 7,4,200,199,198,0,0.1,1,1,19,28,0.0,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Holidays (2016 film),
@@ -1009,7 +1021,8 @@
 5,4,144,142,141,0,0.1111111111111111,1,1,5,17,0.57,0,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Troll (Norwegian band),
 5,4,144,142,141,0,0.1111111111111111,1,1,5,12,0.57,0,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Troll,
 5,4,144,142,141,0,0.1111111111111111,1,1,5,17,0.63,0,http://www.wikidata.org/prop/direct/P31,1,instance of,Troll (Norwegian band),
-5,4,144,142,141,0,0.1111111111111111,1,1,17,16,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Daughters of Eve,12,3,314,309,305,0,0.08917197452229299,1,1,24,20,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ay! Catira Marmoleña,
+5,4,144,142,141,0,0.1111111111111111,1,1,17,16,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Daughters of Eve,
+12,3,314,309,305,0,0.08917197452229299,1,1,24,20,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ay! Catira Marmoleña,
 12,3,314,309,305,0,0.08917197452229299,1,1,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Coplas a las madres,
 12,3,314,309,305,0,0.08917197452229299,2,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Fue,
 12,3,314,309,305,0,0.08917197452229299,1,1,19,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Samuel Moreno Rojas,
@@ -1053,7 +1066,8 @@
 12,3,314,309,305,0.22028130292892456,0.08917197452229299,1,2,20,13,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Album,1
 12,3,314,309,305,0,0.08917197452229299,1,1,23,12,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Contrapunteo,
 12,3,314,309,305,0,0.08917197452229299,1,1,21,19,0.59,2,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,M.I,
-12,3,314,309,305,0,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Fue,10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-u,
+12,3,314,309,305,0,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Fue,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-u,
 10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-a:,
 10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-əna,
 10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-omu,has part,Ka (Cyrillic),
@@ -1111,12 +1125,14 @@
 20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,142,part of,Economy,
 20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.43,1,http://www.wikidata.org/prop/direct/P361,33,part of,Economy,
 20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.43,1,http://www.wikidata.org/prop/direct/P361,32,part of,Economy,
-20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,471,part of,Economy,2,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,25,16,0.55,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,471,part of,Economy,
+2,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,25,16,0.55,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
 2,3,86,84,78,0,0.11627906976744186,1,2,2,16,0.47,1,http://www.wikidata.org/prop/direct/P361,ॻू,part of,Devanagari,
 2,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,16,16,0.5,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
 2,3,86,84,78,0,0.11627906976744186,1,2,2,16,0.47,1,http://www.wikidata.org/prop/direct/P361,ॻु,part of,Devanagari,
 2,3,86,84,78,0,0.11627906976744186,1,1,2,10,0.5,1,http://www.wikidata.org/prop/direct/P361,ॻू,part of,Ga (Indic),
-2,3,86,84,78,0,0.11627906976744186,1,1,2,10,0.5,1,http://www.wikidata.org/prop/direct/P361,ॻु,part of,Ga (Indic),10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.0,0,http://www.wikidata.org/prop/direct/P279,Yodh,subclass of,-əna,
+2,3,86,84,78,0,0.11627906976744186,1,1,2,10,0.5,1,http://www.wikidata.org/prop/direct/P361,ॻु,part of,Ga (Indic),
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.0,0,http://www.wikidata.org/prop/direct/P279,Yodh,subclass of,-əna,
 10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əna,has part,Noun,
 10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.41,3,http://www.wikidata.org/prop/direct/P361,Noun,part of,Noun phrase,1
 10,2,174,168,166,0.43196195363998413,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),subclass of,Noun,
@@ -1139,7 +1155,8 @@
 10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.49,1,http://www.wikidata.org/prop/direct/P279,Yodh,subclass of,Noun phrase,
 10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkəma,subclass of,Noun,
 10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.0,0,http://www.wikidata.org/prop/direct/P279,Yodh,subclass of,-on,
-10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əna,has part,Ka (Cyrillic),3,4,100,97,96,0,0.1,1,1,23,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,ǳ,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əna,has part,Ka (Cyrillic),
+3,4,100,97,96,0,0.1,1,1,23,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,ǳ,
 3,4,100,97,96,0,0.1,2,1,42,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,ǲ,
 3,4,100,97,96,0,0.1,1,1,11,21,0.45,2,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,Dž,
 3,4,100,97,96,0.5367867947,0.1,2,1,42,23,0.45,0,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,Dž,
@@ -1223,7 +1240,8 @@
 4,3,136,133,129,0,0.1102941176,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,95,genre,Video,
 4,3,136,133,129,0,0.1102941176,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,20,genre,Nintendo Video,
 4,3,136,133,129,0,0.1102941176,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,95,genre,Nintendo Video,
-4,3,136,133,129,0,0.1102941176,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,20,genre,Video,9,3,268,262,258,0,0.09328358208955224,1,1,10,5,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Glossary of musical terminology,
+4,3,136,133,129,0,0.1102941176,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,20,genre,Video,
+9,3,268,262,258,0,0.09328358208955224,1,1,10,5,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Glossary of musical terminology,
 9,3,268,262,258,0,0.09328358208955224,1,1,6,18,0.42,0,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,The Shadows,
 9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.51,1,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,The Shadows,
 9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.55,0,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,The Shadows,
@@ -1276,7 +1294,8 @@
 10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Noun,
 10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Enki,part of,Noun,
 2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,35,genre,Nintendo Video,
-2,3,86,83,79,0.6835566759109497,0.10465116279069768,2,2,13,13,0.51,3,http://www.wikidata.org/prop/direct/P136,Nintendo Video,genre,Video,18,10,3374,3356,3269,0.4272425174713135,0.016301126259632485,1,3,15,33,0.51,2,http://www.wikidata.org/prop/direct/P527,Hypertext Transfer Protocol,has part,Map (higher-order function),
+2,3,86,83,79,0.6835566759109497,0.10465116279069768,2,2,13,13,0.51,3,http://www.wikidata.org/prop/direct/P136,Nintendo Video,genre,Video,1
+8,10,3374,3356,3269,0.4272425174713135,0.016301126259632485,1,3,15,33,0.51,2,http://www.wikidata.org/prop/direct/P527,Hypertext Transfer Protocol,has part,Map (higher-order function),
 8,10,3374,3356,3269,0,0.016301126259632485,1,3,11,33,0.43,0,http://www.wikidata.org/prop/direct/P527,Proprietary,has part,Map (higher-order function),
 8,10,3374,3356,3269,0,0.016301126259632485,1,3,6,33,0.51,0,http://www.wikidata.org/prop/direct/P527,_nomap,has part,Map (higher-order function),
 8,10,3374,3356,3269,0,0.016301126259632485,4,1,46,8,0.39,0,http://www.wikidata.org/prop/direct/P527,HTTP location,has part,22010794,

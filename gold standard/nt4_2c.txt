@@ -25,3 +25,4 @@
 3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,15,subclass of,Test (assessment)
 3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,20,subclass of,Educational entrance examination
 3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,15,subclass of,Educational entrance examination
+

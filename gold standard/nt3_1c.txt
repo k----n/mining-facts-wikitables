@@ -27,3 +27,4 @@
 14,4,564,563,562,0,0.08156028368794327,1,1,28,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,Guest lecture by Hubert Zitt,Iconclass notation,History
 14,4,564,563,562,0,0.08156028368794327,1,1,10,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,qepHom Hut,Iconclass notation,History
 14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,05,Iconclass notation,History
+
