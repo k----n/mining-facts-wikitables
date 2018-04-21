@@ -1,0 +1,1452 @@
+10,2,174,168,166,0,0.09770114942528736,1,1,2,4,0.0,0,http://www.wikidata.org/prop/direct/P279,-u,subclass of,Ka (Cyrillic),
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.0,0,http://www.wikidata.org/prop/direct/P361,-a:,subclass of,Yodh,
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-a:,has part,Yodh,
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-on,has part,Ka (Cyrillic),
+10,2,174,168,166,0,0.09770114942528736,1,1,3,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-on,has part,Yodh,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-u,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-u,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.0,0,http://www.wikidata.org/prop/direct/P279,Yodh,subclass of,-on,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-on,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-a:,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Enki,part of,-on,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-on,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-a:,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,3,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,-on,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.0,0,http://www.wikidata.org/prop/direct/P361,-əna,subclass of,Enki,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.0,0,http://www.wikidata.org/prop/direct/P361,-omu,subclass of,Ka (Cyrillic),
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əna,has part,Ka (Cyrillic),3,4,100,97,96,0,0.1,1,1,23,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,ǳ,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əna,has part,Yodh,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-əna,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-əna,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-omu,has part,Enki,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-omu,has part,Ka (Cyrillic),
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-omu,has part,Yodh,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Yodh,has part,-əna,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-əna,part of,Yodh,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,-omu,part of,Yodh,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P279,Yodh,part of,-omu,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əna,part of,Yodh,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Enki,part of,Ka (Cyrillic),
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-omu,part of,Enki,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Yodh,part of,-omu,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.0,0,http://www.wikidata.org/prop/direct/P279,Enki,subclass of,-əkən,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,5,0.0,0,http://www.wikidata.org/prop/direct/P279,Yodh,subclass of,-əkən,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.44,0,http://www.wikidata.org/prop/direct/P527,Enki,has part,-əkəma,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-əkəma,
+10,2,174,168,166,0,0.09770114942528736,1,1,4,6,0.45,0,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,-əkəma,
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.44,0,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Yodh,
+10,2,174,168,166,0,0.09770114942528736,1,1,5,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Enki,
+10,2,174,168,166,0,0.09770114942528736,1,1,6,4,0.45,0,http://www.wikidata.org/prop/direct/P361,-əkəma,part of,Yodh,
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-u,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-u,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-u,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-u,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-u,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,2,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-u,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-a:,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-on,has part,Noun,
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-on,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-a:,part of,Noun,
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-a:,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-on,part of,Noun,
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-on,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-a:,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-on,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-a:,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-on,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-a:,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-on,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-a:,has part,Noun phrase,
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-a:,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,3,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-on,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əna,has part,Noun,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əna,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,Enki,has part,Noun,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-omu,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əna,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Enki,part of,Noun phrase,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),part of,Noun phrase,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-omu,part of,Noun,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-omu,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Yodh,part of,Noun phrase,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əna,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Enki,part of,Noun,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-omu,part of,Noun,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-omu,part of,Noun phrase,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-omu,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P361,Yodh,part of,Noun phrase,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-əna,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-omu,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.49,1,http://www.wikidata.org/prop/direct/P279,Yodh,subclass of,Noun phrase,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-əna,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-omu,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əna,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,Enki,has part,Noun phrase,
+10,2,174,168,166,0,0.09770114942528736,1,2,4,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-omu,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkən,part of,Noun phrase,
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkən,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkən,part of,Noun phrase,
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkən,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-əkən,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-əkən,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,5,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əkən,has part,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.44,1,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkəma,part of,Noun,
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P279,-əkəma,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkəma,subclass of,Noun,
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.45,1,http://www.wikidata.org/prop/direct/P361,-əkəma,subclass of,Noun
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.49,1,http://www.wikidata.org/prop/direct/P279,-əkəma,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.49,1,http://www.wikidata.org/prop/direct/P361,-əkəma,subclass of,Noun phrase
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Noun phrase,
+10,2,174,168,166,0,0.09770114942528736,1,2,6,12,0.54,1,http://www.wikidata.org/prop/direct/P527,-əkəma,has part,Noun phrase
+10,2,174,168,166,0.43196195363998413,0.09770114942528736,1,2,4,12,0.45,1,http://www.wikidata.org/prop/direct/P279,Ka (Cyrillic),subclass of,Noun,
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.0,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),subclass of,Yodh,
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,Yodh,
+10,2,174,168,166,0.661948561668396,0.09770114942528736,1,1,4,4,0.45,0,http://www.wikidata.org/prop/direct/P361,Ka (Cyrillic),part of,Yodh,
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.41,3,http://www.wikidata.org/prop/direct/P361,Noun,part of,Noun phrase,1
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.49,3,http://www.wikidata.org/prop/direct/P279,Noun,subclass of,Noun phrase,1
+10,2,174,168,166,0.7410411834716797,0.09770114942528736,2,2,12,12,0.54,3,http://www.wikidata.org/prop/direct/P527,Noun phrase,has part,Noun,1
+10,5,584,582,582,0,0.06506849315068493,1,1,17,6,0.63,1,http://www.wikidata.org/prop/direct/P17,1979,country,Israel
+10,5,584,582,582,0,0.06506849315068493,1,1,17,6,0.63,1,http://www.wikidata.org/prop/direct/P17,1980,country,Israel
+10,5,584,582,582,0,0.06506849315068493,1,1,17,6,0.63,2,http://www.wikidata.org/prop/direct/P17,1974,country,Israel
+10,5,584,582,582,0,0.06506849315068493,1,1,17,6,0.63,2,http://www.wikidata.org/prop/direct/P17,1975,country,Israel
+10,5,584,582,582,0,0.06506849315068493,1,1,3,6,0.44,1,http://www.wikidata.org/prop/direct/P17,Bow,country,Israel
+10,5,584,582,582,0,0.06506849315068493,1,1,4,6,0.44,5,http://www.wikidata.org/prop/direct/P17,Sold,country,Israel
+10,5,584,582,582,0,0.06506849315068493,1,1,5,6,0.44,1,http://www.wikidata.org/prop/direct/P17,Spark,country,Israel
+10,5,584,582,582,0,0.06506849315068493,1,1,7,6,0.44,3,http://www.wikidata.org/prop/direct/P17,Retired,country,Israel
+10,5,584,582,582,0.04630357027053833,0.06506849315068493,1,1,5,6,0.44,1,http://www.wikidata.org/prop/direct/P17,Lance,country,Israel
+10,5,584,582,582,0.053517282009124756,0.06506849315068493,1,1,7,6,0.44,1,http://www.wikidata.org/prop/direct/P17,Victory,country,Israel
+10,5,584,582,582,0.13063478469848633,0.06506849315068493,1,1,7,6,0.44,1,http://www.wikidata.org/prop/direct/P17,Javelin,country,Israel
+10,5,584,582,582,0.23794007301330566,0.06506849315068493,1,1,8,6,0.44,1,http://www.wikidata.org/prop/direct/P17,Homeland,country,Israel
+10,5,584,582,582,0.2677937150001526,0.06506849315068493,1,1,12,6,0.44,1,http://www.wikidata.org/prop/direct/P17,Independence,country,Israel
+10,5,584,582,582,0.2941690683364868,0.06506849315068493,1,1,11,6,0.44,1,http://www.wikidata.org/prop/direct/P17,Sovereignty,country,Israel
+10,5,584,582,582,1.0,0.06506849315068493,1,1,6,6,0.44,2,http://www.wikidata.org/prop/direct/P17,Israel,country,Israel,1
+11,5,472,470,469,0,0.06567796610169492,1,1,13,15,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Khatteh Man""",instance of,Album
+11,5,472,470,469,0,0.06567796610169492,1,1,13,17,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Khatteh Man""",instance of,Az Khaneh Ta Goor
+11,5,472,470,469,0,0.06567796610169492,1,1,15,15,0.52,2,http://www.wikidata.org/prop/direct/P31,Az Khaneh Ta Goor,instance of,Album,1
+11,5,472,470,469,0,0.06567796610169492,1,1,4,15,0.45,5,http://www.wikidata.org/prop/direct/P31,4,instance of,Album
+11,5,472,470,469,0,0.06567796610169492,1,1,4,15,0.45,7,http://www.wikidata.org/prop/direct/P31,3,instance of,Album
+11,5,472,470,469,0,0.06567796610169492,1,1,4,17,0.52,5,http://www.wikidata.org/prop/direct/P31,4,instance of,Az Khaneh Ta Goor
+11,5,472,470,469,0,0.06567796610169492,1,1,4,17,0.52,7,http://www.wikidata.org/prop/direct/P31,3,instance of,Az Khaneh Ta Goor
+11,5,472,470,469,0,0.06567796610169492,1,1,6,15,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Joda""",instance of,Album
+11,5,472,470,469,0,0.06567796610169492,1,1,6,17,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Joda""",instance of,Az Khaneh Ta Goor
+11,5,472,470,469,0,0.06567796610169492,1,1,8,15,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Emshab""",instance of,Album
+11,5,472,470,469,0,0.06567796610169492,1,1,8,15,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Maayeh""",instance of,Album
+11,5,472,470,469,0,0.06567796610169492,1,1,8,17,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Emshab""",instance of,Az Khaneh Ta Goor
+11,5,472,470,469,0,0.06567796610169492,1,1,8,17,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Maayeh""",instance of,Az Khaneh Ta Goor
+11,5,472,470,469,0,0.06567796610169492,2,1,27,15,0.53,2,http://www.wikidata.org/prop/direct/P31,Az Khaneh Ta Goor,instance of,Album,1
+12,3,314,309,305,0,0.08917197452229299,1,1,12,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,M.I,
+12,3,314,309,305,0,0.08917197452229299,1,1,12,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Ay! Catira Marmoleña,
+12,3,314,309,305,0,0.08917197452229299,1,1,12,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,12,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,English language,
+12,3,314,309,305,0,0.08917197452229299,1,1,12,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Joropo,
+12,3,314,309,305,0,0.08917197452229299,1,1,12,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,M.I,
+12,3,314,309,305,0,0.08917197452229299,1,1,12,39,0.59,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Samuel Moreno Rojas,
+12,3,314,309,305,0,0.08917197452229299,1,1,15,12,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Contrapunteo,
+12,3,314,309,305,0,0.08917197452229299,1,1,15,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Ay! Catira Marmoleña,
+12,3,314,309,305,0,0.08917197452229299,1,1,15,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,Fue,
+12,3,314,309,305,0,0.08917197452229299,1,1,15,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,M.I,
+12,3,314,309,305,0,0.08917197452229299,1,1,15,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,El Viento,
+12,3,314,309,305,0,0.08917197452229299,1,1,19,12,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Contrapunteo,
+12,3,314,309,305,0,0.08917197452229299,1,1,19,15,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Joan Llaneras,
+12,3,314,309,305,0,0.08917197452229299,1,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,M.I,
+12,3,314,309,305,0,0.08917197452229299,1,1,19,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Ay! Catira Marmoleña,
+12,3,314,309,305,0,0.08917197452229299,1,1,19,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,19,21,0.59,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ángel Custodio Loyola,
+12,3,314,309,305,0,0.08917197452229299,1,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,English language,
+12,3,314,309,305,0,0.08917197452229299,1,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Joropo,
+12,3,314,309,305,0,0.08917197452229299,1,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,M.I,
+12,3,314,309,305,0,0.08917197452229299,1,1,19,27,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Middle East,
+12,3,314,309,305,0,0.08917197452229299,1,1,19,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Samuel Moreno Rojas,
+12,3,314,309,305,0,0.08917197452229299,1,1,19,9,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,El Viento,
+12,3,314,309,305,0,0.08917197452229299,1,1,20,15,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Joan Llaneras,
+12,3,314,309,305,0,0.08917197452229299,1,1,21,19,0.59,2,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,M.I,
+12,3,314,309,305,0,0.08917197452229299,1,1,21,23,0.59,1,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Fue,
+12,3,314,309,305,0,0.08917197452229299,1,1,21,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Samuel Moreno Rojas,
+12,3,314,309,305,0,0.08917197452229299,1,1,23,12,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Contrapunteo,
+12,3,314,309,305,0,0.08917197452229299,1,1,23,15,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Joan Llaneras,
+12,3,314,309,305,0,0.08917197452229299,1,1,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Coplas a las madres,
+12,3,314,309,305,0,0.08917197452229299,1,1,23,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Ay! Catira Marmoleña,
+12,3,314,309,305,0,0.08917197452229299,1,1,23,23,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Fue,
+12,3,314,309,305,0,0.08917197452229299,1,1,23,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Joropo,
+12,3,314,309,305,0,0.08917197452229299,1,1,23,39,0.59,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Samuel Moreno Rojas,
+12,3,314,309,305,0,0.08917197452229299,1,1,23,39,0.59,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Samuel Moreno Rojas,
+12,3,314,309,305,0,0.08917197452229299,1,1,24,15,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Joan Llaneras,
+12,3,314,309,305,0,0.08917197452229299,1,1,24,15,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Joan Llaneras,
+12,3,314,309,305,0,0.08917197452229299,1,1,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Coplas a las madres,
+12,3,314,309,305,0,0.08917197452229299,1,1,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,M.I,
+12,3,314,309,305,0,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Fue,10,2,174,168,166,0,0.09770114942528736,1,1,4,2,0.44,0,http://www.wikidata.org/prop/direct/P527,Ka (Cyrillic),has part,-u,
+12,3,314,309,305,0,0.08917197452229299,1,1,24,24,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Joropo,
+12,3,314,309,305,0,0.08917197452229299,1,1,24,9,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,El Viento,
+12,3,314,309,305,0,0.08917197452229299,1,1,27,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Coplas a las madres,
+12,3,314,309,305,0,0.08917197452229299,1,1,27,21,0.59,1,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Ángel Custodio Loyola,
+12,3,314,309,305,0,0.08917197452229299,1,1,27,24,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,M.I,
+12,3,314,309,305,0,0.08917197452229299,1,1,27,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,El Viento,
+12,3,314,309,305,0,0.08917197452229299,1,1,39,12,0.59,1,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Contrapunteo,
+12,3,314,309,305,0,0.08917197452229299,1,1,39,15,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Joan Llaneras,
+12,3,314,309,305,0,0.08917197452229299,1,1,39,19,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,M.I,
+12,3,314,309,305,0,0.08917197452229299,1,1,39,23,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Fue,
+12,3,314,309,305,0,0.08917197452229299,1,1,9,15,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Joan Llaneras,
+12,3,314,309,305,0,0.08917197452229299,1,1,9,19,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,M.I,
+12,3,314,309,305,0,0.08917197452229299,1,1,9,20,0.52,1,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Ay! Catira Marmoleña
+12,3,314,309,305,0,0.08917197452229299,1,1,9,23,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Fue,
+12,3,314,309,305,0,0.08917197452229299,1,1,9,39,0.59,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Samuel Moreno Rojas,
+12,3,314,309,305,0,0.08917197452229299,1,2,12,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Album,
+12,3,314,309,305,0,0.08917197452229299,1,2,12,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,2,12,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,We Were Dead Before the Ship Even Sank,
+12,3,314,309,305,0,0.08917197452229299,1,2,12,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,2,12,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Contrapunteo,instance of,"Ayer, Massachusetts",
+12,3,314,309,305,0,0.08917197452229299,1,2,15,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joan Llaneras,instance of,"Ayer, Massachusetts",
+12,3,314,309,305,0,0.08917197452229299,1,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Coplas a las madres,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,2,20,13,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,2,20,19,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Delaware,
+12,3,314,309,305,0,0.08917197452229299,1,2,21,13,0.59,11,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,2,23,13,0.52,1,http://www.wikidata.org/prop/direct/P31,English language,instance of,Album,
+12,3,314,309,305,0,0.08917197452229299,1,2,23,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Album,
+12,3,314,309,305,0,0.08917197452229299,1,2,23,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Fue,instance of,We Were Dead Before the Ship Even Sank,
+12,3,314,309,305,0,0.08917197452229299,1,2,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,"Ayer, Massachusetts",
+12,3,314,309,305,0,0.08917197452229299,1,2,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Fue,instance of,Delaware,
+12,3,314,309,305,0,0.08917197452229299,1,2,24,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,We Were Dead Before the Ship Even Sank,
+12,3,314,309,305,0,0.08917197452229299,1,2,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Delaware,
+12,3,314,309,305,0,0.08917197452229299,1,2,24,19,0.52,0,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Delaware,
+12,3,314,309,305,0,0.08917197452229299,1,2,27,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,Album,
+12,3,314,309,305,0,0.08917197452229299,1,2,27,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,We Were Dead Before the Ship Even Sank,
+12,3,314,309,305,0,0.08917197452229299,1,2,39,13,0.59,1,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Album,
+12,3,314,309,305,0,0.08917197452229299,1,2,39,13,0.59,1,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,We Were Dead Before the Ship Even Sank,
+12,3,314,309,305,0,0.08917197452229299,1,2,39,19,0.59,0,http://www.wikidata.org/prop/direct/P31,Samuel Moreno Rojas,instance of,Delaware,
+12,3,314,309,305,0,0.08917197452229299,1,2,9,13,0.52,1,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,Album
+12,3,314,309,305,0,0.08917197452229299,1,2,9,13,0.52,1,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,We Were Dead Before the Ship Even Sank
+12,3,314,309,305,0,0.08917197452229299,1,2,9,19,0.52,0,http://www.wikidata.org/prop/direct/P31,El Viento,instance of,"Ayer, Massachusetts",
+12,3,314,309,305,0,0.08917197452229299,2,1,19,12,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Contrapunteo,
+12,3,314,309,305,0,0.08917197452229299,2,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Coplas a las madres,
+12,3,314,309,305,0,0.08917197452229299,2,1,19,19,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,M.I,
+12,3,314,309,305,0,0.08917197452229299,2,1,19,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Ay! Catira Marmoleña,
+12,3,314,309,305,0,0.08917197452229299,2,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,Fue,
+12,3,314,309,305,0,0.08917197452229299,2,1,19,24,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Joropo,
+12,3,314,309,305,0,0.08917197452229299,2,1,19,9,0.52,0,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,El Viento,
+12,3,314,309,305,0,0.08917197452229299,2,1,19,9,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,El Viento,
+12,3,314,309,305,0,0.08917197452229299,2,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,Album,
+12,3,314,309,305,0,0.08917197452229299,2,2,19,13,0.52,1,http://www.wikidata.org/prop/direct/P31,"Ayer, Massachusetts",instance of,We Were Dead Before the Ship Even Sank,
+12,3,314,309,305,0.07437270879745483,0.08917197452229299,1,1,23,24,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Joropo,
+12,3,314,309,305,0.07437270879745483,0.08917197452229299,1,1,24,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,English language,
+12,3,314,309,305,0.08192265033721924,0.08917197452229299,1,2,23,19,0.52,0,http://www.wikidata.org/prop/direct/P31,English language,instance of,Delaware,
+12,3,314,309,305,0.08192265033721924,0.08917197452229299,2,1,19,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Delaware,instance of,English language,
+12,3,314,309,305,0.12277942895889282,0.08917197452229299,1,2,24,13,0.52,1,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Album,
+12,3,314,309,305,0.22028130292892456,0.08917197452229299,1,2,20,13,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Album
+12,3,314,309,305,0.22028130292892456,0.08917197452229299,1,2,20,13,0.52,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Album,1
+12,3,314,309,305,0.22028130292892456,0.08917197452229299,2,2,13,13,0.44,2,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Album,1
+12,3,314,309,305,0.2315603494644165,0.08917197452229299,2,2,13,13,0.45,3,http://www.wikidata.org/prop/direct/P31,We Were Dead Before the Ship Even Sank,instance of,Album,1
+12,3,314,309,305,0.2463638186454773,0.08917197452229299,1,2,21,13,0.59,11,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Album,
+12,3,314,309,305,0.2463638186454773,0.08917197452229299,1,2,21,13,0.59,11,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Album
+12,3,314,309,305,0.25356054306030273,0.08917197452229299,1,1,27,23,0.52,0,http://www.wikidata.org/prop/direct/P31,Middle East,instance of,English language,
+12,3,314,309,305,0.7038983106613159,0.08917197452229299,1,1,20,24,0.52,1,http://www.wikidata.org/prop/direct/P31,Ay! Catira Marmoleña,instance of,Joropo,
+12,3,314,309,305,0.7038983106613159,0.08917197452229299,1,1,24,20,0.52,1,http://www.wikidata.org/prop/direct/P31,Joropo,instance of,Ay! Catira Marmoleña,
+12,3,314,309,305,0.895069420337677,0.08917197452229299,1,1,21,20,0.59,12,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Ay! Catira Marmoleña,
+12,3,314,309,305,0.895069420337677,0.08917197452229299,1,1,21,20,0.59,12,http://www.wikidata.org/prop/direct/P31,Ángel Custodio Loyola,instance of,Ay! Catira Marmoleña
+13,3,238,237,236,0,0.1638655462184874,1,1,1,17,0.52,1,http://www.wikidata.org/prop/direct/P452,7,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,1,21,0.52,1,http://www.wikidata.org/prop/direct/P452,7,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,21,21,0.46,1,http://www.wikidata.org/prop/direct/P452,Dm-drogerie markt,industry,Retail,1
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,67,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,86,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,17,0.52,1,http://www.wikidata.org/prop/direct/P452,94,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,13,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,67,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,71,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,78,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,86,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,94,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,2,21,0.52,1,http://www.wikidata.org/prop/direct/P452,94,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,139,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,139,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,224,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,3,17,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,139,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,157,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,224,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,224,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,259,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,3,21,0.52,1,http://www.wikidata.org/prop/direct/P452,391,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1995,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1995,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2017,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,1,http://www.wikidata.org/prop/direct/P452,2017,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.46,3,http://www.wikidata.org/prop/direct/P452,1993,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.52,1,http://www.wikidata.org/prop/direct/P452,1892,industry,Dm-drogerie markt,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,17,0.52,1,http://www.wikidata.org/prop/direct/P452,1892,industry,Dm-drogerie markt
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1973,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1976,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1995,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,1996,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2004,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2006,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2007,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2009,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2012,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,1,http://www.wikidata.org/prop/direct/P452,2017,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,3,http://www.wikidata.org/prop/direct/P452,1993,industry,Retail,
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.43,3,http://www.wikidata.org/prop/direct/P452,1993,industry,Retail
+13,3,238,237,236,0,0.1638655462184874,1,1,4,21,0.52,1,http://www.wikidata.org/prop/direct/P452,1892,industry,Retail
+1,3,38,37,31,0,0.15789473684210525,1,1,10,24,0.53,1,http://www.wikidata.org/prop/direct/P31,"""""Closed""""",instance of,Zwartowo railway station
+1,3,38,37,31,0,0.15789473684210525,1,2,10,26,0.58,1,http://www.wikidata.org/prop/direct/P31,"""""Closed""""",instance of,Train station
+1,3,38,37,31,0,0.15789473684210525,2,2,26,26,0.58,1,http://www.wikidata.org/prop/direct/P31,Zwartowo railway station,instance of,Train station,1
+1,3,50,49,43,0,0.14,2,2,26,26,0.58,1,http://www.wikidata.org/prop/direct/P31,Gdańsk Biskupia Górka railway station,instance of,Train station,1
+1,4,20,18,18,0,0.25,0,1,12,1,0.4,1,http://www.wikidata.org/prop/direct/P373,Wo (kana),Commons category,を,1
+1,4,20,18,18,0,0.25,0,1,12,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Wo (kana),Unicode character,ヲ,1
+1,4,20,18,18,0,0.25,0,1,12,1,0.49,1,http://www.wikidata.org/prop/direct/P487,Wo (kana),Unicode character,を,1
+1,4,20,18,18,0,0.25,1,1,1,9,0.4,1,http://www.wikidata.org/prop/direct/P373,を,Commons category,Wo (kana)
+1,4,20,18,18,0,0.25,1,1,1,9,0.4,1,http://www.wikidata.org/prop/direct/P487,を,Commons category,Wo (kana)
+1,4,20,18,18,0,0.25,1,1,1,9,0.45,1,http://www.wikidata.org/prop/direct/P487,ヲ,Unicode character,Wo (kana)
+1,4,20,18,18,0,0.25,1,1,1,9,0.49,1,http://www.wikidata.org/prop/direct/P487,を,Unicode character,Wo (kana)
+14,4,564,563,562,0,0.08156028368794327,1,1,10,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,qepHom Hut,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,11,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,13,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,05,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,07,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,15,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,16,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,17,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,19,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,20,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,25,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,26,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,10,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,14,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,14,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,5,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,15,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,the anniversary,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,16,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,29,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,1,9,0.47,14,http://www.wikidata.org/prop/direct/P1256,-,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,21,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,Do is immer ebbes los,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,28,9,0.47,1,http://www.wikidata.org/prop/direct/P1256,Guest lecture by Markus Groß,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,28,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,Guest lecture by Hubert Zitt,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,29,9,0.47,2,http://www.wikidata.org/prop/direct/P1256,8,Iconclass notation,History
+14,4,564,563,562,0,0.08156028368794327,1,1,9,3,0.47,1,http://www.wikidata.org/prop/direct/P1256,History,Iconclass notation,6,1
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,13,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Fstup"" Ynput",instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,13,13,0.39,1,http://www.wikidata.org/prop/direct/P31,Zprdeleklika,instance of,Album,1
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,13,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Fstup"" Ynput",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,15,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Výstub"" Outpud",instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,15,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Výstub"" Outpud",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,20,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Zpomal!"" Slow down!",instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,20,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Zpomal!"" Slow down!",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,22,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Hej lidi"" Hey, people",instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,22,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Hej lidi"" Hey, people",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,28,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Brána (bonus)"" Gate (bonus)",instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,28,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Brána (bonus)"" Gate (bonus)",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,37,12,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Všude dobře"" [It is] good everywhere",instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,37,13,0.53,1,http://www.wikidata.org/prop/direct/P31,"""Všude dobře"" [It is] good everywhere",instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,40,12,0.53,2,http://www.wikidata.org/prop/direct/P31,7,instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,40,13,0.53,2,http://www.wikidata.org/prop/direct/P31,7,instance of,Album
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,4,12,0.45,3,http://www.wikidata.org/prop/direct/P31,Deph,instance of,Zprdeleklika
+15,4,1186,1185,1184,0,0.05227655986509275,1,1,4,13,0.45,3,http://www.wikidata.org/prop/direct/P31,Deph,instance of,Album
+15,5,632,631,630,0,0.08544303797468354,1,1,2,11,0.52,1,http://www.wikidata.org/prop/direct/P106,大路,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,2,11,0.52,1,http://www.wikidata.org/prop/direct/P106,菊豆,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,2,11,0.52,4,http://www.wikidata.org/prop/direct/P106,NA,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,2,18,0.56,1,http://www.wikidata.org/prop/direct/P106,大路,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,2,18,0.56,1,http://www.wikidata.org/prop/direct/P106,菊豆,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,2,18,0.56,4,http://www.wikidata.org/prop/direct/P106,NA,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,26,11,0.52,3,http://www.wikidata.org/prop/direct/P106,As director of photography,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,26,18,0.56,3,http://www.wikidata.org/prop/direct/P106,As director of photography,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,3,11,0.52,1,http://www.wikidata.org/prop/direct/P106,孩子王,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,3,11,0.52,1,http://www.wikidata.org/prop/direct/P106,红高粱,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,3,18,0.56,1,http://www.wikidata.org/prop/direct/P106,孩子王,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,3,18,0.56,1,http://www.wikidata.org/prop/direct/P106,红高粱,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,4,11,0.52,1,http://www.wikidata.org/prop/direct/P106,边走边唱,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,4,11,0.52,1,http://www.wikidata.org/prop/direct/P106,霸王别姬,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,4,11,0.52,1,http://www.wikidata.org/prop/direct/P106,鬼子来了,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,4,18,0.56,1,http://www.wikidata.org/prop/direct/P106,边走边唱,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,4,18,0.56,1,http://www.wikidata.org/prop/direct/P106,霸王别姬,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,4,18,0.56,1,http://www.wikidata.org/prop/direct/P106,鬼子来了,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,5,11,0.52,1,http://www.wikidata.org/prop/direct/P106,代号美洲豹,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,5,18,0.56,1,http://www.wikidata.org/prop/direct/P106,代号美洲豹,occupation,Cinematographer
+15,5,632,631,630,0,0.08544303797468354,1,1,7,11,0.52,1,http://www.wikidata.org/prop/direct/P106,阳光灿烂的日子,occupation,Gu Changwei
+15,5,632,631,630,0,0.08544303797468354,1,1,7,18,0.56,1,http://www.wikidata.org/prop/direct/P106,阳光灿烂的日子,occupation,Cinematographer
+15,5,632,631,630,0.4724208116531372,0.08544303797468354,1,1,18,18,0.56,1,http://www.wikidata.org/prop/direct/P106,Gu Changwei,occupation,Cinematographer,1
+1,8,280,279,273,0,0.060714285714285714,1,1,3,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,348,participant of,Pu Jun Jin
+1,8,280,279,273,0,0.060714285714285714,1,1,3,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,5,participant of,Pu Jun Jin,
+1,8,280,279,273,0,0.060714285714285714,1,1,3,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,5,participant of,Pu Jun Jin
+1,8,280,279,273,0,0.060714285714285714,1,1,3,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,9,participant of,Pu Jun Jin
+1,8,280,279,273,0,0.060714285714285714,1,1,4,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,2,participant of,Pu Jun Jin
+1,8,280,279,273,0,0.060714285714285714,1,1,4,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,Motorsport,participant of,Eurasia,
+1,8,280,279,273,0,0.060714285714285714,1,2,3,20,0.6,1,http://www.wikidata.org/prop/direct/P1344,France,participant of,Nick de Bruijn,
+1,8,280,279,273,0,0.060714285714285714,1,2,3,20,0.6,1,http://www.wikidata.org/prop/direct/P1344,Motorsport,participant of,Nick de Bruijn,
+1,8,280,279,273,0,0.060714285714285714,1,2,3,20,0.6,1,http://www.wikidata.org/prop/direct/P1344,Nissan,participant of,5,
+1,8,280,279,273,0,0.060714285714285714,1,2,3,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,348,participant of,24 Hours of Le Mans
+1,8,280,279,273,0,0.060714285714285714,1,2,3,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,5,participant of,24 Hours of Le Mans
+1,8,280,279,273,0,0.060714285714285714,1,2,3,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,9,participant of,24 Hours of Le Mans
+1,8,280,279,273,0,0.060714285714285714,1,2,3,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,France,participant of,348,
+1,8,280,279,273,0,0.060714285714285714,1,2,4,20,0.6,1,http://www.wikidata.org/prop/direct/P1344,Motorsport,participant of,France,
+1,8,280,279,273,0,0.060714285714285714,1,2,4,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,2,participant of,24 Hours of Le Mans
+1,8,280,279,273,0,0.060714285714285714,1,3,3,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,9,participant of,Pu Jun Jin,
+1,8,280,279,273,0,0.060714285714285714,1,3,3,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,Motorsport,participant of,9,
+1,8,280,279,273,0,0.060714285714285714,1,3,3,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,Netherlands,participant of,5,
+1,8,280,279,273,0,0.060714285714285714,1,3,3,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,Philippines,participant of,Netherlands,
+1,8,280,279,273,0,0.060714285714285714,1,3,3,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,Tristan Gommendy,participant of,348,
+1,8,280,279,273,0,0.060714285714285714,1,3,3,32,0.47,1,http://www.wikidata.org/prop/direct/P1344,9,participant of,Oreca,
+1,8,280,279,273,0,0.060714285714285714,1,3,3,32,0.47,1,http://www.wikidata.org/prop/direct/P1344,Netherlands,participant of,Nick de Bruijn,
+1,8,280,279,273,0,0.060714285714285714,1,3,4,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,2,participant of,Tristan Gommendy,
+1,8,280,279,273,0,0.060714285714285714,1,3,4,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,348,participant of,Motorsport,
+1,8,280,279,273,0,0.060714285714285714,1,4,3,58,0.39,1,http://www.wikidata.org/prop/direct/P1344,Eurasia,participant of,France,
+1,8,280,279,273,0,0.060714285714285714,1,4,3,58,0.39,1,http://www.wikidata.org/prop/direct/P1552,Square root,has quality,Non-breaking space,
+1,8,280,279,273,0,0.060714285714285714,1,4,3,58,0.44,1,http://www.wikidata.org/prop/direct/P1344,France,participant of,Nissan,
+1,8,280,279,273,0,0.060714285714285714,1,4,3,58,0.44,1,http://www.wikidata.org/prop/direct/P1344,Philippines,participant of,9,
+1,8,280,279,273,0,0.060714285714285714,1,4,3,58,0.47,1,http://www.wikidata.org/prop/direct/P1344,Philippines,participant of,Pu Jun Jin,
+1,8,280,279,273,0,0.060714285714285714,1,4,3,58,0.47,1,http://www.wikidata.org/prop/direct/P1552,Alpha,has quality,E (mathematical constant),
+1,8,280,279,273,0,0.060714285714285714,1,4,4,58,0.42,1,http://www.wikidata.org/prop/direct/P1344,348,participant of,Oreca,
+1,8,280,279,273,0,0.060714285714285714,1,4,4,58,0.42,1,http://www.wikidata.org/prop/direct/P1344,Nick de Bruijn,participant of,2,
+1,8,280,279,273,0,0.060714285714285714,1,4,4,58,0.42,1,http://www.wikidata.org/prop/direct/P1552,Non-breaking space,has quality,Eccentricity (mathematics),
+1,8,280,279,273,0,0.060714285714285714,2,1,20,10,0.6,1,http://www.wikidata.org/prop/direct/P1552,Non-breaking space,has quality,Square root,
+1,8,280,279,273,0,0.060714285714285714,2,1,20,3,0.6,1,http://www.wikidata.org/prop/direct/P1344,Nissan,participant of,Eurasia,
+1,8,280,279,273,0,0.060714285714285714,2,1,20,3,0.6,1,http://www.wikidata.org/prop/direct/P1552,AAR wheel arrangement,has quality,Square root,
+1,8,280,279,273,0,0.060714285714285714,2,1,20,4,0.6,1,http://www.wikidata.org/prop/direct/P1344,5,participant of,24 Hours of Le Mans,
+1,8,280,279,273,0,0.060714285714285714,2,2,27,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,Pu Jun Jin,participant of,24 Hours of Le Mans,1
+1,8,280,279,273,0,0.060714285714285714,2,3,20,32,0.6,1,http://www.wikidata.org/prop/direct/P1344,Nissan,participant of,348,
+1,8,280,279,273,0,0.060714285714285714,3,1,32,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,Tristan Gommendy,participant of,Motorsport,
+1,8,280,279,273,0,0.060714285714285714,3,1,32,3,0.44,1,http://www.wikidata.org/prop/direct/P1344,Tristan Gommendy,participant of,Philippines,
+1,8,280,279,273,0,0.060714285714285714,3,1,32,3,0.47,1,http://www.wikidata.org/prop/direct/P1552,Square root,has quality,Right-wing politics,
+1,8,280,279,273,0,0.060714285714285714,3,1,32,4,0.44,1,http://www.wikidata.org/prop/direct/P1344,Eurasia,participant of,24 Hours of Le Mans,
+1,8,280,279,273,0,0.060714285714285714,3,1,32,4,0.44,1,http://www.wikidata.org/prop/direct/P1344,Tristan Gommendy,participant of,France,
+1,8,280,279,273,0,0.060714285714285714,3,2,32,20,0.6,1,http://www.wikidata.org/prop/direct/P1344,Nissan,participant of,Nick de Bruijn,
+1,8,280,279,273,0,0.060714285714285714,4,1,58,10,0.48,1,http://www.wikidata.org/prop/direct/P1344,Netherlands,participant of,Nissan,
+1,8,280,279,273,0,0.060714285714285714,4,1,58,3,0.39,1,http://www.wikidata.org/prop/direct/P1344,Motorsport,participant of,5,
+1,8,280,279,273,0,0.060714285714285714,4,1,58,3,0.47,1,http://www.wikidata.org/prop/direct/P1344,France,participant of,Pu Jun Jin,
+1,8,280,279,273,0,0.060714285714285714,4,1,58,3,0.47,1,http://www.wikidata.org/prop/direct/P1344,Netherlands,participant of,2,
+1,8,280,279,273,0,0.060714285714285714,4,1,58,4,0.42,1,http://www.wikidata.org/prop/direct/P1344,Motorsport,participant of,Netherlands,
+1,8,280,279,273,0,0.060714285714285714,4,3,58,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,Nick de Bruijn,participant of,Pu Jun Jin,
+1,8,280,279,273,0.022801697254180908,0.060714285714285714,3,2,32,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,Oreca,participant of,Eurasia,
+1,8,280,279,273,0.0929756760597229,0.060714285714285714,3,3,32,32,0.44,1,http://www.wikidata.org/prop/direct/P1552,Non-breaking space,has quality,Square root,
+1,8,280,279,273,0.0981760025024414,0.060714285714285714,3,3,32,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,Eurasia,participant of,348,
+1,8,280,279,273,0.13715022802352905,0.060714285714285714,4,3,58,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,Nick de Bruijn,participant of,9,
+1,8,280,279,273,0.1534191370010376,0.060714285714285714,3,4,32,58,0.44,1,http://www.wikidata.org/prop/direct/P1552,Non-breaking space,has quality,E (mathematical constant),
+1,8,280,279,273,0.18730980157852173,0.060714285714285714,2,3,20,32,0.6,1,http://www.wikidata.org/prop/direct/P1344,France,participant of,Tristan Gommendy,
+1,8,280,279,273,0.18730980157852173,0.060714285714285714,3,2,32,20,0.6,1,http://www.wikidata.org/prop/direct/P1344,Nick de Bruijn,participant of,Oreca,
+1,8,280,279,273,0.20662987232208252,0.060714285714285714,4,4,58,58,0.39,1,http://www.wikidata.org/prop/direct/P1344,Eurasia,participant of,5,
+1,8,280,279,273,0.24333196878433228,0.060714285714285714,3,3,32,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,348,participant of,24 Hours of Le Mans,
+1,8,280,279,273,0.28473711013793945,0.060714285714285714,4,3,58,32,0.44,1,http://www.wikidata.org/prop/direct/P1344,France,participant of,5,
+1,8,280,279,273,0.3166307806968689,0.060714285714285714,2,4,20,58,0.6,1,http://www.wikidata.org/prop/direct/P1344,France,participant of,Motorsport,
+1,8,280,279,273,0.3166307806968689,0.060714285714285714,4,2,58,20,0.6,1,http://www.wikidata.org/prop/direct/P1344,Eurasia,participant of,Oreca,
+1,8,280,279,273,0.32768869400024414,0.060714285714285714,4,4,58,58,0.39,1,http://www.wikidata.org/prop/direct/P1344,2,participant of,Eurasia,
+1,8,280,279,273,0.32768869400024414,0.060714285714285714,4,4,58,58,0.39,1,http://www.wikidata.org/prop/direct/P1344,Philippines,participant of,Tristan Gommendy,
+1,8,280,279,273,0.3440566062927246,0.060714285714285714,2,4,20,58,0.6,1,http://www.wikidata.org/prop/direct/P1344,Nissan,participant of,Tristan Gommendy,
+1,8,280,279,273,0.4353470206260681,0.060714285714285714,3,4,32,58,0.44,1,http://www.wikidata.org/prop/direct/P1344,Oreca,participant of,Nick de Bruijn,
+1,8,280,279,273,0.4367856979370117,0.060714285714285714,2,3,20,32,0.6,1,http://www.wikidata.org/prop/direct/P1344,Motorsport,participant of,Nissan,
+1,8,280,279,273,0.521348237991333,0.060714285714285714,4,2,58,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,France,participant of,Philippines,
+1,8,280,279,273,0.6341129541397095,0.060714285714285714,4,2,58,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,Eurasia,participant of,Nissan,
+1,8,280,279,273,0.6350306272506714,0.060714285714285714,2,2,20,20,0.6,1,http://www.wikidata.org/prop/direct/P1344,2,participant of,24 Hours of Le Mans,
+1,8,280,279,273,0.6350306272506714,0.060714285714285714,2,2,20,20,0.6,1,http://www.wikidata.org/prop/direct/P1344,Nick de Bruijn,participant of,Nissan,
+1,8,280,279,273,0.6609266996383667,0.060714285714285714,3,2,32,27,0.5,1,http://www.wikidata.org/prop/direct/P1344,Netherlands,participant of,9,
+1,8,280,279,273,0.6949151754379272,0.060714285714285714,2,2,20,27,0.6,1,http://www.wikidata.org/prop/direct/P1344,348,participant of,Nick de Bruijn,
+1,8,280,279,273,0.707050621509552,0.060714285714285714,4,2,58,20,0.6,1,http://www.wikidata.org/prop/direct/P1344,Tristan Gommendy,participant of,5,
+1,8,280,279,273,0.7165449857711792,0.060714285714285714,4,4,58,58,0.39,1,http://www.wikidata.org/prop/direct/P1344,Oreca,participant of,9,
+1,8,280,279,273,0.7165449857711792,0.060714285714285714,4,4,58,58,0.39,1,http://www.wikidata.org/prop/direct/P1344,Tristan Gommendy,participant of,Pu Jun Jin,
+1,8,280,279,273,0.7251309156417847,0.060714285714285714,2,2,20,27,0.6,1,http://www.wikidata.org/prop/direct/P1344,Eurasia,participant of,Philippines,
+19,3,470,469,463,0,0.1148936170212766,2,2,20,20,0.5,1,http://www.wikidata.org/prop/direct/P106,Xabier Elorriaga,occupation,Actor,1
+20,2,376,373,369,0,0.1356382978723404,1,2,11,26,0.44,1,http://www.wikidata.org/prop/direct/P361,4,part of,Infrastructure,
+20,2,376,373,369,0,0.1356382978723404,1,2,1,26,0.43,1,http://www.wikidata.org/prop/direct/P361,-,part of,Economy,
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.43,1,http://www.wikidata.org/prop/direct/P361,32,part of,Economy,
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.43,1,http://www.wikidata.org/prop/direct/P361,33,part of,Economy,
+20,2,376,373,369,0,0.1356382978723404,1,2,2,26,0.44,1,http://www.wikidata.org/prop/direct/P361,46,part of,Infrastructure,
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,142,part of,Economy,
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,396,part of,Economy,
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.43,1,http://www.wikidata.org/prop/direct/P361,471,part of,Economy,2,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,25,16,0.55,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,142,part of,Infrastructure,
+20,2,376,373,369,0,0.1356382978723404,1,2,3,26,0.44,1,http://www.wikidata.org/prop/direct/P361,144,part of,Infrastructure,
+20,2,376,373,369,0.5943657159805298,0.1356382978723404,2,2,26,26,0.44,3,http://www.wikidata.org/prop/direct/P361,Infrastructure,part of,Economy,1
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,40,genre,Video,
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,35,genre,Nintendo Video,
+2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,40,genre,Nintendo Video,
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,200,genre,Video,
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,205,genre,Video,
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,200,genre,Nintendo Video,
+2,3,86,83,79,0,0.10465116279069768,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,205,genre,Nintendo Video,
+2,3,86,83,79,0,0.1046511628,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,35,genre,Video,
+2,3,86,83,79,0,0.1046511628,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,40,genre,Video,
+2,3,86,83,79,0,0.1046511628,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,35,genre,Nintendo Video,
+2,3,86,83,79,0,0.1046511628,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,40,genre,Nintendo Video,
+2,3,86,83,79,0,0.1046511628,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,200,genre,Video,
+2,3,86,83,79,0,0.1046511628,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,205,genre,Video,
+2,3,86,83,79,0,0.1046511628,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,200,genre,Nintendo Video,
+2,3,86,83,79,0,0.1046511628,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,205,genre,Nintendo Video,
+2,3,86,83,79,0.6835566759,0.1046511628,2,2,13,13,0.51,3,http://www.wikidata.org/prop/direct/P136,Nintendo Video,genre,Video,1
+2,3,86,83,79,0.6835566759109497,0.10465116279069768,2,2,13,13,0.51,3,http://www.wikidata.org/prop/direct/P136,Nintendo Video,genre,Video,1
+2,3,86,83,79,0.6835566759109497,0.10465116279069768,2,2,13,13,0.51,3,http://www.wikidata.org/prop/direct/P136,Nintendo Video,genre,Video,18,10,3374,3356,3269,0.4272425174713135,0.016301126259632485,1,3,15,33,0.51,2,http://www.wikidata.org/prop/direct/P527,Hypertext Transfer Protocol,has part,Map (higher-order function),
+2,3,86,84,78,0,0.11627906976744186,1,1,2,10,0.5,1,http://www.wikidata.org/prop/direct/P361,ॻु,part of,Ga (Indic),
+2,3,86,84,78,0,0.11627906976744186,1,1,2,10,0.5,1,http://www.wikidata.org/prop/direct/P361,ॻु,part of,Ga (Indic),10,2,174,168,166,0,0.09770114942528736,1,1,4,4,0.0,0,http://www.wikidata.org/prop/direct/P279,Yodh,subclass of,-əna,
+2,3,86,84,78,0,0.11627906976744186,1,1,2,10,0.5,1,http://www.wikidata.org/prop/direct/P361,ॻू,part of,Ga (Indic),
+2,3,86,84,78,0,0.11627906976744186,1,2,2,16,0.47,1,http://www.wikidata.org/prop/direct/P361,ॻु,part of,Devanagari,
+2,3,86,84,78,0,0.11627906976744186,1,2,2,16,0.47,1,http://www.wikidata.org/prop/direct/P361,ॻू,part of,Devanagari,
+2,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,16,16,0.5,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
+2,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,25,16,0.55,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
+3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,15,subclass of,Educational entrance examination
+3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,15,subclass of,Test (assessment)
+3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,20,subclass of,Educational entrance examination
+3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,20,subclass of,Test (assessment)
+3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,65,subclass of,Educational entrance examination
+3,3,136,133,129,0,0.08823529411764706,1,2,3,13,0.57,1,http://www.wikidata.org/prop/direct/P279,65,subclass of,Test (assessment)
+3,3,136,133,129,0.5666264295578003,0.08823529411764706,2,2,13,13,0.52,3,http://www.wikidata.org/prop/direct/P279,Educational entrance examination,subclass of,Test (assessment),1
+3,4,100,97,96,0,0.1,1,1,11,1,0.3,1,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,ǳ,
+3,4,100,97,96,0,0.1,1,1,11,1,0.3,1,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,ǲ,
+3,4,100,97,96,0,0.1,1,1,11,1,0.3,1,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,Ǳ,
+3,4,100,97,96,0,0.1,1,1,1,11,0.3,1,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Ampere,
+3,4,100,97,96,0,0.1,1,1,1,11,0.3,1,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Ampere,
+3,4,100,97,96,0,0.1,1,1,1,11,0.3,1,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Ampere,
+3,4,100,97,96,0,0.1,1,1,11,12,0.51,3,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,Dz (digraph),
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Dz (digraph),
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Dz (digraph),
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Dz (digraph),
+3,4,100,97,96,0,0.1,1,1,1,12,0.51,1,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Dz (digraph)
+3,4,100,97,96,0,0.1,1,1,11,21,0.45,2,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,Dž,
+3,4,100,97,96,0,0.1,1,1,11,23,0.45,2,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,Dž,
+3,4,100,97,96,0,0.1,1,1,1,21,0.45,0,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Dž,
+3,4,100,97,96,0,0.1,1,1,1,21,0.45,1,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Dž,
+3,4,100,97,96,0,0.1,1,1,1,21,0.45,1,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Dž,
+3,4,100,97,96,0,0.1,1,1,1,23,0.45,0,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Dž,
+3,4,100,97,96,0,0.1,1,1,1,23,0.45,1,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Dž,
+3,4,100,97,96,0,0.1,1,1,1,23,0.45,1,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Dž,
+3,4,100,97,96,0,0.1,1,1,21,1,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,ǲ,
+3,4,100,97,96,0,0.1,1,1,21,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,ǳ,
+3,4,100,97,96,0,0.1,1,1,21,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Ǳ,
+3,4,100,97,96,0,0.1,1,1,21,11,0.45,2,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Ampere,
+3,4,100,97,96,0,0.1,1,1,23,1,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,ǲ,
+3,4,100,97,96,0,0.1,1,1,23,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Ǳ,
+3,4,100,97,96,0,0.1,1,1,23,11,0.45,2,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Ampere,
+3,4,100,97,96,0,0.1,1,1,9,1,0.51,1,http://www.wikidata.org/prop/direct/P487,Dz (digraph),Unicode character,ǳ,1
+3,4,100,97,96,0,0.1,1,1,9,1,0.51,1,http://www.wikidata.org/prop/direct/P487,Dz (digraph),Unicode character,ǲ,1
+3,4,100,97,96,0,0.1,1,1,9,1,0.51,1,http://www.wikidata.org/prop/direct/P487,Dz (digraph),Unicode character,Ǳ,1
+3,4,100,97,96,0,0.1,1,2,11,42,0.45,1,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,D,
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,0,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,D,
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,D,
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,0,http://www.wikidata.org/prop/direct/P487,ǳ,Unicode character,Letter case,
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Ǳ,Unicode character,Letter case,
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,1,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,D,
+3,4,100,97,96,0,0.1,1,2,1,42,0.45,1,http://www.wikidata.org/prop/direct/P487,ǲ,Unicode character,Letter case,
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,0,http://www.wikidata.org/prop/direct/P487,D,Unicode character,ǳ,
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,0,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Ǳ,
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,0,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,ǳ,
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,0,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,Ǳ,
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,1,http://www.wikidata.org/prop/direct/P487,D,Unicode character,ǲ,
+3,4,100,97,96,0,0.1,2,1,42,1,0.45,1,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,ǲ,
+3,4,100,97,96,0,0.1,2,1,42,11,0.45,1,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Ampere,
+3,4,100,97,96,0.439863205,0.1,1,2,11,42,0.45,1,http://www.wikidata.org/prop/direct/P487,Ampere,Unicode character,Letter case,
+3,4,100,97,96,0.439863205,0.1,2,1,42,11,0.45,1,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,Ampere,
+3,4,100,97,96,0.4889811277,0.1,2,1,42,12,0.51,1,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,Dz (digraph),
+3,4,100,97,96,0.5367867947,0.1,1,2,21,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Letter case,
+3,4,100,97,96,0.5367867947,0.1,1,2,23,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Letter case,
+3,4,100,97,96,0.5367867947,0.1,2,1,42,21,0.45,0,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,Dž,
+3,4,100,97,96,0.5367867947,0.1,2,1,42,23,0.45,0,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,Dž,
+3,4,100,97,96,0.6946901679,0.1,2,1,42,12,0.51,1,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Dz (digraph),
+3,4,100,97,96,0.7026825547,0.1,1,2,21,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,D,
+3,4,100,97,96,0.7026825547,0.1,1,2,23,42,0.45,0,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,D,
+3,4,100,97,96,0.7026825547,0.1,2,1,42,21,0.45,0,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Dž,
+3,4,100,97,96,0.7026825547,0.1,2,1,42,23,0.45,0,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Dž,
+3,4,100,97,96,0.7133215666,0.1,2,2,42,42,0.45,1,http://www.wikidata.org/prop/direct/P487,D,Unicode character,Letter case,
+3,4,100,97,96,0.7133215666,0.1,2,2,42,42,0.45,1,http://www.wikidata.org/prop/direct/P487,Letter case,Unicode character,D,
+3,4,100,97,96,0.9239128828,0.1,1,1,21,12,0.51,2,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Dz (digraph),
+3,4,100,97,96,0.9239128828,0.1,1,1,23,12,0.51,2,http://www.wikidata.org/prop/direct/P487,Dž,Unicode character,Dz (digraph),
+3,4,122,121,115,0,0.11475409836065574,1,1,24,4,0.45,0,http://www.wikidata.org/prop/direct/P106,Birthday Boy (short story),occupation,Erik,
+3,4,122,121,115,0,0.11475409836065574,1,1,6,24,0.45,0,http://www.wikidata.org/prop/direct/P106,Sayaka,occupation,Birthday Boy (short story),
+3,4,122,121,115,0,0.11475409836065574,1,1,6,29,0.45,1,http://www.wikidata.org/prop/direct/P106,Sayaka,occupation,When Marnie Was There,2,3,86,83,79,0,0.10465116279069768,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,35,genre,Video,
+3,4,122,121,115,0,0.11475409836065574,1,2,11,17,0.43,1,http://www.wikidata.org/prop/direct/P106,Dub music,occupation,Actor,
+3,4,122,121,115,0,0.11475409836065574,2,2,17,17,0.43,1,http://www.wikidata.org/prop/direct/P106,Ava Acres,occupation,Actor,1
+3,4,122,121,115,0.5622303485870361,0.11475409836065574,1,1,22,29,0.0,0,http://www.wikidata.org/prop/direct/P106,Happy Feet Two,occupation,When Marnie Was There,
+3,4,88,87,86,0,0.125,1,1,10,10,0.6,1,http://www.wikidata.org/prop/direct/P106,Zoa Morani,occupation,Actor,1
+3,4,88,87,86,0,0.125,1,1,11,10,0.43,1,http://www.wikidata.org/prop/direct/P106,"""""Mastaan""""",occupation,Actor
+3,4,88,87,86,0,0.125,1,1,11,10,0.6,1,http://www.wikidata.org/prop/direct/P106,"""""Mastaan""""",occupation,Zoa Morani
+3,4,88,87,86,0,0.125,1,1,14,10,0.45,1,http://www.wikidata.org/prop/direct/P106,Nandini Oberoi,occupation,Actor
+3,4,88,87,86,0,0.125,1,1,14,10,0.6,1,http://www.wikidata.org/prop/direct/P106,Nandini Oberoi,occupation,Zoa Morani
+3,4,88,87,86,0,0.125,1,1,5,10,0.45,1,http://www.wikidata.org/prop/direct/P106,Tanya,occupation,Actor
+3,4,88,87,86,0,0.125,1,1,5,10,0.6,1,http://www.wikidata.org/prop/direct/P106,Tanya,occupation,Zoa Morani
+3,6,212,209,205,0,0.05660377358490566,1,2,1,25,0.51,1,http://www.wikidata.org/prop/direct/P31,-,instance of,Jubba Airways
+3,6,212,209,205,0,0.05660377358490566,1,2,1,25,0.57,1,http://www.wikidata.org/prop/direct/P31,-,instance of,Airline
+3,6,212,209,205,0,0.05660377358490566,1,2,3,25,0.51,3,http://www.wikidata.org/prop/direct/P31,UBA,instance of,Jubba Airways
+3,6,212,209,205,0,0.05660377358490566,1,2,3,25,0.57,3,http://www.wikidata.org/prop/direct/P31,UBA,instance of,Airline
+3,6,212,209,205,0,0.05660377358490566,1,2,6,25,0.51,2,http://www.wikidata.org/prop/direct/P31,Ceased,instance of,Jubba Airways
+3,6,212,209,205,0,0.05660377358490566,1,2,6,25,0.57,2,http://www.wikidata.org/prop/direct/P31,Ceased,instance of,Airline
+3,6,212,209,205,0,0.05660377358490566,1,2,8,25,0.45,3,http://www.wikidata.org/prop/direct/P31,Domestic,instance of,Jubba Airways
+3,6,212,209,205,0,0.05660377358490566,1,2,8,25,0.57,3,http://www.wikidata.org/prop/direct/P31,Domestic,instance of,Airline
+3,6,212,209,205,0.4345032572746277,0.05660377358490566,2,2,25,25,0.57,3,http://www.wikidata.org/prop/direct/P31,Jubba Airways,instance of,Airline,1
+3,7,268,267,266,0,0.08208955223880597,1,1,16,4,0.49,1,http://www.wikidata.org/prop/direct/P54,Friendly match,member of sports team,Draw,
+3,7,268,267,266,0,0.08208955223880597,1,1,17,16,0.49,1,http://www.wikidata.org/prop/direct/P54,24,member of sports team,Friendly match,
+3,7,268,267,266,0,0.08208955223880597,1,1,3,24,0.49,1,http://www.wikidata.org/prop/direct/P54,Win,member of sports team,2012 AFC Challenge Cup,
+3,7,268,267,266,0,0.08208955223880597,1,1,4,16,0.49,1,http://www.wikidata.org/prop/direct/P54,Draw,member of sports team,Friendly match,
+3,7,268,267,266,0,0.08208955223880597,1,2,17,21,0.5,0,http://www.wikidata.org/prop/direct/P54,10,member of sports team,Kathmandu,
+3,7,268,267,266,0,0.08208955223880597,1,2,17,31,0.5,1,http://www.wikidata.org/prop/direct/P54,24,member of sports team,Egypt,
+3,7,268,267,266,0,0.08208955223880597,2,1,16,14,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,13,
+3,7,268,267,266,0,0.08208955223880597,2,1,16,16,0.5,1,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,Friendly match,
+3,7,268,267,266,0,0.08208955223880597,2,1,16,3,0.5,0,http://www.wikidata.org/prop/direct/P54,Aden,member of sports team,IND,
+3,7,268,267,266,0,0.08208955223880597,2,1,31,16,0.5,1,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Friendly match,
+3,7,268,267,266,0,0.08208955223880597,2,1,31,4,0.5,1,http://www.wikidata.org/prop/direct/P54,6th of October City,member of sports team,Loss,
+3,7,268,267,266,0.4626811742782593,0.08208955223880597,1,2,5,21,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Kathmandu,
+3,7,268,267,266,0.6360847353935242,0.08208955223880597,2,2,16,31,0.5,0,http://www.wikidata.org/prop/direct/P54,Yemen,member of sports team,Egypt,
+4,3,136,133,129,0,0.1102941176,1,2,2,13,0.47,1,http://www.wikidata.org/prop/direct/P136,5,genre,Video,
+4,3,136,133,129,0,0.1102941176,1,2,2,13,0.51,1,http://www.wikidata.org/prop/direct/P136,5,genre,Nintendo Video,
+4,3,136,133,129,0,0.1102941176,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,20,genre,Video,9,3,268,262,258,0,0.09328358208955224,1,1,10,5,0.51,0,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Glossary of musical terminology,
+4,3,136,133,129,0,0.1102941176,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,70,genre,Video,
+4,3,136,133,129,0,0.1102941176,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,95,genre,Video,
+4,3,136,133,129,0,0.1102941176,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,20,genre,Nintendo Video,
+4,3,136,133,129,0,0.1102941176,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,70,genre,Nintendo Video,
+4,3,136,133,129,0,0.1102941176,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,95,genre,Nintendo Video,
+4,3,136,133,129,0,0.1102941176,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,140,genre,Video,
+4,3,136,133,129,0,0.1102941176,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,245,genre,Video,
+4,3,136,133,129,0,0.1102941176,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,325,genre,Video,
+4,3,136,133,129,0,0.1102941176,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,435,genre,Video,
+4,3,136,133,129,0,0.1102941176,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,140,genre,Nintendo Video,
+4,3,136,133,129,0,0.1102941176,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,245,genre,Nintendo Video,
+4,3,136,133,129,0,0.1102941176,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,325,genre,Nintendo Video,
+4,3,136,133,129,0,0.1102941176,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,435,genre,Nintendo Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,2,13,0.47,1,http://www.wikidata.org/prop/direct/P136,5,genre,Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,70,genre,Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,3,13,0.47,1,http://www.wikidata.org/prop/direct/P136,95,genre,Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,20,genre,Nintendo Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,70,genre,Nintendo Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,3,13,0.51,1,http://www.wikidata.org/prop/direct/P136,95,genre,Nintendo Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,140,genre,Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,245,genre,Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,325,genre,Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.47,1,http://www.wikidata.org/prop/direct/P136,435,genre,Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,140,genre,Nintendo Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,325,genre,Nintendo Video,
+4,3,136,133,129,0,0.11029411764705882,1,2,4,13,0.51,1,http://www.wikidata.org/prop/direct/P136,435,genre,Nintendo Video,
+4,3,136,133,129,0.6835566759,0.1102941176,2,2,13,13,0.51,3,http://www.wikidata.org/prop/direct/P136,Nintendo Video,genre,Video,1
+4,3,136,133,129,0.6835566759109497,0.11029411764705882,2,2,13,13,0.51,3,http://www.wikidata.org/prop/direct/P136,Nintendo Video,genre,Video,1
+4,4,344,340,339,0,0.03197674418604651,1,2,8,40,0.51,3,,,,,
+4,4,344,340,339,0,0.03197674418604651,1,3,8,31,0.27,8,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,1,13,26,0.51,1,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,1,18,26,0.35,1,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,1,18,8,0.51,15,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,1,29,8,0.41,15,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,1,40,26,0.35,27,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,1,40,8,0.41,1,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,1,40,8,0.51,3,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,2,18,40,0.27,1,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,2,18,40,0.51,0,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,2,18,40,0.51,3,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,2,29,40,0.27,3,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,2,31,18,0.27,0,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,2,40,13,0.51,1,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,2,40,18,0.27,3,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,2,40,40,0.25,3,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,3,18,31,0.27,0,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,3,18,31,0.27,8,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,3,18,44,0.27,8,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,3,31,44,0.25,8,http://www.wikidata.org/prop/direct/P1552,Non-breaking space,has quality,AAR wheel arrangement,
+4,4,344,340,339,0,0.03197674418604651,2,3,40,29,0.27,0,,,,,
+4,4,344,340,339,0,0.03197674418604651,2,3,40,44,0.25,3,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,1,29,26,0.35,27,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,1,31,8,0.41,15,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,1,31,8,0.41,2,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,1,44,8,0.41,2,http://www.wikidata.org/prop/direct/P1552,Ellipse,has quality,Eccentricity (mathematics),1
+4,4,344,340,339,0,0.03197674418604651,3,2,29,18,0.27,0,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,2,29,40,0.27,0,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,2,29,40,0.27,3,http://www.wikidata.org/prop/direct/P1552,AAR wheel arrangement,has quality,Square root,
+4,4,344,340,339,0,0.03197674418604651,3,2,31,13,0.51,8,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,2,31,18,0.51,5,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,2,31,29,0.27,5,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,2,31,31,0.25,0,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,2,31,40,0.25,8,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,2,44,13,0.51,8,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,2,44,18,0.51,8,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,2,44,29,0.27,5,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,2,44,29,0.27,8,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,2,44,31,0.25,8,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,3,29,44,0.27,1,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,3,29,44,0.27,5,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,3,31,29,0.27,5,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,3,31,31,0.25,8,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,3,31,44,0.25,5,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,3,31,44,0.25,5,http://www.wikidata.org/prop/direct/P1552,E (mathematical constant),has quality,Right-wing politics,
+4,4,344,340,339,0,0.03197674418604651,3,3,31,44,0.25,8,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,3,31,44,0.25,8,http://www.wikidata.org/prop/direct/P1552,Non-breaking space,has quality,Eccentricity (mathematics),
+4,4,344,340,339,0,0.03197674418604651,3,3,44,29,0.27,1,,,,,
+4,4,344,340,339,0,0.03197674418604651,3,3,44,29,0.27,8,http://www.wikidata.org/prop/direct/P1552,Shin (letter),has quality,Ellipse,
+4,4,344,340,339,0,0.03197674418604651,3,3,44,31,0.25,5,http://www.wikidata.org/prop/direct/P1552,Ellipse,has quality,Eccentricity (mathematics),1
+4,4,344,340,339,0,0.03197674418604651,3,3,44,44,0.25,8,,,,,
+4,4,344,340,339,0.5235056281089783,0.03197674418604651,1,3,8,29,0.27,4,,,,,
+4,4,344,340,339,0.5235056281089783,0.03197674418604651,1,3,8,29,0.51,4,http://www.wikidata.org/prop/direct/P1552,Square root,has quality,Non-breaking space,
+4,4,344,340,339,0.5235056281089783,0.03197674418604651,2,3,13,29,0.51,4,,,,,
+4,4,344,340,339,0.5235056281089783,0.03197674418604651,2,3,31,29,0.27,4,,,,,
+4,4,344,340,339,0.5235056281089783,0.03197674418604651,3,3,29,31,0.27,4,,,,,
+4,4,344,340,339,0.5266975164413452,0.03197674418604651,2,2,29,18,0.27,0,,,,,
+4,4,344,340,339,0.5470325946807861,0.03197674418604651,3,1,29,8,0.41,1,,,,,
+4,4,344,340,339,0.5531357526779175,0.03197674418604651,1,2,8,31,0.27,4,,,,,
+4,4,344,340,339,0.5531357526779175,0.03197674418604651,2,1,31,8,0.51,4,,,,,
+4,4,344,340,339,0.5531357526779175,0.03197674418604651,2,2,31,18,0.27,4,,,,,
+4,4,344,340,339,0.5531357526779175,0.03197674418604651,2,3,31,44,0.25,4,,,,,
+4,4,344,340,339,0.5531357526779175,0.03197674418604651,3,2,29,31,0.27,4,,,,,
+4,4,344,340,339,0.5531357526779175,0.03197674418604651,3,2,31,31,0.25,4,,,,,
+4,4,344,340,339,0.5531357526779175,0.03197674418604651,3,2,44,31,0.25,4,,,,,
+4,4,344,340,339,0.5654644966125488,0.03197674418604651,2,1,31,26,0.35,2,,,,,
+4,4,344,340,339,0.5776399374008179,0.03197674418604651,2,1,29,26,0.35,10,,,,,
+4,4,344,340,339,0.5853045582771301,0.03197674418604651,2,2,13,31,0.51,0,,,,,
+4,4,344,340,339,0.6538472771644592,0.03197674418604651,1,2,8,18,0.51,3,,,,,
+4,4,344,340,339,0.6538472771644592,0.03197674418604651,1,2,9,18,0.51,3,http://www.wikidata.org/prop/direct/P1552,AAR wheel arrangement,has quality,Non-breaking space,
+4,4,344,340,339,0.6538472771644592,0.03197674418604651,2,2,18,18,0.27,3,,,,,
+4,4,344,340,339,0.6538472771644592,0.03197674418604651,2,2,31,18,0.27,3,,,,,
+4,4,344,340,339,0.6538472771644592,0.03197674418604651,3,2,44,18,0.27,3,,,,,
+4,4,344,340,339,0.6770002841949463,0.03197674418604651,2,2,29,13,0.51,0,,,,,
+4,4,344,340,339,0.6770002841949463,0.03197674418604651,2,3,13,29,0.51,0,,,,,
+4,4,344,340,339,0.6770002841949463,0.03197674418604651,3,2,44,13,0.51,0,,,,,
+4,4,344,340,339,0.7132248282432556,0.03197674418604651,2,2,29,31,0.27,0,,,,,
+4,4,344,340,339,0.7132248282432556,0.03197674418604651,3,2,31,31,0.25,0,http://www.wikidata.org/prop/direct/P1552,E (mathematical constant),has quality,Non-breaking space,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,1,2,8,29,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,1,2,9,18,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,1,3,8,29,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,1,3,9,29,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,2,13,29,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,2,18,29,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,2,18,29,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,2,29,18,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,2,29,29,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,2,31,29,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,2,40,29,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,3,13,31,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,3,13,44,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,3,18,29,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,3,18,31,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,3,18,44,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,3,29,29,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,3,29,44,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,3,31,29,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,2,3,40,31,0.25,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,1,29,9,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,1,31,8,0.27,20,http://www.wikidata.org/prop/direct/P1552,Non-breaking space,has quality,Eccentricity (mathematics),
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,2,29,29,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,2,29,31,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,2,29,40,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,2,31,18,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,2,31,18,0.51,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,2,44,13,0.51,20,http://www.wikidata.org/prop/direct/P1552,AAR wheel arrangement,has quality,Right-wing politics,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,2,44,29,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,2,44,29,0.27,20,http://www.wikidata.org/prop/direct/P1552,Right-wing politics,has quality,Square root,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,3,29,29,0.27,20,http://www.wikidata.org/prop/direct/P1552,Square root,has quality,Non-breaking space,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,3,29,44,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,3,31,29,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,3,31,44,0.25,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,3,44,29,0.27,20,,,,,
+4,4,344,340,339,0.7278804183006287,0.03197674418604651,3,3,44,44,0.25,20,,,,,
+4,4,344,340,339,0.7382941842079163,0.03197674418604651,1,1,8,8,0.41,4,,,,,
+4,4,344,340,339,0.7427686452865601,0.03197674418604651,2,3,29,29,0.27,2,,,,,
+4,4,344,340,339,0.7427686452865601,0.03197674418604651,3,3,29,29,0.27,2,,,,,
+4,4,344,340,339,0.7427686452865601,0.03197674418604651,3,3,31,29,0.27,2,,,,,
+4,4,344,340,339,0.7547705769538879,0.03197674418604651,2,1,13,8,0.51,3,,,,,
+4,4,344,340,339,0.7547705769538879,0.03197674418604651,2,2,13,29,0.51,3,,,,,
+4,4,344,340,339,0.7547705769538879,0.03197674418604651,2,3,13,29,0.51,3,,,,,
+4,4,344,340,339,0.7547705769538879,0.03197674418604651,3,2,29,13,0.51,3,,,,,
+4,4,344,340,339,0.7547705769538879,0.03197674418604651,3,2,31,13,0.51,3,,,,,
+4,4,456,447,422,0,0.03508771929824561,1,4,1,26,0.45,1,http://www.wikidata.org/prop/direct/P17,5,country,Japan
+4,4,456,447,422,0,0.03508771929824561,1,4,2,26,0.45,1,http://www.wikidata.org/prop/direct/P17,12,country,Japan
+4,4,456,447,422,0,0.03508771929824561,1,4,2,26,0.45,1,http://www.wikidata.org/prop/direct/P17,30,country,Japan
+4,4,456,447,422,0,0.03508771929824561,1,4,3,26,0.45,1,http://www.wikidata.org/prop/direct/P17,286,country,Japan
+4,4,456,447,422,0,0.03508771929824561,1,4,5,26,0.45,1,http://www.wikidata.org/prop/direct/P17,18689,country,Japan
+4,4,456,447,422,0,0.03508771929824561,1,4,5,26,0.45,1,http://www.wikidata.org/prop/direct/P17,25702,country,Japan
+4,4,456,447,422,0.3645172715187073,0.03508771929824561,4,4,26,26,0.53,7,http://www.wikidata.org/prop/direct/P17,Oricon,country,Japan,1
+4,4,456,447,422,1.0,0.03508771929824561,4,4,26,26,0.45,2,http://www.wikidata.org/prop/direct/P17,Japan,country,Japan,1
+5,2,576,573,567,0,0.06076388888888889,1,1,11,25,0.53,1,http://www.wikidata.org/prop/direct/P31,Polling day,instance of,By-elections in Singapore
+5,2,576,573,567,0,0.06076388888888889,1,1,14,25,0.53,1,http://www.wikidata.org/prop/direct/P31,Nomination day,instance of,By-elections in Singapore
+5,2,576,573,567,0,0.06076388888888889,1,2,11,21,0.53,1,http://www.wikidata.org/prop/direct/P31,Polling day,instance of,By-election
+5,2,576,573,567,0,0.06076388888888889,1,2,14,21,0.53,1,http://www.wikidata.org/prop/direct/P31,Nomination day,instance of,By-election
+5,2,576,573,567,0.31569045782089233,0.06076388888888889,2,12,21,298,0.53,3,http://www.wikidata.org/prop/direct/P31,By-elections in Singapore,instance of,By-election,1
+5,2,576,573,567,0.31569045782089233,0.06076388888888889,2,2,21,21,0.5,3,http://www.wikidata.org/prop/direct/P31,By-elections in Singapore,instance of,By-election,1
+5,2,576,573,567,0.31569045782089233,0.06076388888888889,2,9,21,573,0.53,3,http://www.wikidata.org/prop/direct/P31,By-elections in Singapore,instance of,By-election,1
+5,2,94,88,86,0.9531748294830322,0.1276595744680851,2,2,35,35,0.49,3,http://www.wikidata.org/prop/direct/P155,Neo Destour,follows,Destour,1
+5,2,94,88,86,0.9531748294830322,0.1276595744680851,2,2,35,35,0.57,3,http://www.wikidata.org/prop/direct/P156,Destour,followed by,Neo Destour,1
+5,3,94,92,92,0,0.13829787234042554,1,1,1,12,0.75,1,http://www.wikidata.org/prop/direct/P17,9,country,Vatican City
+5,3,94,92,92,0,0.13829787234042554,1,1,1,12,0.75,3,http://www.wikidata.org/prop/direct/P17,7,country,Vatican City
+5,3,94,92,92,0,0.13829787234042554,1,1,2,12,0.75,1,http://www.wikidata.org/prop/direct/P17,10,country,Vatican City
+5,3,94,92,92,0,0.13829787234042554,1,1,2,12,0.75,1,http://www.wikidata.org/prop/direct/P17,38,country,Vatican City
+5,3,94,92,92,0,0.13829787234042554,1,1,3,12,0.32,1,http://www.wikidata.org/prop/direct/P17,2,country,Vatican City
+5,3,94,92,92,0,0.13829787234042554,1,1,3,12,0.32,3,http://www.wikidata.org/prop/direct/P17,1,country,Vatican City
+5,3,94,92,92,0,0.13829787234042554,1,1,3,12,0.32,3,http://www.wikidata.org/prop/direct/P17,7,country,Vatican City
+5,3,94,92,92,1.0,0.13829787234042554,1,1,12,12,0.32,2,http://www.wikidata.org/prop/direct/P17,Vatican City,country,Vatican City,1
+5,4,144,142,141,0,0.1111111111111111,1,1,12,13,0.53,1,http://www.wikidata.org/prop/direct/P31,Troll,instance of,Ur Nattvindar,
+5,4,144,142,141,0,0.1111111111111111,1,1,12,15,0.53,1,http://www.wikidata.org/prop/direct/P31,Troll,instance of,Album,
+5,4,144,142,141,0,0.1111111111111111,1,1,12,17,0.57,1,http://www.wikidata.org/prop/direct/P31,Troll,instance of,Troll (Norwegian band),
+5,4,144,142,141,0,0.1111111111111111,1,1,16,12,0.53,0,http://www.wikidata.org/prop/direct/P31,The Ravaged Land,instance of,Troll,
+5,4,144,142,141,0,0.1111111111111111,1,1,16,13,0.53,1,http://www.wikidata.org/prop/direct/P31,The Ravaged Land,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,16,13,0.57,1,http://www.wikidata.org/prop/direct/P31,Daughters of Eve,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,16,15,0.53,1,http://www.wikidata.org/prop/direct/P31,The Ravaged Land,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,16,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Daughters of Eve,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,16,17,0.57,0,http://www.wikidata.org/prop/direct/P31,Daughters of Eve,instance of,Troll (Norwegian band),
+5,4,144,142,141,0,0.1111111111111111,1,1,17,16,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Daughters of Eve,
+5,4,144,142,141,0,0.1111111111111111,1,1,17,16,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Daughters of Eve,12,3,314,309,305,0,0.08917197452229299,1,1,24,20,0.52,2,http://www.wikidata.org/prop/direct/P31,M.I,instance of,Ay! Catira Marmoleña,
+5,4,144,142,141,0,0.1111111111111111,1,1,17,18,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Det Sargade Landet,
+5,4,144,142,141,0,0.1111111111111111,1,1,17,4,0.63,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,5,
+5,4,144,142,141,0,0.1111111111111111,1,1,17,4,0.63,1,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,4,
+5,4,144,142,141,0,0.1111111111111111,1,1,17,5,0.57,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Intro,
+5,4,144,142,141,0,0.1111111111111111,1,1,17,5,0.63,0,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,1,
+5,4,144,142,141,0,0.1111111111111111,1,1,18,12,0.57,0,http://www.wikidata.org/prop/direct/P31,Det Sargade Landet,instance of,Troll,
+5,4,144,142,141,0,0.1111111111111111,1,1,18,13,0.57,1,http://www.wikidata.org/prop/direct/P31,Det Sargade Landet,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,18,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Det Sargade Landet,instance of,Album,
+5,4,144,142,141,0,0.1111111111111111,1,1,18,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Det Sargade Landet,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,4,12,0.63,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Troll,
+5,4,144,142,141,0,0.1111111111111111,1,1,4,12,0.63,1,http://www.wikidata.org/prop/direct/P31,4,instance of,Troll,
+5,4,144,142,141,0,0.1111111111111111,1,1,4,13,0.63,3,http://www.wikidata.org/prop/direct/P31,4,instance of,Ur Nattvindar,
+5,4,144,142,141,0,0.1111111111111111,1,1,4,13,0.63,3,http://www.wikidata.org/prop/direct/P31,4,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,4,13,0.63,3,http://www.wikidata.org/prop/direct/P31,5,instance of,Ur Nattvindar,
+5,4,144,142,141,0,0.1111111111111111,1,1,4,13,0.63,3,http://www.wikidata.org/prop/direct/P31,5,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,4,15,0.63,2,http://www.wikidata.org/prop/direct/P31,5,instance of,Album,
+5,4,144,142,141,0,0.1111111111111111,1,1,4,15,0.63,2,http://www.wikidata.org/prop/direct/P31,5,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,4,15,0.63,3,http://www.wikidata.org/prop/direct/P31,4,instance of,Album,
+5,4,144,142,141,0,0.1111111111111111,1,1,4,15,0.63,3,http://www.wikidata.org/prop/direct/P31,4,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,4,17,0.63,0,http://www.wikidata.org/prop/direct/P31,5,instance of,Troll (Norwegian band),
+5,4,144,142,141,0,0.1111111111111111,1,1,5,12,0.57,0,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Troll,
+5,4,144,142,141,0,0.1111111111111111,1,1,5,12,0.63,0,http://www.wikidata.org/prop/direct/P31,1,instance of,Troll,
+5,4,144,142,141,0,0.1111111111111111,1,1,5,13,0.57,1,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Ur Nattvindar,
+5,4,144,142,141,0,0.1111111111111111,1,1,5,13,0.57,1,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,5,13,0.63,2,http://www.wikidata.org/prop/direct/P31,1,instance of,Ur Nattvindar
+5,4,144,142,141,0,0.1111111111111111,1,1,5,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Album,
+5,4,144,142,141,0,0.1111111111111111,1,1,5,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,5,15,0.63,2,http://www.wikidata.org/prop/direct/P31,1,instance of,Album
+5,4,144,142,141,0,0.1111111111111111,1,1,5,17,0.57,0,http://www.wikidata.org/prop/direct/P31,Intro,instance of,Troll (Norwegian band),
+5,4,144,142,141,0,0.1111111111111111,1,1,5,17,0.63,0,http://www.wikidata.org/prop/direct/P31,1,instance of,Troll (Norwegian band),
+5,4,144,142,141,0.21252167224884033,0.1111111111111111,1,1,17,15,0.57,1,http://www.wikidata.org/prop/direct/P31,Troll (Norwegian band),instance of,Album,
+5,4,144,142,141,0.28359144926071167,0.1111111111111111,1,1,13,15,0.57,2,http://www.wikidata.org/prop/direct/P31,Ur Nattvindar,instance of,Album,1
+5,4,144,142,141,0.28359144926071167,0.1111111111111111,1,1,13,15,0.57,2,http://www.wikidata.org/prop/direct/P31,Ur Nattvindar,instance of,Album,12,3,86,84,78,0.5931316018104553,0.11627906976744186,2,2,16,16,0.5,2,http://www.wikidata.org/prop/direct/P361,Ga (Indic),part of,Devanagari,1
+5,4,144,142,141,0.28359144926071167,0.1111111111111111,1,1,15,15,0.47,2,http://www.wikidata.org/prop/direct/P31,Ur Nattvindar,instance of,Album,1
+5,5,436,433,432,0,0.05504587155963303,1,1,10,52,0.43,0,http://www.wikidata.org/prop/direct/P106,2017,occupation,Montreal World Film Festival,
+5,5,436,433,432,0,0.05504587155963303,1,1,10,7,0.43,5,http://www.wikidata.org/prop/direct/P106,2017,occupation,Zi Wang,
+5,5,436,433,432,0,0.05504587155963303,1,1,14,17,0.28,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,The General Store,
+5,5,436,433,432,0,0.05504587155963303,1,1,14,28,0.28,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,How to Train Your Girlfriend,
+5,5,436,433,432,0,0.05504587155963303,1,1,14,7,0.41,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Zi Wang,
+5,5,436,433,432,0,0.05504587155963303,1,1,14,9,0.43,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,2017,
+5,5,436,433,432,0,0.05504587155963303,1,1,15,14,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Wuxia,
+5,5,436,433,432,0,0.05504587155963303,1,1,15,52,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Montreal World Film Festival,
+5,5,436,433,432,0,0.05504587155963303,1,1,17,4,0.43,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,1,1,23,52,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Montreal World Film Festival,
+5,5,436,433,432,0,0.05504587155963303,1,1,23,7,0.45,1,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Zi Wang,
+5,5,436,433,432,0,0.05504587155963303,1,1,26,23,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Luo Xi(洛溪) main actress,
+5,5,436,433,432,0,0.05504587155963303,1,1,28,4,0.43,1,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,1,1,4,26,0.45,3,http://www.wikidata.org/prop/direct/P106,Zi Wang,occupation,Actor,1
+5,5,436,433,432,0,0.05504587155963303,1,1,4,4,0.43,3,http://www.wikidata.org/prop/direct/P106,Zi Wang,occupation,Actor,1
+5,5,436,433,432,0,0.05504587155963303,1,1,52,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Female Reporter,
+5,5,436,433,432,0,0.05504587155963303,1,1,52,7,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,洛溪的养成计划,
+5,5,436,433,432,0,0.05504587155963303,1,1,52,9,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,2017,
+5,5,436,433,432,0,0.05504587155963303,1,1,7,7,0.41,1,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Zi Wang,
+5,5,436,433,432,0,0.05504587155963303,1,1,8,14,0.28,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Wuxia,
+5,5,436,433,432,0,0.05504587155963303,1,1,8,4,0.43,2,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,1,1,9,4,0.43,6,http://www.wikidata.org/prop/direct/P106,2017,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,1,2,14,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,1,2,15,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,1,2,28,27,0.45,1,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,1,2,4,27,0.45,3,http://www.wikidata.org/prop/direct/P106,Zi Wang,occupation,Actor,1
+5,5,436,433,432,0,0.05504587155963303,1,2,52,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,1,2,7,27,0.45,1,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,1,2,8,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,1,4,10,53,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Tencent QQ,
+5,5,436,433,432,0,0.05504587155963303,1,4,10,62,0.43,4,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,4,10,65,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTTPS,
+5,5,436,433,432,0,0.05504587155963303,1,4,14,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,4,14,65,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,4,15,62,0.45,0,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Identifier,
+5,5,436,433,432,0,0.05504587155963303,1,4,15,62,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0,0.05504587155963303,1,4,17,53,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,HTTPS,
+5,5,436,433,432,0,0.05504587155963303,1,4,17,65,0.4,1,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,HTTPS,
+5,5,436,433,432,0,0.05504587155963303,1,4,23,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,4,23,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,HTTPS,
+5,5,436,433,432,0,0.05504587155963303,1,4,23,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Tencent QQ,
+5,5,436,433,432,0,0.05504587155963303,1,4,23,62,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Identifier,
+5,5,436,433,432,0,0.05504587155963303,1,4,23,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,1,4,23,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,4,23,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,HTTPS,
+5,5,436,433,432,0,0.05504587155963303,1,4,23,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Tencent QQ,
+5,5,436,433,432,0,0.05504587155963303,1,4,28,62,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Identifier,
+5,5,436,433,432,0,0.05504587155963303,1,4,28,62,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Youku,
+5,5,436,433,432,0,0.05504587155963303,1,4,52,53,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,4,52,62,0.43,1,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0,0.05504587155963303,1,4,7,53,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Tencent QQ,
+5,5,436,433,432,0,0.05504587155963303,1,4,7,65,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,1,4,8,53,0.4,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,4,8,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,HTTPS,
+5,5,436,433,432,0,0.05504587155963303,1,4,8,65,0.4,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,4,9,53,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,1,4,9,62,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0,0.05504587155963303,1,4,9,62,0.43,4,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,4,9,65,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,1,4,9,65,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,HTTPS,
+5,5,436,433,432,0,0.05504587155963303,1,5,10,45,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,Component Object Model,
+5,5,436,433,432,0,0.05504587155963303,1,5,10,45,0.43,2,http://www.wikidata.org/prop/direct/P106,2017,occupation,IQiyi,
+5,5,436,433,432,0,0.05504587155963303,1,5,14,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,5,15,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,Component Object Model,
+5,5,436,433,432,0,0.05504587155963303,1,5,15,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Female Reporter,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,5,17,45,0.4,0,http://www.wikidata.org/prop/direct/P106,The General Store,occupation,World Wide Web,
+5,5,436,433,432,0,0.05504587155963303,1,5,23,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Component Object Model,
+5,5,436,433,432,0,0.05504587155963303,1,5,23,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0,0.05504587155963303,1,5,23,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,IQiyi,
+5,5,436,433,432,0,0.05504587155963303,1,5,23,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Luo Xi(洛溪) main actress,occupation,World Wide Web,
+5,5,436,433,432,0,0.05504587155963303,1,5,26,45,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0,0.05504587155963303,1,5,26,45,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,5,28,45,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,5,28,45,0.4,0,http://www.wikidata.org/prop/direct/P106,How to Train Your Girlfriend,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0,0.05504587155963303,1,5,52,45,0.43,0,http://www.wikidata.org/prop/direct/P106,Montreal World Film Festival,occupation,World Wide Web,
+5,5,436,433,432,0,0.05504587155963303,1,5,7,45,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,Component Object Model,
+5,5,436,433,432,0,0.05504587155963303,1,5,7,45,0.4,0,http://www.wikidata.org/prop/direct/P106,洛溪的养成计划,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,1,5,8,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,IQiyi,
+5,5,436,433,432,0,0.05504587155963303,1,5,8,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,World Wide Web,
+5,5,436,433,432,0,0.05504587155963303,1,5,8,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Survivor,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0,0.05504587155963303,2,1,27,17,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,The General Store,
+5,5,436,433,432,0,0.05504587155963303,2,1,27,17,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,The General Store,
+5,5,436,433,432,0,0.05504587155963303,2,1,27,23,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Luo Xi(洛溪) main actress,
+5,5,436,433,432,0,0.05504587155963303,2,1,27,28,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,How to Train Your Girlfriend,
+5,5,436,433,432,0,0.05504587155963303,2,1,27,7,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,洛溪的养成计划,
+5,5,436,433,432,0,0.05504587155963303,2,1,27,7,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Zi Wang,
+5,5,436,433,432,0,0.05504587155963303,2,1,27,9,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,2017,
+5,5,436,433,432,0,0.05504587155963303,2,4,27,53,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Tencent QQ,
+5,5,436,433,432,0,0.05504587155963303,2,4,27,53,0.45,3,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTTPS,
+5,5,436,433,432,0,0.05504587155963303,2,4,27,62,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0,0.05504587155963303,2,4,27,62,0.45,1,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Identifier,
+5,5,436,433,432,0,0.05504587155963303,2,4,27,62,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,2,4,27,65,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,2,4,27,65,0.45,6,http://www.wikidata.org/prop/direct/P106,Actor,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,2,5,27,45,0.45,0,http://www.wikidata.org/prop/direct/P106,Gan Siqi,occupation,IQiyi,
+5,5,436,433,432,0,0.05504587155963303,4,1,53,14,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Wuxia,
+5,5,436,433,432,0,0.05504587155963303,4,1,53,17,0.4,1,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,The General Store,
+5,5,436,433,432,0,0.05504587155963303,4,1,53,17,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,The General Store,
+5,5,436,433,432,0,0.05504587155963303,4,1,53,23,0.45,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Luo Xi(洛溪) main actress,
+5,5,436,433,432,0,0.05504587155963303,4,1,53,26,0.45,3,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,4,1,53,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,How to Train Your Girlfriend,
+5,5,436,433,432,0,0.05504587155963303,4,1,53,52,0.43,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Montreal World Film Festival,
+5,5,436,433,432,0,0.05504587155963303,4,1,53,52,0.43,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Montreal World Film Festival,
+5,5,436,433,432,0,0.05504587155963303,4,1,53,8,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Survivor,
+5,5,436,433,432,0,0.05504587155963303,4,1,53,8,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Survivor,
+5,5,436,433,432,0,0.05504587155963303,4,1,53,9,0.43,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,2017,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,10,0.43,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,2017,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,10,0.43,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,2017,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Female Reporter,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,17,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,The General Store,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,23,0.45,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Luo Xi(洛溪) main actress,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,26,0.45,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,How to Train Your Girlfriend,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,4,0.43,2,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,52,0.43,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Montreal World Film Festival,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,52,0.43,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Montreal World Film Festival,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,52,0.43,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Montreal World Film Festival,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,洛溪的养成计划,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,洛溪的养成计划,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,7,0.41,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Zi Wang,
+5,5,436,433,432,0,0.05504587155963303,4,1,62,9,0.43,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,2017,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,10,0.43,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,2017,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,14,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Wuxia,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,15,0.45,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Female Reporter,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,23,0.45,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Luo Xi(洛溪) main actress,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,26,0.45,3,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,26,0.45,6,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,28,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,How to Train Your Girlfriend,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,28,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,How to Train Your Girlfriend,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,52,0.43,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Montreal World Film Festival,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,7,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,洛溪的养成计划,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,7,0.41,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Zi Wang,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,7,0.41,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Zi Wang,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,8,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Survivor,
+5,5,436,433,432,0,0.05504587155963303,4,1,65,8,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Survivor,
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,4,2,62,27,0.45,3,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,4,2,65,27,0.45,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Tencent QQ,
+5,5,436,433,432,0,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,4,4,53,62,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,4,4,62,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,4,4,62,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Youku,
+5,5,436,433,432,0,0.05504587155963303,4,4,62,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,HTTPS,
+5,5,436,433,432,0,0.05504587155963303,4,4,62,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,4,4,65,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0,0.05504587155963303,4,5,53,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Component Object Model,
+5,5,436,433,432,0,0.05504587155963303,4,5,62,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Component Object Model,
+5,5,436,433,432,0,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Com.x,occupation,World Wide Web,
+5,5,436,433,432,0,0.05504587155963303,4,5,65,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,IQiyi,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,14,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Wuxia,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,14,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Wuxia,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,14,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Wuxia,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,15,0.45,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Female Reporter,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,17,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,The General Store,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,23,0.45,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Luo Xi(洛溪) main actress,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,26,0.45,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,26,0.45,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,4,0.43,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.4,0,http://www.wikidata.org/prop/direct/P106,HTML,occupation,洛溪的养成计划,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.41,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Zi Wang,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,7,0.41,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Zi Wang,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,8,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Survivor,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,8,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Survivor,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,8,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Survivor,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,9,0.43,2,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,2017,
+5,5,436,433,432,0,0.05504587155963303,5,1,45,9,0.43,4,http://www.wikidata.org/prop/direct/P106,HTML,occupation,2017,
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Gan Siqi,
+5,5,436,433,432,0,0.05504587155963303,5,2,45,27,0.45,3,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Actor,
+5,5,436,433,432,0,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,5,4,45,53,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,HTML,
+5,5,436,433,432,0,0.05504587155963303,5,4,45,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Com.x,
+5,5,436,433,432,0,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,IQiyi,
+5,5,436,433,432,0,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,IQiyi,
+5,5,436,433,432,0,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Component Object Model,
+5,5,436,433,432,0,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,HTML,
+5,5,436,433,432,0.08031821250915527,0.05504587155963303,4,2,53,27,0.45,3,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,Actor,
+5,5,436,433,432,0.10695856809616089,0.05504587155963303,1,1,14,26,0.45,2,http://www.wikidata.org/prop/direct/P106,Wuxia,occupation,Actor,
+5,5,436,433,432,0.10695856809616089,0.05504587155963303,2,1,27,14,0.45,2,http://www.wikidata.org/prop/direct/P106,Actor,occupation,Wuxia,
+5,5,436,433,432,0.14669620990753174,0.05504587155963303,1,5,26,45,0.45,1,http://www.wikidata.org/prop/direct/P106,Actor,occupation,IQiyi,
+5,5,436,433,432,0.23999148607254028,0.05504587155963303,5,4,45,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Tencent QQ,
+5,5,436,433,432,0.2634531855583191,0.05504587155963303,4,4,53,62,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Youku,
+5,5,436,433,432,0.3454563021659851,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,IQiyi,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0.37318289279937744,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Youku,
+5,5,436,433,432,0.37318289279937744,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Youku,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0.39759278297424316,0.05504587155963303,4,5,62,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,World Wide Web,
+5,5,436,433,432,0.39822858572006226,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Component Object Model,
+5,5,436,433,432,0.4133026599884033,0.05504587155963303,4,4,62,62,0.4,1,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0.4364556670188904,0.05504587155963303,4,4,62,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Identifier,occupation,HTTPS,
+5,5,436,433,432,0.45888060331344604,0.05504587155963303,4,4,53,62,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Identifier,
+5,5,436,433,432,0.4739074110984802,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,World Wide Web,7,4,200,199,198,0,0.1,1,1,19,5,0.45,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Chloe,
+5,5,436,433,432,0.5044993162155151,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,HTML,
+5,5,436,433,432,0.5186517238616943,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Tencent QQ,
+5,5,436,433,432,0.5186517238616943,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTTPS,
+5,5,436,433,432,0.5186517238616943,0.05504587155963303,4,4,65,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Tencent QQ,occupation,HTTPS,
+5,5,436,433,432,0.523556649684906,0.05504587155963303,4,4,62,65,0.4,0,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,Tencent QQ,
+5,5,436,433,432,0.561650276184082,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,Component Object Model,occupation,HTTPS,
+5,5,436,433,432,0.7008200287818909,0.05504587155963303,5,4,45,53,0.4,0,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,HTTPS,
+5,5,436,433,432,0.713365912437439,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,HTML,occupation,World Wide Web,
+5,5,436,433,432,0.713365912437439,0.05504587155963303,5,4,45,62,0.4,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,HTML,
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,HTTPS,
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,4,53,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,HTML,
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,5,53,45,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,HTML,
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,4,5,65,45,0.4,2,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,HTML,
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,5,4,45,53,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,HTTPS,
+5,5,436,433,432,0.7230075001716614,0.05504587155963303,5,4,45,65,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,HTTPS,
+5,5,436,433,432,0.7424430847167969,0.05504587155963303,4,5,62,45,0.4,1,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,World Wide Web,
+5,5,436,433,432,0.7424430847167969,0.05504587155963303,5,5,45,45,0.4,1,http://www.wikidata.org/prop/direct/P106,World Wide Web,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,4,62,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTML,
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,4,5,53,45,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,5,4,45,53,0.4,2,http://www.wikidata.org/prop/direct/P106,Hypertext Transfer Protocol,occupation,HTML,
+5,5,436,433,432,0.7453204393386841,0.05504587155963303,5,4,45,62,0.4,2,http://www.wikidata.org/prop/direct/P106,HTML,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0.8569443821907043,0.05504587155963303,4,4,53,62,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Hypertext Transfer Protocol,
+5,5,436,433,432,0.8569443821907043,0.05504587155963303,4,5,65,45,0.4,0,http://www.wikidata.org/prop/direct/P106,HTTPS,occupation,Hypertext Transfer Protocol,
+6,7,552,551,550,0,0.050724637681159424,1,1,11,16,0.48,2,http://www.wikidata.org/prop/direct/P1618,3,sport number,Friendly match,
+6,7,552,551,550,0,0.050724637681159424,1,1,11,54,0.48,0,http://www.wikidata.org/prop/direct/P1618,3,sport number,2014 FIFA World Cup qualification – AFC Second Round,
+6,7,552,551,550,0,0.050724637681159424,1,1,11,6,0.44,2,http://www.wikidata.org/prop/direct/P1618,3,sport number,Ye Jia,
+6,7,552,551,550,0,0.050724637681159424,1,1,1,16,0.48,6,http://www.wikidata.org/prop/direct/P1618,0,sport number,Friendly match,
+6,7,552,551,550,0,0.050724637681159424,1,1,12,16,0.48,0,http://www.wikidata.org/prop/direct/P1618,28,sport number,Friendly match,
+6,7,552,551,550,0,0.050724637681159424,1,1,14,54,0.48,0,http://www.wikidata.org/prop/direct/P1618,4,sport number,2014 FIFA World Cup qualification – AFC Second Round,
+6,7,552,551,550,0,0.050724637681159424,1,1,14,6,0.44,2,http://www.wikidata.org/prop/direct/P1618,4,sport number,Ye Jia,
+6,7,552,551,550,0,0.050724637681159424,1,1,1,54,0.48,4,http://www.wikidata.org/prop/direct/P1618,0,sport number,2014 FIFA World Cup qualification – AFC Second Round,
+6,7,552,551,550,0,0.050724637681159424,1,1,15,54,0.48,0,http://www.wikidata.org/prop/direct/P1618,9,sport number,2014 FIFA World Cup qualification – AFC Second Round,
+6,7,552,551,550,0,0.050724637681159424,1,1,16,12,0.48,0,http://www.wikidata.org/prop/direct/P1618,Friendly match,sport number,23,
+6,7,552,551,550,0,0.050724637681159424,1,1,16,12,0.48,0,http://www.wikidata.org/prop/direct/P1618,Friendly match,sport number,28,
+6,7,552,551,550,0,0.050724637681159424,1,1,16,14,0.48,2,http://www.wikidata.org/prop/direct/P1618,Friendly match,sport number,4,
+6,7,552,551,550,0,0.050724637681159424,1,1,16,16,0.48,1,http://www.wikidata.org/prop/direct/P1618,17,sport number,Friendly match,
+6,7,552,551,550,0,0.050724637681159424,1,1,16,3,0.48,0,http://www.wikidata.org/prop/direct/P1618,Friendly match,sport number,KSA,
+6,7,552,551,550,0,0.050724637681159424,1,1,16,5,0.48,2,http://www.wikidata.org/prop/direct/P1618,Friendly match,sport number,India,
+6,7,552,551,550,0,0.050724637681159424,1,1,20,12,0.44,1,http://www.wikidata.org/prop/direct/P1618,Ye Jia,sport number,23,1
+6,7,552,551,550,0,0.050724637681159424,1,1,3,16,0.48,2,http://www.wikidata.org/prop/direct/P1618,MAS,sport number,Friendly match,
+6,7,552,551,550,0,0.050724637681159424,1,1,3,16,0.48,3,http://www.wikidata.org/prop/direct/P1618,1,sport number,Friendly match,
+6,7,552,551,550,0,0.050724637681159424,1,1,3,54,0.48,0,http://www.wikidata.org/prop/direct/P1618,PAR,sport number,2014 FIFA World Cup qualification – AFC Second Round,
+6,7,552,551,550,0,0.050724637681159424,1,1,3,54,0.48,2,http://www.wikidata.org/prop/direct/P1618,KSA,sport number,2014 FIFA World Cup qualification – AFC Second Round,
+6,7,552,551,550,0,0.050724637681159424,1,1,3,6,0.44,1,http://www.wikidata.org/prop/direct/P1618,PAR,sport number,Ye Jia,
+6,7,552,551,550,0,0.050724637681159424,1,1,3,6,0.47,10,http://www.wikidata.org/prop/direct/P1618,0,sport number,Ye Jia,
+6,7,552,551,550,0,0.050724637681159424,1,1,54,1,0.48,4,http://www.wikidata.org/prop/direct/P1618,2014 FIFA World Cup qualification – AFC Second Round,sport number,0,
+6,7,552,551,550,0,0.050724637681159424,1,1,54,12,0.48,1,http://www.wikidata.org/prop/direct/P1618,2014 FIFA World Cup qualification – AFC Second Round,sport number,23,
+6,7,552,551,550,0,0.050724637681159424,1,1,54,14,0.48,0,http://www.wikidata.org/prop/direct/P1618,2014 FIFA World Cup qualification – AFC Second Round,sport number,4,
+6,7,552,551,550,0,0.050724637681159424,1,1,54,3,0.48,0,http://www.wikidata.org/prop/direct/P1618,2014 FIFA World Cup qualification – AFC Second Round,sport number,MAS,
+6,7,552,551,550,0,0.050724637681159424,1,1,54,3,0.48,2,http://www.wikidata.org/prop/direct/P1618,2014 FIFA World Cup qualification – AFC Second Round,sport number,KSA,
+6,7,552,551,550,0,0.050724637681159424,1,1,54,3,0.48,4,http://www.wikidata.org/prop/direct/P1618,2014 FIFA World Cup qualification – AFC Second Round,sport number,0,
+6,7,552,551,550,0,0.050724637681159424,1,2,11,33,0.44,1,http://www.wikidata.org/prop/direct/P1618,3,sport number,Hong Kong,
+6,7,552,551,550,0,0.050724637681159424,1,2,11,36,0.44,1,http://www.wikidata.org/prop/direct/P1618,3,sport number,Shah Alam Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,11,41,0.44,1,http://www.wikidata.org/prop/direct/P1618,3,sport number,Siu Sai Wan Sports Ground,
+6,7,552,551,550,0,0.050724637681159424,1,2,12,33,0.44,0,http://www.wikidata.org/prop/direct/P1618,23,sport number,Hong Kong,
+6,7,552,551,550,0,0.050724637681159424,1,2,12,33,0.44,0,http://www.wikidata.org/prop/direct/P1618,23,sport number,Hong Kong Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,12,33,0.44,0,http://www.wikidata.org/prop/direct/P1618,28,sport number,Hong Kong Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,12,36,0.44,0,http://www.wikidata.org/prop/direct/P1618,23,sport number,Shah Alam Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,1,36,0.43,2,http://www.wikidata.org/prop/direct/P1618,0,sport number,Kuala Lumpur,
+6,7,552,551,550,0,0.050724637681159424,1,2,1,44,0.43,2,http://www.wikidata.org/prop/direct/P1618,0,sport number,Dammam,
+6,7,552,551,550,0,0.050724637681159424,1,2,1,44,0.43,2,http://www.wikidata.org/prop/direct/P1618,0,sport number,Prince Mohamed bin Fahd Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,14,41,0.44,1,http://www.wikidata.org/prop/direct/P1618,4,sport number,Hong Kong,
+6,7,552,551,550,0,0.050724637681159424,1,2,14,44,0.44,0,http://www.wikidata.org/prop/direct/P1618,4,sport number,Dammam,
+6,7,552,551,550,0,0.050724637681159424,1,2,14,44,0.44,0,http://www.wikidata.org/prop/direct/P1618,4,sport number,Prince Mohamed bin Fahd Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,15,33,0.44,0,http://www.wikidata.org/prop/direct/P1618,9,sport number,Hong Kong,
+6,7,552,551,550,0,0.050724637681159424,1,2,15,33,0.44,0,http://www.wikidata.org/prop/direct/P1618,9,sport number,Hong Kong Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,15,41,0.44,0,http://www.wikidata.org/prop/direct/P1618,9,sport number,Siu Sai Wan Sports Ground,
+6,7,552,551,550,0,0.050724637681159424,1,2,15,44,0.44,0,http://www.wikidata.org/prop/direct/P1618,9,sport number,Dammam,
+6,7,552,551,550,0,0.050724637681159424,1,2,16,33,0.48,1,http://www.wikidata.org/prop/direct/P1618,Friendly match,sport number,Hong Kong Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,16,33,0.48,2,http://www.wikidata.org/prop/direct/P1618,Friendly match,sport number,Hong Kong,
+6,7,552,551,550,0,0.050724637681159424,1,2,16,44,0.44,0,http://www.wikidata.org/prop/direct/P1618,17,sport number,Dammam,
+6,7,552,551,550,0,0.050724637681159424,1,2,16,44,0.44,0,http://www.wikidata.org/prop/direct/P1618,17,sport number,Prince Mohamed bin Fahd Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,16,44,0.48,0,http://www.wikidata.org/prop/direct/P1618,Friendly match,sport number,Dammam,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,33,0.44,1,http://www.wikidata.org/prop/direct/P1618,PAR,sport number,Hong Kong,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,33,0.47,1,http://www.wikidata.org/prop/direct/P1618,1,sport number,Hong Kong,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,33,0.47,2,http://www.wikidata.org/prop/direct/P1618,0,sport number,Hong Kong Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,36,0.44,0,http://www.wikidata.org/prop/direct/P1618,KSA,sport number,Shah Alam Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,36,0.44,0,http://www.wikidata.org/prop/direct/P1618,PAR,sport number,Shah Alam Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,36,0.44,1,http://www.wikidata.org/prop/direct/P1618,MAS,sport number,Kuala Lumpur,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,36,0.47,0,http://www.wikidata.org/prop/direct/P1618,1,sport number,Kuala Lumpur,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,36,0.47,0,http://www.wikidata.org/prop/direct/P1618,1,sport number,Shah Alam Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,41,0.44,1,http://www.wikidata.org/prop/direct/P1618,MAS,sport number,Hong Kong,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,41,0.44,1,http://www.wikidata.org/prop/direct/P1618,PAR,sport number,Hong Kong,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,44,0.44,0,http://www.wikidata.org/prop/direct/P1618,MAS,sport number,Prince Mohamed bin Fahd Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,44,0.44,0,http://www.wikidata.org/prop/direct/P1618,PAR,sport number,Prince Mohamed bin Fahd Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,44,0.44,1,http://www.wikidata.org/prop/direct/P1618,KSA,sport number,Prince Mohamed bin Fahd Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,2,3,44,0.47,0,http://www.wikidata.org/prop/direct/P1618,1,sport number,Prince Mohamed bin Fahd Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,3,11,37,0.44,0,http://www.wikidata.org/prop/direct/P1618,3,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,3,12,37,0.44,0,http://www.wikidata.org/prop/direct/P1618,23,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,3,12,37,0.44,0,http://www.wikidata.org/prop/direct/P1618,23,sport number,Pune,
+6,7,552,551,550,0,0.050724637681159424,1,3,1,37,0.43,2,http://www.wikidata.org/prop/direct/P1618,0,sport number,India,
+6,7,552,551,550,0,0.050724637681159424,1,3,14,37,0.44,2,http://www.wikidata.org/prop/direct/P1618,4,sport number,India,
+6,7,552,551,550,0,0.050724637681159424,1,3,16,37,0.44,0,http://www.wikidata.org/prop/direct/P1618,17,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,3,16,37,0.48,1,http://www.wikidata.org/prop/direct/P1618,Friendly match,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,3,16,37,0.48,2,http://www.wikidata.org/prop/direct/P1618,Friendly match,sport number,India,
+6,7,552,551,550,0,0.050724637681159424,1,3,3,37,0.44,0,http://www.wikidata.org/prop/direct/P1618,KSA,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,3,3,37,0.44,0,http://www.wikidata.org/prop/direct/P1618,KSA,sport number,India,
+6,7,552,551,550,0,0.050724637681159424,1,3,3,37,0.44,0,http://www.wikidata.org/prop/direct/P1618,MAS,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,3,3,37,0.47,2,http://www.wikidata.org/prop/direct/P1618,1,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,3,5,37,0.44,2,http://www.wikidata.org/prop/direct/P1618,India,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,1,3,54,37,0.48,0,http://www.wikidata.org/prop/direct/P1618,2014 FIFA World Cup qualification – AFC Second Round,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,2,1,33,11,0.44,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,3,
+6,7,552,551,550,0,0.050724637681159424,2,1,33,12,0.44,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,23,
+6,7,552,551,550,0,0.050724637681159424,2,1,33,12,0.44,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong Stadium,sport number,23,
+6,7,552,551,550,0,0.050724637681159424,2,1,33,14,0.44,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,4,
+6,7,552,551,550,0,0.050724637681159424,2,1,33,15,0.44,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,9,
+6,7,552,551,550,0,0.050724637681159424,2,1,33,16,0.44,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,17,
+6,7,552,551,550,0,0.050724637681159424,2,1,33,16,0.44,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong Stadium,sport number,17,
+6,7,552,551,550,0,0.050724637681159424,2,1,33,3,0.47,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,1,
+6,7,552,551,550,0,0.050724637681159424,2,1,36,12,0.44,0,http://www.wikidata.org/prop/direct/P1618,Kuala Lumpur,sport number,28,
+6,7,552,551,550,0,0.050724637681159424,2,1,36,15,0.44,1,http://www.wikidata.org/prop/direct/P1618,Shah Alam Stadium,sport number,9,
+6,7,552,551,550,0,0.050724637681159424,2,1,36,16,0.48,1,http://www.wikidata.org/prop/direct/P1618,Shah Alam Stadium,sport number,Friendly match,
+6,7,552,551,550,0,0.050724637681159424,2,1,36,3,0.44,0,http://www.wikidata.org/prop/direct/P1618,Kuala Lumpur,sport number,KSA,
+6,7,552,551,550,0,0.050724637681159424,2,1,36,3,0.44,0,http://www.wikidata.org/prop/direct/P1618,Shah Alam Stadium,sport number,PAR,
+6,7,552,551,550,0,0.050724637681159424,2,1,36,3,0.47,0,http://www.wikidata.org/prop/direct/P1618,Shah Alam Stadium,sport number,1,
+6,7,552,551,550,0,0.050724637681159424,2,1,36,6,0.42,1,http://www.wikidata.org/prop/direct/P1618,Shah Alam Stadium,sport number,Ye Jia,
+6,7,552,551,550,0,0.050724637681159424,2,1,41,11,0.44,1,http://www.wikidata.org/prop/direct/P1618,Siu Sai Wan Sports Ground,sport number,3,
+6,7,552,551,550,0,0.050724637681159424,2,1,41,14,0.44,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,4,
+6,7,552,551,550,0,0.050724637681159424,2,1,41,16,0.48,1,http://www.wikidata.org/prop/direct/P1618,Siu Sai Wan Sports Ground,sport number,Friendly match,
+6,7,552,551,550,0,0.050724637681159424,2,1,41,3,0.44,0,http://www.wikidata.org/prop/direct/P1618,Siu Sai Wan Sports Ground,sport number,PAR,
+6,7,552,551,550,0,0.050724637681159424,2,1,41,3,0.44,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,MAS,
+6,7,552,551,550,0,0.050724637681159424,2,1,41,3,0.44,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,PAR,
+6,7,552,551,550,0,0.050724637681159424,2,1,41,3,0.44,1,http://www.wikidata.org/prop/direct/P1618,Siu Sai Wan Sports Ground,sport number,KSA,
+6,7,552,551,550,0,0.050724637681159424,2,1,41,3,0.47,3,http://www.wikidata.org/prop/direct/P1618,Siu Sai Wan Sports Ground,sport number,0,
+6,7,552,551,550,0,0.050724637681159424,2,1,44,1,0.43,2,http://www.wikidata.org/prop/direct/P1618,Dammam,sport number,0,
+6,7,552,551,550,0,0.050724637681159424,2,1,44,1,0.43,2,http://www.wikidata.org/prop/direct/P1618,Prince Mohamed bin Fahd Stadium,sport number,0,
+6,7,552,551,550,0,0.050724637681159424,2,1,44,12,0.44,0,http://www.wikidata.org/prop/direct/P1618,Prince Mohamed bin Fahd Stadium,sport number,28,
+6,7,552,551,550,0,0.050724637681159424,2,1,44,12,0.44,1,http://www.wikidata.org/prop/direct/P1618,Prince Mohamed bin Fahd Stadium,sport number,23,
+6,7,552,551,550,0,0.050724637681159424,2,1,44,3,0.44,0,http://www.wikidata.org/prop/direct/P1618,Dammam,sport number,MAS,
+6,7,552,551,550,0,0.050724637681159424,2,1,44,3,0.44,0,http://www.wikidata.org/prop/direct/P1618,Dammam,sport number,PAR,
+6,7,552,551,550,0,0.050724637681159424,2,1,44,3,0.44,0,http://www.wikidata.org/prop/direct/P1618,Prince Mohamed bin Fahd Stadium,sport number,MAS,
+6,7,552,551,550,0,0.050724637681159424,2,1,44,3,0.44,0,http://www.wikidata.org/prop/direct/P1618,Prince Mohamed bin Fahd Stadium,sport number,PAR,
+6,7,552,551,550,0,0.050724637681159424,2,1,44,3,0.47,0,http://www.wikidata.org/prop/direct/P1618,Prince Mohamed bin Fahd Stadium,sport number,1,
+6,7,552,551,550,0,0.050724637681159424,2,3,36,37,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Kuala Lumpur,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,2,3,41,37,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Siu Sai Wan Sports Ground,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,1,0.43,1,http://www.wikidata.org/prop/direct/P1618,Pune,sport number,0,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,11,0.44,0,http://www.wikidata.org/prop/direct/P1618,Balewadi Stadium,sport number,3,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,11,0.44,0,http://www.wikidata.org/prop/direct/P1618,India,sport number,3,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,11,0.44,0,http://www.wikidata.org/prop/direct/P1618,Pune,sport number,3,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,12,0.44,0,http://www.wikidata.org/prop/direct/P1618,Balewadi Stadium,sport number,23,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,12,0.44,0,http://www.wikidata.org/prop/direct/P1618,Pune,sport number,23,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,14,0.44,1,http://www.wikidata.org/prop/direct/P1618,Pune,sport number,4,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,14,0.44,2,http://www.wikidata.org/prop/direct/P1618,India,sport number,4,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,15,0.44,0,http://www.wikidata.org/prop/direct/P1618,Balewadi Stadium,sport number,9,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,16,0.48,1,http://www.wikidata.org/prop/direct/P1618,Balewadi Stadium,sport number,Friendly match,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,16,0.48,2,http://www.wikidata.org/prop/direct/P1618,India,sport number,Friendly match,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,3,0.44,0,http://www.wikidata.org/prop/direct/P1618,Balewadi Stadium,sport number,PAR,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,3,0.44,0,http://www.wikidata.org/prop/direct/P1618,India,sport number,MAS,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,3,0.44,0,http://www.wikidata.org/prop/direct/P1618,Pune,sport number,MAS,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,3,0.47,1,http://www.wikidata.org/prop/direct/P1618,Balewadi Stadium,sport number,0,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,3,0.47,2,http://www.wikidata.org/prop/direct/P1618,Balewadi Stadium,sport number,1,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,3,0.47,2,http://www.wikidata.org/prop/direct/P1618,Pune,sport number,1,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,5,0.44,2,http://www.wikidata.org/prop/direct/P1618,Balewadi Stadium,sport number,India,
+6,7,552,551,550,0,0.050724637681159424,3,1,37,6,0.42,1,http://www.wikidata.org/prop/direct/P1618,Balewadi Stadium,sport number,Ye Jia,
+6,7,552,551,550,0,0.050724637681159424,3,2,37,36,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Balewadi Stadium,sport number,Kuala Lumpur,
+6,7,552,551,550,0,0.050724637681159424,3,2,37,41,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Balewadi Stadium,sport number,Hong Kong,
+6,7,552,551,550,0,0.050724637681159424,3,3,37,37,0.13333333333333333,1,http://www.wikidata.org/prop/direct/P1618,Pune,sport number,Balewadi Stadium,
+6,7,552,551,550,0,0.050724637681159424,3,3,37,37,0.13333333333333333,2,http://www.wikidata.org/prop/direct/P1618,India,sport number,Balewadi Stadium,
+6,7,552,551,550,0.04376089572906494,0.050724637681159424,1,1,5,6,0.44,2,http://www.wikidata.org/prop/direct/P1618,India,sport number,Ye Jia,
+6,7,552,551,550,0.0888323187828064,0.050724637681159424,1,2,5,44,0.44,0,http://www.wikidata.org/prop/direct/P1618,India,sport number,Prince Mohamed bin Fahd Stadium,
+6,7,552,551,550,0.0888323187828064,0.050724637681159424,2,1,44,5,0.44,0,http://www.wikidata.org/prop/direct/P1618,Prince Mohamed bin Fahd Stadium,sport number,India,
+6,7,552,551,550,0.10961741209030151,0.050724637681159424,2,1,41,5,0.44,0,http://www.wikidata.org/prop/direct/P1618,Siu Sai Wan Sports Ground,sport number,India,
+6,7,552,551,550,0.10961741209030151,0.050724637681159424,2,3,41,37,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Siu Sai Wan Sports Ground,sport number,India,
+6,7,552,551,550,0.10961741209030151,0.050724637681159424,3,2,37,41,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,India,sport number,Siu Sai Wan Sports Ground,
+6,7,552,551,550,0.11803317070007324,0.050724637681159424,2,1,33,5,0.44,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong Stadium,sport number,India,
+6,7,552,551,550,0.11803317070007324,0.050724637681159424,2,3,33,37,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong Stadium,sport number,India,
+6,7,552,551,550,0.11803317070007324,0.050724637681159424,3,2,37,33,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,India,sport number,Hong Kong Stadium,
+6,7,552,551,550,0.16334164142608643,0.050724637681159424,1,2,5,36,0.44,0,http://www.wikidata.org/prop/direct/P1618,India,sport number,Shah Alam Stadium,
+6,7,552,551,550,0.16334164142608643,0.050724637681159424,2,3,36,37,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Shah Alam Stadium,sport number,India,
+6,7,552,551,550,0.21767592430114746,0.050724637681159424,1,2,5,44,0.44,0,http://www.wikidata.org/prop/direct/P1618,India,sport number,Dammam,
+6,7,552,551,550,0.21767592430114746,0.050724637681159424,2,3,44,37,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Dammam,sport number,India,
+6,7,552,551,550,0.21767592430114746,0.050724637681159424,3,2,37,44,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,India,sport number,Dammam,
+6,7,552,551,550,0.26734459400177,0.050724637681159424,2,3,33,37,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,Pune,
+6,7,552,551,550,0.2875039577484131,0.050724637681159424,1,2,5,36,0.44,0,http://www.wikidata.org/prop/direct/P1618,India,sport number,Kuala Lumpur,
+6,7,552,551,550,0.2875039577484131,0.050724637681159424,2,1,36,5,0.44,0,http://www.wikidata.org/prop/direct/P1618,Kuala Lumpur,sport number,India,
+6,7,552,551,550,0.2875039577484131,0.050724637681159424,2,3,36,37,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Kuala Lumpur,sport number,India,
+6,7,552,551,550,0.31594300270080566,0.050724637681159424,2,2,41,44,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,Prince Mohamed bin Fahd Stadium,
+6,7,552,551,550,0.3246413469314575,0.050724637681159424,1,2,54,41,0.48,1,http://www.wikidata.org/prop/direct/P1618,2014 FIFA World Cup qualification – AFC Second Round,sport number,Hong Kong,
+6,7,552,551,550,0.32554394006729126,0.050724637681159424,2,2,33,44,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,Dammam,
+6,7,552,551,550,0.32554394006729126,0.050724637681159424,2,2,41,44,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,Dammam,
+6,7,552,551,550,0.37291890382766724,0.050724637681159424,2,2,41,36,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,Shah Alam Stadium,
+6,7,552,551,550,0.3886635899543762,0.050724637681159424,2,1,33,5,0.44,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,India,
+6,7,552,551,550,0.4002615213394165,0.050724637681159424,2,3,33,37,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong Stadium,sport number,Pune,
+6,7,552,551,550,0.4078616499900818,0.050724637681159424,2,1,33,6,0.42,3,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,Ye Jia,
+6,7,552,551,550,0.42197364568710327,0.050724637681159424,2,2,36,41,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Kuala Lumpur,sport number,Siu Sai Wan Sports Ground,
+6,7,552,551,550,0.42197364568710327,0.050724637681159424,2,2,41,36,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Siu Sai Wan Sports Ground,sport number,Kuala Lumpur,
+6,7,552,551,550,0.43001580238342285,0.050724637681159424,2,3,36,37,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Shah Alam Stadium,sport number,Pune,
+6,7,552,551,550,0.43699556589126587,0.050724637681159424,3,2,37,41,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Pune,sport number,Siu Sai Wan Sports Ground,
+6,7,552,551,550,0.4380481243133545,0.050724637681159424,3,3,37,37,0.13333333333333333,2,http://www.wikidata.org/prop/direct/P1618,Pune,sport number,India,
+6,7,552,551,550,0.4615573287010193,0.050724637681159424,2,2,36,33,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Kuala Lumpur,sport number,Hong Kong Stadium,
+6,7,552,551,550,0.46681296825408936,0.050724637681159424,2,2,41,41,0.13333333333333333,2,http://www.wikidata.org/prop/direct/P1618,Siu Sai Wan Sports Ground,sport number,Hong Kong,
+6,7,552,551,550,0.509486973285675,0.050724637681159424,2,2,33,36,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,Kuala Lumpur,
+6,7,552,551,550,0.509486973285675,0.050724637681159424,2,2,36,33,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Kuala Lumpur,sport number,Hong Kong,
+6,7,552,551,550,0.509486973285675,0.050724637681159424,2,2,36,41,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Kuala Lumpur,sport number,Hong Kong,
+6,7,552,551,550,0.5315361022949219,0.050724637681159424,2,2,33,33,0.13333333333333333,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong,sport number,Hong Kong Stadium,
+6,7,552,551,550,0.5315361022949219,0.050724637681159424,2,2,33,33,0.13333333333333333,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong Stadium,sport number,Hong Kong,
+6,7,552,551,550,0.5315361022949219,0.050724637681159424,2,2,33,41,0.13333333333333333,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong Stadium,sport number,Hong Kong,
+6,7,552,551,550,0.5991301536560059,0.050724637681159424,2,2,33,44,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Hong Kong Stadium,sport number,Dammam,
+6,7,552,551,550,0.617119550704956,0.050724637681159424,2,2,44,36,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Dammam,sport number,Shah Alam Stadium,
+6,7,552,551,550,0.6345264315605164,0.050724637681159424,2,2,44,41,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Dammam,sport number,Siu Sai Wan Sports Ground,
+6,7,552,551,550,0.6376789212226868,0.050724637681159424,1,2,54,44,0.48,1,http://www.wikidata.org/prop/direct/P1618,2014 FIFA World Cup qualification – AFC Second Round,sport number,Dammam,
+6,7,552,551,550,0.6376789212226868,0.050724637681159424,2,1,44,54,0.48,1,http://www.wikidata.org/prop/direct/P1618,Dammam,sport number,2014 FIFA World Cup qualification – AFC Second Round,
+6,7,552,551,550,0.67706698179245,0.050724637681159424,2,2,44,33,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Prince Mohamed bin Fahd Stadium,sport number,Hong Kong Stadium,
+6,7,552,551,550,0.7245098352432251,0.050724637681159424,2,1,33,6,0.42,1,http://www.wikidata.org/prop/direct/P1618,Hong Kong Stadium,sport number,Ye Jia,
+6,7,552,551,550,0.7383284568786621,0.050724637681159424,2,2,36,44,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Shah Alam Stadium,sport number,Prince Mohamed bin Fahd Stadium,
+6,7,552,551,550,0.7383284568786621,0.050724637681159424,2,2,44,36,0.13333333333333333,0,http://www.wikidata.org/prop/direct/P1618,Prince Mohamed bin Fahd Stadium,sport number,Shah Alam Stadium,
+6,7,552,551,550,0.7999505996704102,0.050724637681159424,2,1,41,54,0.48,1,http://www.wikidata.org/prop/direct/P1618,Siu Sai Wan Sports Ground,sport number,2014 FIFA World Cup qualification – AFC Second Round,
+6,7,552,551,550,0.8657147288322449,0.050724637681159424,2,2,44,44,0.13333333333333333,1,http://www.wikidata.org/prop/direct/P1618,Dammam,sport number,Prince Mohamed bin Fahd Stadium,
+6,7,552,551,550,0.8657147288322449,0.050724637681159424,2,2,44,44,0.13333333333333333,1,http://www.wikidata.org/prop/direct/P1618,Prince Mohamed bin Fahd Stadium,sport number,Dammam,
+7,4,200,199,198,0,0.1,1,1,14,25,0.45,0,http://www.wikidata.org/prop/direct/P106,8,occupation,Lisa Brennan-Jobs,
+7,4,200,199,198,0,0.1,1,1,14,27,0.45,0,http://www.wikidata.org/prop/direct/P106,8,occupation,At the Devil's Door,
+7,4,200,199,198,0,0.1,1,1,14,28,0.45,0,http://www.wikidata.org/prop/direct/P106,8,occupation,The Face of an Angel,
+7,4,200,199,198,0,0.1,1,1,17,17,0.43,1,http://www.wikidata.org/prop/direct/P106,Ava Acres,occupation,Actor,1
+7,4,200,199,198,0,0.1,1,1,19,28,0.0,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Holidays (2016 film),
+7,4,200,199,198,0,0.1,1,1,19,9,0.31,1,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,Ava Acres,
+7,4,200,199,198,0,0.1,1,1,25,14,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,8,
+7,4,200,199,198,0,0.1,1,1,25,27,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,At the Devil's Door,
+7,4,200,199,198,0,0.1,1,1,25,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Holidays (2016 film),
+7,4,200,199,198,0,0.1,1,1,25,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,The Face of an Angel,
+7,4,200,199,198,0,0.1,1,1,25,3,0.45,0,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Bea,
+7,4,200,199,198,0,0.1,1,1,25,9,0.45,1,http://www.wikidata.org/prop/direct/P106,Lisa Brennan-Jobs,occupation,Ava Acres,
+7,4,200,199,198,0,0.1,1,1,27,14,0.45,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,8,
+7,4,200,199,198,0,0.1,1,1,27,25,0.45,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Lisa Brennan-Jobs,
+7,4,200,199,198,0,0.1,1,1,27,4,0.45,1,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Girl,
+7,4,200,199,198,0,0.1,1,1,27,5,0.45,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Chloe,
+7,4,200,199,198,0,0.1,1,1,28,14,0.45,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,8,
+7,4,200,199,198,0,0.1,1,1,28,27,0.0,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,At the Devil's Door,
+7,4,200,199,198,0,0.1,1,1,28,28,0.0,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Holidays (2016 film),
+7,4,200,199,198,0,0.1,1,1,28,29,0.0,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Free Ride (2013 film),
+7,4,200,199,198,0,0.1,1,1,28,29,0.0,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Free Ride (2013 film),
+7,4,200,199,198,0,0.1,1,1,28,3,0.45,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Bea,
+7,4,200,199,198,0,0.1,1,1,28,32,0.0,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,White Bird in a Blizzard,
+7,4,200,199,198,0,0.1,1,1,28,34,0.0,0,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,The Devil's in the Details,
+7,4,200,199,198,0,0.1,1,1,28,4,0.45,1,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Girl,
+7,4,200,199,198,0,0.1,1,1,28,5,0.45,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Chloe,
+7,4,200,199,198,0,0.1,1,1,28,9,0.31,1,http://www.wikidata.org/prop/direct/P106,Holidays (2016 film),occupation,Ava Acres,
+7,4,200,199,198,0,0.1,1,1,29,19,0.0,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Jobs (film),
+7,4,200,199,198,0,0.1,1,1,29,25,0.45,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Lisa Brennan-Jobs,
+7,4,200,199,198,0,0.1,1,1,29,28,0.0,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Holidays (2016 film),
+7,4,200,199,198,0,0.1,1,1,29,28,0.0,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,The Face of an Angel,
+7,4,200,199,198,0,0.1,1,1,29,3,0.45,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Bea,
+7,4,200,199,198,0,0.1,1,1,29,34,0.0,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,The Devil's in the Details,
+7,4,200,199,198,0,0.1,1,1,29,4,0.45,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Girl,
+7,4,200,199,198,0,0.1,1,1,29,5,0.45,0,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Chloe,
+7,4,200,199,198,0,0.1,1,1,29,5,0.45,1,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Shell,
+7,4,200,199,198,0,0.1,1,1,29,9,0.31,1,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Ava Acres,
+7,4,200,199,198,0,0.1,1,1,3,17,0.45,1,http://www.wikidata.org/prop/direct/P106,Bea,occupation,Actor,
+7,4,200,199,198,0,0.1,1,1,3,19,0.45,0,http://www.wikidata.org/prop/direct/P106,Bea,occupation,Jobs (film),
+7,4,200,199,198,0,0.1,1,1,32,14,0.45,1,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,8,
+7,4,200,199,198,0,0.1,1,1,32,28,0.0,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,Holidays (2016 film),
+7,4,200,199,198,0,0.1,1,1,32,34,0.0,0,http://www.wikidata.org/prop/direct/P106,White Bird in a Blizzard,occupation,The Devil's in the Details,
+7,4,200,199,198,0,0.1,1,1,3,34,0.45,0,http://www.wikidata.org/prop/direct/P106,Bea,occupation,The Devil's in the Details,
+7,4,200,199,198,0,0.1,1,1,34,17,0.43,1,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Actor,
+7,4,200,199,198,0,0.1,1,1,34,25,0.45,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Lisa Brennan-Jobs,
+7,4,200,199,198,0,0.1,1,1,34,28,0.0,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,The Face of an Angel,
+7,4,200,199,198,0,0.1,1,1,34,3,0.45,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Bea,
+7,4,200,199,198,0,0.1,1,1,34,4,0.45,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Girl,
+7,4,200,199,198,0,0.1,1,1,34,5,0.45,0,http://www.wikidata.org/prop/direct/P106,The Devil's in the Details,occupation,Shell,
+7,4,200,199,198,0,0.1,1,1,4,19,0.45,0,http://www.wikidata.org/prop/direct/P106,Girl,occupation,Jobs (film),
+7,4,200,199,198,0,0.1,1,1,4,27,0.45,1,http://www.wikidata.org/prop/direct/P106,Girl,occupation,At the Devil's Door,
+7,4,200,199,198,0,0.1,1,1,4,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Girl,occupation,The Face of an Angel,
+7,4,200,199,198,0,0.1,1,1,4,28,0.45,1,http://www.wikidata.org/prop/direct/P106,Girl,occupation,Holidays (2016 film),
+7,4,200,199,198,0,0.1,1,1,5,19,0.45,0,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,Jobs (film),
+7,4,200,199,198,0,0.1,1,1,5,19,0.45,0,http://www.wikidata.org/prop/direct/P106,Shell,occupation,Jobs (film),
+7,4,200,199,198,0,0.1,1,1,5,28,0.45,0,http://www.wikidata.org/prop/direct/P106,Shell,occupation,The Face of an Angel,
+7,4,200,199,198,0,0.1,1,1,5,29,0.45,0,http://www.wikidata.org/prop/direct/P106,Chloe,occupation,Free Ride (2013 film),
+7,4,200,199,198,0,0.1,1,1,5,29,0.45,1,http://www.wikidata.org/prop/direct/P106,Shell,occupation,Free Ride (2013 film),
+7,4,200,199,198,0,0.1,1,1,5,34,0.45,0,http://www.wikidata.org/prop/direct/P106,Shell,occupation,The Devil's in the Details,
+7,4,200,199,198,0.28583335876464844,0.1,1,1,29,17,0.43,1,http://www.wikidata.org/prop/direct/P106,Free Ride (2013 film),occupation,Actor,
+7,4,200,199,198,0.6631620526313782,0.1,1,1,19,28,0.0,0,http://www.wikidata.org/prop/direct/P106,Jobs (film),occupation,The Face of an Angel,
+7,4,200,199,198,0.6631620526313782,0.1,1,1,28,19,0.0,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,Jobs (film),
+7,4,200,199,198,0.7344110012054443,0.1,1,1,28,32,0.0,0,http://www.wikidata.org/prop/direct/P106,The Face of an Angel,occupation,White Bird in a Blizzard,
+7,4,200,199,198,0.8106204867362976,0.1,1,1,27,9,0.31,1,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Ava Acres,
+7,4,200,199,198,0.8230337500572205,0.1,1,1,27,28,0.0,0,http://www.wikidata.org/prop/direct/P106,At the Devil's Door,occupation,Holidays (2016 film),
+8,10,3374,3356,3269,0,0.016301126259632485,1,1,15,6,0.51,1,http://www.wikidata.org/prop/direct/P527,Database,has part,Data,1
+8,10,3374,3356,3269,0,0.016301126259632485,1,1,23,2,0.52,2,http://www.wikidata.org/prop/direct/P527,Open Database License,has part,no,
+8,10,3374,3356,3269,0,0.016301126259632485,1,1,23,6,0.51,1,http://www.wikidata.org/prop/direct/P1344,Motorsport,participant of,348,
+8,10,3374,3356,3269,0,0.016301126259632485,1,1,54,11,0.43,1,http://www.wikidata.org/prop/direct/P1344,Nissan,participant of,2,
+8,10,3374,3356,3269,0,0.016301126259632485,1,1,54,9,0.42,1,http://www.wikidata.org/prop/direct/P527,public domain,has part,598462095,
+8,10,3374,3356,3269,0,0.016301126259632485,1,1,9,15,0.51,0,http://www.wikidata.org/prop/direct/P1344,Philippines,participant of,France,
+8,10,3374,3356,3269,0,0.016301126259632485,1,3,11,33,0.43,0,http://www.wikidata.org/prop/direct/P527,Proprietary,has part,Map (higher-order function),
+8,10,3374,3356,3269,0,0.016301126259632485,1,3,3,33,0.47,2,http://www.wikidata.org/prop/direct/P1344,France,participant of,24 Hours of Le Mans,
+8,10,3374,3356,3269,0,0.016301126259632485,1,3,3,33,0.52,2,http://www.wikidata.org/prop/direct/P1344,France,participant of,Netherlands,
+8,10,3374,3356,3269,0,0.016301126259632485,1,3,6,33,0.51,0,http://www.wikidata.org/prop/direct/P527,_nomap,has part,Map (higher-order function),
+8,10,3374,3356,3269,0,0.016301126259632485,1,4,11,46,0.43,7,http://www.wikidata.org/prop/direct/P527,Location-based service,has part,Database,
+8,10,3374,3356,3269,0,0.016301126259632485,1,4,11,46,0.53,1,http://www.wikidata.org/prop/direct/P1344,Netherlands,participant of,24 Hours of Le Mans,
+8,10,3374,3356,3269,0,0.016301126259632485,1,4,11,46,0.53,1,http://www.wikidata.org/prop/direct/P1344,Netherlands,participant of,348,
+8,10,3374,3356,3269,0,0.016301126259632485,1,4,23,46,0.43,0,http://www.wikidata.org/prop/direct/P1344,Motorsport,participant of,Philippines,
+8,10,3374,3356,3269,0,0.016301126259632485,1,4,23,46,0.43,0,http://www.wikidata.org/prop/direct/P527,Open Database License,has part,Mozilla Corporation,
+8,10,3374,3356,3269,0,0.016301126259632485,1,4,3,46,0.47,0,http://www.wikidata.org/prop/direct/P527,yes,has part,HTTP location,
+8,10,3374,3356,3269,0,0.016301126259632485,1,4,54,46,0.42,1,http://www.wikidata.org/prop/direct/P527,public domain,has part,Internet Relay Chat services,
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,11,33,0.47,14,http://www.wikidata.org/prop/direct/P527,Proprietary,has part,Database,
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,11,33,0.47,14,http://www.wikidata.org/prop/direct/P527,Proprietary,has part,Database
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,11,33,0.53,2,http://www.wikidata.org/prop/direct/P527,13414640000,has part,Database
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,11,33,0.58,1,http://www.wikidata.org/prop/direct/P527,13414640000,has part,Data
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,11,33,0.58,6,http://www.wikidata.org/prop/direct/P527,Proprietary,has part,Data
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,2,33,0.47,32,http://www.wikidata.org/prop/direct/P527,no,has part,Database
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,2,33,0.48,32,http://www.wikidata.org/prop/direct/P527,no,has part,Database
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,2,33,0.52,32,http://www.wikidata.org/prop/direct/P527,no,has part,Database
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,2,33,0.58,16,http://www.wikidata.org/prop/direct/P527,no,has part,Data
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,3,33,0.47,37,http://www.wikidata.org/prop/direct/P527,yes,has part,Database,
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,3,33,0.47,37,http://www.wikidata.org/prop/direct/P527,yes,has part,Database
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,3,33,0.52,37,http://www.wikidata.org/prop/direct/P527,yes,has part,Database,
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,3,33,0.52,37,http://www.wikidata.org/prop/direct/P527,yes,has part,Database
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,3,33,0.58,16,http://www.wikidata.org/prop/direct/P527,yes,has part,Data
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,6,33,0.51,5,http://www.wikidata.org/prop/direct/P527,_nomap,has part,Database
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,6,33,0.58,3,http://www.wikidata.org/prop/direct/P527,_nomap,has part,Data
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,8,33,0.47,2,http://www.wikidata.org/prop/direct/P527,22010794,has part,Database
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,8,33,0.58,1,http://www.wikidata.org/prop/direct/P527,22010794,has part,Data
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,9,33,0.47,2,http://www.wikidata.org/prop/direct/P527,598462095,has part,Database
+8,10,3374,3356,3269,0,0.016301126259632485,1,7,9,33,0.58,1,http://www.wikidata.org/prop/direct/P527,598462095,has part,Data
+8,10,3374,3356,3269,0,0.016301126259632485,3,1,33,2,0.47,9,http://www.wikidata.org/prop/direct/P1344,Pu Jun Jin,participant of,24 Hours of Le Mans,1
+8,10,3374,3356,3269,0,0.016301126259632485,3,1,33,23,0.43,1,http://www.wikidata.org/prop/direct/P527,Map (higher-order function),has part,Open Database License,
+8,10,3374,3356,3269,0,0.016301126259632485,3,1,33,3,0.47,13,http://www.wikidata.org/prop/direct/P527,Map (higher-order function),has part,no,
+8,10,3374,3356,3269,0,0.016301126259632485,3,1,33,3,0.52,13,http://www.wikidata.org/prop/direct/P527,Location-based service,has part,Internet Relay Chat services,
+8,10,3374,3356,3269,0,0.016301126259632485,4,1,46,23,0.43,0,http://www.wikidata.org/prop/direct/P527,Internet Relay Chat services,has part,Open Database License,
+8,10,3374,3356,3269,0,0.016301126259632485,4,1,46,3,0.47,15,http://www.wikidata.org/prop/direct/P527,Location-based service,has part,yes,
+8,10,3374,3356,3269,0,0.016301126259632485,4,1,46,3,0.52,15,http://www.wikidata.org/prop/direct/P527,Location-based service,has part,yes,
+8,10,3374,3356,3269,0,0.016301126259632485,4,1,46,8,0.39,0,http://www.wikidata.org/prop/direct/P527,HTTP location,has part,22010794,
+8,10,3374,3356,3269,0,0.016301126259632485,4,4,46,46,0.31,1,http://www.wikidata.org/prop/direct/P527,Internet Relay Chat services,has part,HTTP location,
+8,10,3374,3356,3269,0,0.016301126259632485,4,4,46,46,0.31,2,http://www.wikidata.org/prop/direct/P527,Location-based service,has part,HTTP location,
+8,10,3374,3356,3269,0.32096970081329346,0.016301126259632485,4,7,46,33,0.47,2,http://www.wikidata.org/prop/direct/P527,Internet Relay Chat services,has part,Database,
+8,10,3374,3356,3269,0.3314390778541565,0.016301126259632485,4,1,46,15,0.51,8,http://www.wikidata.org/prop/direct/P527,Location-based service,has part,Hypertext Transfer Protocol,
+8,10,3374,3356,3269,0.4272425174713135,0.016301126259632485,3,3,33,33,0.31,2,http://www.wikidata.org/prop/direct/P527,Hypertext Transfer Protocol,has part,Map (higher-order function),
+8,10,3374,3356,3269,0.44539082050323486,0.016301126259632485,4,1,46,15,0.51,0,http://www.wikidata.org/prop/direct/P1344,Nissan,participant of,Netherlands,
+8,10,3374,3356,3269,0.507922887802124,0.016301126259632485,1,7,15,33,0.58,9,http://www.wikidata.org/prop/direct/P527,Hypertext Transfer Protocol,has part,Data,
+8,10,3374,3356,3269,0.575615406036377,0.016301126259632485,3,7,33,33,0.47,2,http://www.wikidata.org/prop/direct/P527,22010794,has part,Database,
+8,10,3374,3356,3269,0.6057807803153992,0.016301126259632485,4,4,51,51,0.42,18,http://www.wikidata.org/prop/direct/P527,Database,has part,Data,1
+8,10,3374,3356,3269,0.6057807803153992,0.016301126259632485,6,6,70,70,0.42,18,http://www.wikidata.org/prop/direct/P527,Database,has part,Data,1
+8,10,3374,3356,3269,0.6057807803153992,0.016301126259632485,7,7,33,33,0.58,18,http://www.wikidata.org/prop/direct/P527,Database,has part,Data,1
+8,10,3374,3356,3269,0.6306906342506409,0.016301126259632485,3,3,33,33,0.31,2,http://www.wikidata.org/prop/direct/P1344,Tristan Gommendy,participant of,Nissan,
+8,10,3374,3356,3269,0.6672375798225403,0.016301126259632485,1,4,15,46,0.51,0,http://www.wikidata.org/prop/direct/P527,Hypertext Transfer Protocol,has part,HTTP location,
+9,3,268,262,258,0,0.09328358208955224,1,1,10,10,0.55,0,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,Bronze Age,
+9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.51,1,http://www.wikidata.org/prop/direct/P1080,Bronze Age,from fictional universe,The Shadows,
+9,3,268,262,258,0,0.09328358208955224,1,1,10,18,0.55,0,http://www.wikidata.org/prop/direct/P840,North American fraternity and sorority housing,narrative location,The Shadows,
+9,3,268,262,258,0,0.09328358208955224,1,1,18,11,0.41,0,http://www.wikidata.org/prop/direct/P1080,The Shadows,from fictional universe,"""She knows""",
+9,3,268,262,258,0,0.09328358208955224,1,1,5,9,0.41,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Violence,
+9,3,268,262,258,0,0.09328358208955224,1,1,6,10,0.55,1,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,Bronze Age,
+9,3,268,262,258,0,0.09328358208955224,1,1,6,18,0.42,0,http://www.wikidata.org/prop/direct/P840,"""Pain""",narrative location,The Shadows,
+9,3,268,262,258,0,0.09328358208955224,1,1,6,29,0.6,1,http://www.wikidata.org/prop/direct/P1080,"""Pain""",from fictional universe,Oz (Buffy the Vampire Slayer),
+9,3,268,262,258,0,0.09328358208955224,1,1,9,18,0.42,0,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,The Shadows,
+9,3,268,262,258,0,0.09328358208955224,1,1,9,8,0.42,0,http://www.wikidata.org/prop/direct/P840,Violence,narrative location,Vasodilation,
+9,3,268,262,258,0,0.09328358208955224,1,2,5,17,0.51,1,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Buffy the Vampire Slayer,
+9,3,268,262,258,0,0.09328358208955224,2,1,29,18,0.41,0,http://www.wikidata.org/prop/direct/P1080,Mind,from fictional universe,The Shadows,
+9,3,268,262,258,0,0.09328358208955224,2,2,17,13,0.51,0,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,House (TV series),
+9,3,268,262,258,0.13731878995895386,0.09328358208955224,2,1,13,18,0.51,0,http://www.wikidata.org/prop/direct/P1080,House (TV series),from fictional universe,Stereophonic sound,
+9,3,268,262,258,0.16579186916351318,0.09328358208955224,2,1,17,18,0.51,1,http://www.wikidata.org/prop/direct/P1080,Dormitory,from fictional universe,Stereophonic sound,
+9,3,268,262,258,0.24453753232955933,0.09328358208955224,2,2,29,13,0.51,1,http://www.wikidata.org/prop/direct/P1080,Suffering,from fictional universe,House (TV series),
+9,3,268,262,258,0.30934780836105347,0.09328358208955224,1,2,5,29,0.41,0,http://www.wikidata.org/prop/direct/P1080,Glossary of musical terminology,from fictional universe,Mind,
+9,3,268,262,258,0.3242354989051819,0.09328358208955224,1,2,10,13,0.51,1,http://www.wikidata.org/prop/direct/P1080,North American fraternity and sorority housing,from fictional universe,Buffy the Vampire Slayer,
+9,3,268,262,258,0.8514044880867004,0.09328358208955224,2,2,13,24,0.51,5,http://www.wikidata.org/prop/direct/P1080,Buffy the Vampire Slayer,from fictional universe,Buffyverse,
+9,3,268,262,258,0.8514044880867004,0.09328358208955224,2,2,24,24,0.51,5,http://www.wikidata.org/prop/direct/P840,Buffy the Vampire Slayer,narrative location,Buffyverse,1
+9,3,268,262,258,0.9843752980232239,0.09328358208955224,2,2,24,24,0.6,1,http://www.wikidata.org/prop/direct/P1080,Oz (Buffy the Vampire Slayer),from fictional universe,Buffyverse,1
+9,4,338,324,320,0,0.08579881656804733,1,1,4,17,0.49,2,http://www.wikidata.org/prop/direct/P131,1740,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,4,17,0.49,2,http://www.wikidata.org/prop/direct/P131,4022,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,4,17,0.49,2,http://www.wikidata.org/prop/direct/P131,قارة,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,5,17,0.49,2,http://www.wikidata.org/prop/direct/P131,10984,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,5,17,0.49,2,http://www.wikidata.org/prop/direct/P131,12508,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,7,17,0.49,2,http://www.wikidata.org/prop/direct/P131,الحميرة,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,8,17,0.49,2,http://www.wikidata.org/prop/direct/P131,الجراجير,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,1,8,17,0.49,2,http://www.wikidata.org/prop/direct/P131,دير عطية,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,1,http://www.wikidata.org/prop/direct/P131,1740,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,1,http://www.wikidata.org/prop/direct/P131,4022,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,1,http://www.wikidata.org/prop/direct/P131,قارة,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,2,http://www.wikidata.org/prop/direct/P131,1740,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,2,http://www.wikidata.org/prop/direct/P131,4022,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,4,31,0.49,2,http://www.wikidata.org/prop/direct/P131,قارة,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,1,http://www.wikidata.org/prop/direct/P131,10984,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,1,http://www.wikidata.org/prop/direct/P131,12508,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,2,http://www.wikidata.org/prop/direct/P131,10984,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,5,31,0.49,2,http://www.wikidata.org/prop/direct/P131,12508,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,7,31,0.49,1,http://www.wikidata.org/prop/direct/P131,الحميرة,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,7,31,0.49,2,http://www.wikidata.org/prop/direct/P131,الحميرة,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,1,http://www.wikidata.org/prop/direct/P131,الجراجير,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,1,http://www.wikidata.org/prop/direct/P131,دير عطية,located in the administrative territorial entity,Al-Nabek
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,2,http://www.wikidata.org/prop/direct/P131,الجراجير,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0,0.08579881656804733,1,2,8,31,0.49,2,http://www.wikidata.org/prop/direct/P131,دير عطية,located in the administrative territorial entity,An-Nabek District
+9,4,338,324,320,0.9869377613067627,0.08579881656804733,2,2,31,31,0.46,14,http://www.wikidata.org/prop/direct/P131,Al-Nabek,located in the administrative territorial entity,An-Nabek District,1
+9,6,522,521,520,0,0.04789272030651341,1,1,12,14,0.52,2,http://www.wikidata.org/prop/direct/P31,1964,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,12,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1964,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,13,14,0.52,1,http://www.wikidata.org/prop/direct/P31,1965,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,13,14,0.52,2,http://www.wikidata.org/prop/direct/P31,1962,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,13,14,0.52,2,http://www.wikidata.org/prop/direct/P31,1966,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,13,15,0.53,1,http://www.wikidata.org/prop/direct/P31,1965,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,13,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1962,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,13,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1966,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,14,14,0.52,2,http://www.wikidata.org/prop/direct/P31,1964,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,14,14,0.53,1,http://www.wikidata.org/prop/direct/P31,Uda-class oiler,instance of,Ship class,1
+9,6,522,521,520,0,0.04789272030651341,1,1,14,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1964,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,23,14,0.52,1,http://www.wikidata.org/prop/direct/P31,1996,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,23,15,0.53,1,http://www.wikidata.org/prop/direct/P31,1996,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,4,14,0.52,1,http://www.wikidata.org/prop/direct/P31,1963,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,4,15,0.53,1,http://www.wikidata.org/prop/direct/P31,1963,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,7,14,0.52,1,http://www.wikidata.org/prop/direct/P31,751,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,7,14,0.52,1,http://www.wikidata.org/prop/direct/P31,755,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,7,15,0.53,1,http://www.wikidata.org/prop/direct/P31,751,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,7,15,0.53,1,http://www.wikidata.org/prop/direct/P31,755,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,9,14,0.52,1,http://www.wikidata.org/prop/direct/P31,1967,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,9,14,0.52,25,http://www.wikidata.org/prop/direct/P31,not known,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,9,14,0.52,2,http://www.wikidata.org/prop/direct/P31,1962,instance of,Ship class
+9,6,522,521,520,0,0.04789272030651341,1,1,9,15,0.53,1,http://www.wikidata.org/prop/direct/P31,1967,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,9,15,0.53,25,http://www.wikidata.org/prop/direct/P31,not known,instance of,Uda-class oiler
+9,6,522,521,520,0,0.04789272030651341,1,1,9,15,0.53,2,http://www.wikidata.org/prop/direct/P31,1962,instance of,Uda-class oiler
